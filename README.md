@@ -1,9 +1,9 @@
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+[![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
 ## Updated on 2024.07.10
+
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,4 +20,3 @@
 [stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
-

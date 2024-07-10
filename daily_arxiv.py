@@ -3,16 +3,17 @@ import re
 import json
 import arxiv
 import yaml
-import logging
 import argparse
 import datetime
 import requests
 
-logging.basicConfig(
-    format="[%(asctime)s %(levelname)s] %(message)s",
-    datefmt="%m/%d/%Y %H:%M:%S",
-    level=logging.INFO,
-)
+from loguru import logger as logging
+
+# logging.basicConfig(
+#     format="[%(asctime)s %(levelname)s] %(message)s",
+#     datefmt="%m/%d/%Y %H:%M:%S",
+#     level=logging.INFO,
+# )
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
