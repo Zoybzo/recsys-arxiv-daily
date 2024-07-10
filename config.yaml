@@ -26,5 +26,5 @@ keywords:
         filters: ["recsys", "personalized", "multi-modal"]
     "LLM":
         filters: ["llm", "large language model", "finetuning", "pretrained"]
-    "Image Genration"
+    "Image Genration":
         filters: ["image", "generation", "personalized"]
