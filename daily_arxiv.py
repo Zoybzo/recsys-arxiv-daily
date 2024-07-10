@@ -100,12 +100,12 @@ def get_daily_papers(topic, query="slam", max_results=2):
     # output
     content = dict()
     content_to_web = dict()
+    client = arxiv.Client()
     search_engine = arxiv.Search(
         query=query, max_results=max_results, sort_by=arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
-
+    for result in client.results(search_engine):
         paper_id = result.get_short_id()
         paper_title = result.title
         paper_url = result.entry_id

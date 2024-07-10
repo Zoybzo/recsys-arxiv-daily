@@ -27,4 +27,4 @@ keywords:
     "LLM":
         filters: ["llm", "large language model", "finetuning", "pretrained"]
     "Image Genration":
-        filters: ["image generation", "personalized"]
+        filters: ["image generation", "text to image", "image to image"]
