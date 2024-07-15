@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.14
+## Updated on 2024.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RecSys
@@ -24,7 +24,7 @@ layout: default
 |**2024-07-11**|**Authenticity and exclusion: social media recommendation algorithms and the dynamics of belonging in professional networks**|Nil-Jana Akpinar et.al.|[2407.08552](http://arxiv.org/abs/2407.08552)|null|
 |**2024-07-11**|**On the (In)Security of LLM App Stores**|Xinyi Hou et.al.|[2407.08422](http://arxiv.org/abs/2407.08422)|null|
 |**2024-07-11**|**FedLog: Personalized Federated Classification with Less Communication and More Flexibility**|Haolin Yu et.al.|[2407.08337](http://arxiv.org/abs/2407.08337)|null|
-|**2024-07-11**|**ADMM Based Semi-Structured Pattern Pruning Framework For Transformer**|TianChen Wang et.al.|[2407.08334](http://arxiv.org/abs/2407.08334)|null|
+|**2024-07-12**|**ADMM Based Semi-Structured Pattern Pruning Framework For Transformer**|TianChen Wang et.al.|[2407.08334](http://arxiv.org/abs/2407.08334)|null|
 |**2024-07-11**|**Leveraging LLMs to Predict Affective States via Smartphone Sensor Features**|Tianyi Zhang et.al.|[2407.08240](http://arxiv.org/abs/2407.08240)|null|
 |**2024-07-11**|**Enhancing Performance and User Engagement in Everyday Stress Monitoring: A Context-Aware Active Reinforcement Learning Approach**|Seyed Amir Hossein Aqajari et.al.|[2407.08215](http://arxiv.org/abs/2407.08215)|null|
 |**2024-07-11**|**Explicit_NeRF_QA: A Quality Assessment Database for Explicit NeRF Model Compression**|Yuke Xing et.al.|[2407.08165](http://arxiv.org/abs/2407.08165)|null|

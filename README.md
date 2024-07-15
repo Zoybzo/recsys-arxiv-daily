@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.14
+## Updated on 2024.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2024-07-11**|**Authenticity and exclusion: social media recommendation algorithms and the dynamics of belonging in professional networks**|Nil-Jana Akpinar et.al.|[2407.08552](http://arxiv.org/abs/2407.08552)|null|
 |**2024-07-11**|**On the (In)Security of LLM App Stores**|Xinyi Hou et.al.|[2407.08422](http://arxiv.org/abs/2407.08422)|null|
 |**2024-07-11**|**FedLog: Personalized Federated Classification with Less Communication and More Flexibility**|Haolin Yu et.al.|[2407.08337](http://arxiv.org/abs/2407.08337)|null|
-|**2024-07-11**|**ADMM Based Semi-Structured Pattern Pruning Framework For Transformer**|TianChen Wang et.al.|[2407.08334](http://arxiv.org/abs/2407.08334)|null|
+|**2024-07-12**|**ADMM Based Semi-Structured Pattern Pruning Framework For Transformer**|TianChen Wang et.al.|[2407.08334](http://arxiv.org/abs/2407.08334)|null|
 |**2024-07-11**|**Leveraging LLMs to Predict Affective States via Smartphone Sensor Features**|Tianyi Zhang et.al.|[2407.08240](http://arxiv.org/abs/2407.08240)|null|
 |**2024-07-11**|**Enhancing Performance and User Engagement in Everyday Stress Monitoring: A Context-Aware Active Reinforcement Learning Approach**|Seyed Amir Hossein Aqajari et.al.|[2407.08215](http://arxiv.org/abs/2407.08215)|null|
 |**2024-07-11**|**Explicit_NeRF_QA: A Quality Assessment Database for Explicit NeRF Model Compression**|Yuke Xing et.al.|[2407.08165](http://arxiv.org/abs/2407.08165)|null|
@@ -72,7 +72,7 @@
 |**2024-07-08**|**CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation**|Xinying Guo et.al.|[2407.06188](http://arxiv.org/abs/2407.06188)|null|
 |**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187](http://arxiv.org/abs/2407.06187)|null|
 
-<p align=right>(<a href=#updated-on-20240714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240715>back to top</a>)</p>
 
 ## LLM
 
@@ -139,7 +139,7 @@
 |**2024-07-09**|**Who is better at math, Jenny or Jingzhen? Uncovering Stereotypes in Large Language Models**|Zara Siddique et.al.|[2407.06917](http://arxiv.org/abs/2407.06917)|null|
 |**2024-07-09**|**Fine-grained large-scale content recommendations for MSX sellers**|Manpreet Singh et.al.|[2407.06910](http://arxiv.org/abs/2407.06910)|null|
 
-<p align=right>(<a href=#updated-on-20240714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240715>back to top</a>)</p>
 
 ## Image Genration
 
@@ -182,7 +182,7 @@
 |**2024-07-07**|**Topological Persistence Guided Knowledge Distillation for Wearable Sensor Data**|Eun Som Jeon et.al.|[2407.05315](http://arxiv.org/abs/2407.05315)|null|
 |**2024-07-07**|**An Improved Method for Personalizing Diffusion Models**|Yan Zeng et.al.|[2407.05312](http://arxiv.org/abs/2407.05312)|null|
 
-<p align=right>(<a href=#updated-on-20240714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240715>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
