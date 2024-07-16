@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**SEMINAR: Search Enhanced Multi-modal Interest Network and Approximate Retrieval for Lifelong Sequential Recommendation**|Kaiming Shen et.al.|[2407.10714](http://arxiv.org/abs/2407.10714)|null|
+|**2024-07-15**|**Features Reconstruction Disentanglement Cloth-Changing Person Re-Identification**|Zhihao Chen et.al.|[2407.10694](http://arxiv.org/abs/2407.10694)|null|
+|**2024-07-15**|**WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models**|Zijian He et.al.|[2407.10625](http://arxiv.org/abs/2407.10625)|null|
+|**2024-07-15**|**The Medium is the Message: How Secure Messaging Apps Leak Sensitive Data to Push Notification Services**|Nikita Samarin et.al.|[2407.10589](http://arxiv.org/abs/2407.10589)|null|
+|**2024-07-15**|**COSMU: Complete 3D human shape from monocular unconstrained images**|Marco Pesavento et.al.|[2407.10586](http://arxiv.org/abs/2407.10586)|null|
+|**2024-07-15**|**Learning Social Cost Functions for Human-Aware Path Planning**|Andrea Eirale et.al.|[2407.10547](http://arxiv.org/abs/2407.10547)|**[link](https://github.com/pic4ser/socialcostfunction)**|
+|**2024-07-15**|**Efficient Continual Learning with Low Memory Footprint For Edge Device**|Zeqing Wang et.al.|[2407.10545](http://arxiv.org/abs/2407.10545)|null|
+|**2024-07-15**|**Lite2Relight: 3D-aware Single Image Portrait Relighting**|Pramod Rao et.al.|[2407.10487](http://arxiv.org/abs/2407.10487)|null|
+|**2024-07-15**|**IDEAL: Leveraging Infinite and Dynamic Characterizations of Large Language Models for Query-focused Summarization**|Jie Cao et.al.|[2407.10486](http://arxiv.org/abs/2407.10486)|null|
+|**2024-07-14**|**Beyond Meditation: Understanding Everyday Mindfulness Practices and Technology Use Among Experienced Practitioners**|Jingjin Li et.al.|[2407.10334](http://arxiv.org/abs/2407.10334)|null|
+|**2024-07-14**|**Ontology-driven Reinforcement Learning for Personalized Student Support**|Ryan Hare et.al.|[2407.10332](http://arxiv.org/abs/2407.10332)|null|
+|**2024-07-14**|**Disrupting Diffusion-based Inpainters with Semantic Digression**|Geonho Son et.al.|[2407.10277](http://arxiv.org/abs/2407.10277)|null|
+|**2024-07-14**|**When Pedestrian Detection Meets Multi-Modal Learning: Generalist Model and Benchmark Dataset**|Yi Zhang et.al.|[2407.10125](http://arxiv.org/abs/2407.10125)|null|
+|**2024-07-14**|**Work-From-Home and Privacy: What Do Workers Face and What are They Doing About it?**|Eman Alashwali et.al.|[2407.10094](http://arxiv.org/abs/2407.10094)|null|
+|**2024-07-14**|**All Roads Lead to Rome: Unveiling the Trajectory of Recommender Systems Across the LLM Era**|Bo Chen et.al.|[2407.10081](http://arxiv.org/abs/2407.10081)|null|
+|**2024-07-14**|**Semantic Understanding and Data Imputation using Large Language Model to Accelerate Recommendation System**|Zhicheng Ding et.al.|[2407.10078](http://arxiv.org/abs/2407.10078)|null|
+|**2024-07-14**|**Learning to Refuse: Towards Mitigating Privacy Risks in LLMs**|Zhenhua Liu et.al.|[2407.10058](http://arxiv.org/abs/2407.10058)|**[link](https://github.com/zhliu0106/learning-to-refuse)**|
+|**2024-07-14**|**Personal Reminiscences of Steven Weinberg**|Fernando Quevedo et.al.|[2407.10033](http://arxiv.org/abs/2407.10033)|null|
+|**2024-07-13**|**Learning Online Scale Transformation for Talking Head Video Generation**|Fa-Ting Hong et.al.|[2407.09965](http://arxiv.org/abs/2407.09965)|null|
+|**2024-07-13**|**Region-aware Image-based Human Action Retrieval with Transformers**|Hongsong Wang et.al.|[2407.09924](http://arxiv.org/abs/2407.09924)|null|
 |**2024-07-12**|**FairyLandAI: Personalized Fairy Tales utilizing ChatGPT and DALLE-3**|Georgios Makridis et.al.|[2407.09467](http://arxiv.org/abs/2407.09467)|null|
 |**2024-07-12**|**PersonaRAG: Enhancing Retrieval-Augmented Generation Systems with User-Centric Agents**|Saber Zerhoudi et.al.|[2407.09394](http://arxiv.org/abs/2407.09394)|null|
 |**2024-07-12**|**FastImpute: A Baseline for Open-source, Reference-Free Genotype Imputation Methods -- A Case Study in PRS313**|Aaron Ge et.al.|[2407.09355](http://arxiv.org/abs/2407.09355)|**[link](https://github.com/aaronge-2020/deepimpute)**|
@@ -86,6 +106,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**VGBench: Evaluating Large Language Models on Vector Graphics Understanding and Generation**|Bocheng Zou et.al.|[2407.10972](http://arxiv.org/abs/2407.10972)|**[link](https://github.com/vgbench/VGBench)**|
+|**2024-07-15**|**Q-Sparse: All Large Language Models can be Fully Sparsely-Activated**|Hongyu Wang et.al.|[2407.10969](http://arxiv.org/abs/2407.10969)|null|
+|**2024-07-15**|**No Train, all Gain: Self-Supervised Gradients Improve Deep Frozen Representations**|Walter Simoncini et.al.|[2407.10964](http://arxiv.org/abs/2407.10964)|**[link](https://github.com/waltersimoncini/fungivision)**|
+|**2024-07-15**|**Fast Matrix Multiplications for Lookup Table-Quantized LLMs**|Han Guo et.al.|[2407.10960](http://arxiv.org/abs/2407.10960)|null|
+|**2024-07-15**|**Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?**|Ruisheng Cao et.al.|[2407.10956](http://arxiv.org/abs/2407.10956)|**[link](https://github.com/xlang-ai/spider2-v)**|
+|**2024-07-15**|**MMM: Multilingual Mutual Reinforcement Effect Mix Datasets & Test with Open-domain Information Extraction Large Language Models**|Chengguang Gan et.al.|[2407.10953](http://arxiv.org/abs/2407.10953)|null|
+|**2024-07-15**|**Can Textual Semantics Mitigate Sounding Object Segmentation Preference?**|Yaoting Wang et.al.|[2407.10947](http://arxiv.org/abs/2407.10947)|**[link](https://github.com/gewu-lab/sounding-object-segmentation-preference)**|
+|**2024-07-15**|**GRUtopia: Dream General Robots in a City at Scale**|Hanqing Wang et.al.|[2407.10943](http://arxiv.org/abs/2407.10943)|**[link](https://github.com/openrobotlab/grutopia)**|
+|**2024-07-15**|**STARS: Self-supervised Tuning for 3D Action Recognition in Skeleton Sequences**|Soroush Mehraban et.al.|[2407.10935](http://arxiv.org/abs/2407.10935)|null|
+|**2024-07-15**|**In-Loop Filtering via Trained Look-Up Tables**|Zhuoyuan Li et.al.|[2407.10926](http://arxiv.org/abs/2407.10926)|null|
+|**2024-07-15**|**FinDKG: Dynamic Knowledge Graphs with Large Language Models for Detecting Global Trends in Financial Markets**|Xiaohui Victor Li et.al.|[2407.10909](http://arxiv.org/abs/2407.10909)|null|
+|**2024-07-15**|**Leveraging LLM-Respondents for Item Evaluation: a Psychometric Analysis**|Yunting Liu et.al.|[2407.10899](http://arxiv.org/abs/2407.10899)|null|
+|**2024-07-15**|**Hey, That's My Model! Introducing Chain & Hash, An LLM Fingerprinting Technique**|Mark Russinovich et.al.|[2407.10887](http://arxiv.org/abs/2407.10887)|null|
+|**2024-07-15**|**SLIP: Securing LLMs IP Using Weights Decomposition**|Yehonathan Refael et.al.|[2407.10886](http://arxiv.org/abs/2407.10886)|null|
+|**2024-07-15**|**Understanding the Importance of Evolutionary Search in Automated Heuristic Design with Large Language Models**|Rui Zhang et.al.|[2407.10873](http://arxiv.org/abs/2407.10873)|null|
+|**2024-07-15**|**Weighted Grouped Query Attention in Transformers**|Sai Sena Chinnakonduru et.al.|[2407.10855](http://arxiv.org/abs/2407.10855)|null|
+|**2024-07-15**|**An Actionable Framework for Assessing Bias and Fairness in Large Language Model Use Cases**|Dylan Bouchard et.al.|[2407.10853](http://arxiv.org/abs/2407.10853)|null|
+|**2024-07-15**|**MetaLLM: A High-performant and Cost-efficient Dynamic Framework for Wrapping LLMs**|Quang H. Nguyen et.al.|[2407.10834](http://arxiv.org/abs/2407.10834)|null|
+|**2024-07-15**|**BiasScanner: Automatic Detection and Classification of News Bias to Strengthen Democracy**|Tim Menzner et.al.|[2407.10829](http://arxiv.org/abs/2407.10829)|null|
+|**2024-07-15**|**LLM Circuit Analyses Are Consistent Across Training and Scale**|Curt Tigges et.al.|[2407.10827](http://arxiv.org/abs/2407.10827)|null|
 |**2024-07-12**|**StyleSplat: 3D Object Style Transfer with Gaussian Splatting**|Sahil Jain et.al.|[2407.09473](http://arxiv.org/abs/2407.09473)|null|
 |**2024-07-12**|**FairyLandAI: Personalized Fairy Tales utilizing ChatGPT and DALLE-3**|Georgios Makridis et.al.|[2407.09467](http://arxiv.org/abs/2407.09467)|null|
 |**2024-07-12**|**Human-like Episodic Memory for Infinite Context LLMs**|Zafeirios Fountas et.al.|[2407.09450](http://arxiv.org/abs/2407.09450)|null|
@@ -171,6 +211,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models**|Nirat Saini et.al.|[2407.10958](http://arxiv.org/abs/2407.10958)|null|
+|**2024-07-15**|**OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting**|Penglei Gao et.al.|[2407.10923](http://arxiv.org/abs/2407.10923)|null|
+|**2024-07-15**|**DataDream: Few-shot Guided Dataset Generation**|Jae Myung Kim et.al.|[2407.10910](http://arxiv.org/abs/2407.10910)|**[link](https://github.com/explainableml/datadream)**|
+|**2024-07-15**|**Optical Diffusion Models for Image Generation**|Ilker Oguz et.al.|[2407.10897](http://arxiv.org/abs/2407.10897)|null|
+|**2024-07-15**|**Physics-Inspired Generative Models in Medical Imaging: A Review**|Dennis Hein et.al.|[2407.10856](http://arxiv.org/abs/2407.10856)|null|
+|**2024-07-15**|**An Autonomous Drone Swarm for Detecting and Tracking Anomalies among Dense Vegetation**|Rakesh John Amala Arokia Nathan et.al.|[2407.10754](http://arxiv.org/abs/2407.10754)|null|
+|**2024-07-15**|**AccDiffusion: An Accurate Method for Higher-Resolution Image Generation**|Zhihang Lin et.al.|[2407.10738](http://arxiv.org/abs/2407.10738)|**[link](https://github.com/lzhxmu/accdiffusion)**|
+|**2024-07-15**|**When Synthetic Traces Hide Real Content: Analysis of Stable Diffusion Image Laundering**|Sara Mandelli et.al.|[2407.10736](http://arxiv.org/abs/2407.10736)|null|
+|**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683](http://arxiv.org/abs/2407.10683)|null|
+|**2024-07-15**|**Spatio-temporal neural distance fields for conditional generative modeling of the heart**|Kristine Sørensen et.al.|[2407.10663](http://arxiv.org/abs/2407.10663)|**[link](https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model)**|
+|**2024-07-15**|**LIP-CAR: contrast agent reduction by a deep learned inverse problem**|Davide Bianchi et.al.|[2407.10559](http://arxiv.org/abs/2407.10559)|null|
+|**2024-07-15**|**Backdoor Attacks against Image-to-Image Networks**|Wenbo Jiang et.al.|[2407.10445](http://arxiv.org/abs/2407.10445)|null|
+|**2024-07-15**|**Melon Fruit Detection and Quality Assessment Using Generative AI-Based Image Data Augmentation**|Seungri Yoon et.al.|[2407.10413](http://arxiv.org/abs/2407.10413)|null|
+|**2024-07-14**|**Addressing Class Imbalance and Data Limitations in Advanced Node Semiconductor Defect Inspection: A Generative Approach for SEM Images**|Bappaditya Dey et.al.|[2407.10348](http://arxiv.org/abs/2407.10348)|null|
+|**2024-07-14**|**Disrupting Diffusion-based Inpainters with Semantic Digression**|Geonho Son et.al.|[2407.10277](http://arxiv.org/abs/2407.10277)|null|
+|**2024-07-14**|**What Appears Appealing May Not be Significant! -- A Clinical Perspective of Diffusion Models**|Vanshali Sharma et.al.|[2407.10029](http://arxiv.org/abs/2407.10029)|null|
+|**2024-07-13**|**Zero-Shot Image Compression with Diffusion-Based Posterior Sampling**|Noam Elata et.al.|[2407.09896](http://arxiv.org/abs/2407.09896)|null|
+|**2024-07-13**|**Layout-and-Retouch: A Dual-stage Framework for Improving Diversity in Personalized Image Generation**|Kangyeol Kim et.al.|[2407.09779](http://arxiv.org/abs/2407.09779)|null|
+|**2024-07-13**|**TemporalStory: Enhancing Consistency in Story Visualization using Spatial-Temporal Attention**|Sixiao Zheng et.al.|[2407.09774](http://arxiv.org/abs/2407.09774)|null|
 |**2024-07-12**|**FairyLandAI: Personalized Fairy Tales utilizing ChatGPT and DALLE-3**|Georgios Makridis et.al.|[2407.09467](http://arxiv.org/abs/2407.09467)|null|
 |**2024-07-12**|**PID: Physics-Informed Diffusion Model for Infrared Image Generation**|Fangyuan Mao et.al.|[2407.09299](http://arxiv.org/abs/2407.09299)|**[link](https://github.com/fangyuanmao/pid)**|
 |**2024-07-12**|**Surgical Text-to-Image Generation**|Chinedu Innocent Nwoye et.al.|[2407.09230](http://arxiv.org/abs/2407.09230)|null|
