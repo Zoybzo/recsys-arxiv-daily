@@ -19,6 +19,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Breaking the Global North Stereotype: A Global South-centric Benchmark Dataset for Auditing and Mitigating Biases in Facial Recognition Systems**|Siddharth D Jaiswal et.al.|[2407.15810](http://arxiv.org/abs/2407.15810)|null|
+|**2024-07-22**|**A Real-Time Suite of Biological Cell Image Analysis Software for Computers, Smartphones, and Smart Glasses, Suitable for Resource-Constrained Computing**|Alexandre Matov et.al.|[2407.15735](http://arxiv.org/abs/2407.15735)|null|
+|**2024-07-22**|**CrashEventLLM: Predicting System Crashes with Large Language Models**|Priyanka Mudgal et.al.|[2407.15716](http://arxiv.org/abs/2407.15716)|null|
+|**2024-07-22**|**Personalization of Dataset Retrieval Results using a Metadata-based Data Valuation Method**|Malick Ebiele et.al.|[2407.15546](http://arxiv.org/abs/2407.15546)|null|
+|**2024-07-22**|**TOM: A Development Platform For Wearable Intelligent Assistants**|Nuwan Janaka et.al.|[2407.15523](http://arxiv.org/abs/2407.15523)|null|
+|**2024-07-22**|**The Diversity Bonus: Learning from Dissimilar Distributed Clients in Personalized Federated Learning**|Xinghao Wu et.al.|[2407.15464](http://arxiv.org/abs/2407.15464)|null|
+|**2024-07-22**|**Domain-Adaptive 2D Human Pose Estimation via Dual Teachers in Extremely Low-Light Conditions**|Yihao Ai et.al.|[2407.15451](http://arxiv.org/abs/2407.15451)|null|
+|**2024-07-22**|**Text2Place: Affordance-aware Text Guided Human Placement**|Rishubh Parihar et.al.|[2407.15446](http://arxiv.org/abs/2407.15446)|null|
+|**2024-07-22**|**A Solution toward Transparent and Practical AI Regulation: Privacy Nutrition Labels for Open-source Generative AI-based Applications**|Meixue Si et.al.|[2407.15407](http://arxiv.org/abs/2407.15407)|null|
+|**2024-07-22**|**avaTTAR: Table Tennis Stroke Training with On-body and Detached Visualization in Augmented Reality**|Dizhi Ma et.al.|[2407.15373](http://arxiv.org/abs/2407.15373)|null|
+|**2024-07-22**|**Robust personalized pricing under uncertainty of purchase probabilities**|Shunnosuke Ikeda et.al.|[2407.15332](http://arxiv.org/abs/2407.15332)|null|
+|**2024-07-22**|**Intelligence Preschool Education System based on Multimodal Interaction Systems and AI**|Long Xu et.al.|[2407.15326](http://arxiv.org/abs/2407.15326)|null|
+|**2024-07-21**|**VideoGameBunny: Towards vision assistants for video games**|Mohammad Reza Taesiri et.al.|[2407.15295](http://arxiv.org/abs/2407.15295)|null|
+|**2024-07-21**|**An Adaptive System for Wearable Devices to Detect Stress Using Physiological Signals**|Gelei Xu et.al.|[2407.15252](http://arxiv.org/abs/2407.15252)|null|
+|**2024-07-21**|**The dark side of the metaverse: The role of gamification in event virtualization**|Carlos Flavian et.al.|[2407.15125](http://arxiv.org/abs/2407.15125)|null|
+|**2024-07-20**|**Addressing Data Heterogeneity in Federated Learning of Cox Proportional Hazards Models**|Navid Seidi et.al.|[2407.14960](http://arxiv.org/abs/2407.14960)|null|
+|**2024-07-20**|**From Ad Identifiers to Global Privacy Control: The Status Quo and Future of Opting Out of Ad Tracking on Android**|Sebastian Zimmeck et.al.|[2407.14938](http://arxiv.org/abs/2407.14938)|null|
+|**2024-07-20**|**Strategic Coupon Allocation for Increasing Providers' Sales Experiences in Two-sided Marketplaces**|Koya Ohashi et.al.|[2407.14895](http://arxiv.org/abs/2407.14895)|null|
+|**2024-07-19**|**Large-Area Emergency Lockdowns with Automated Driving Systems**|Noah Goodall et.al.|[2407.14683](http://arxiv.org/abs/2407.14683)|null|
 |**2024-07-19**|**AudioInsight: Detecting Social Contexts Relevant to Social Anxiety from Speech**|Varun Reddy et.al.|[2407.14458](http://arxiv.org/abs/2407.14458)|null|
 |**2024-07-19**|**From Instruction to Insight: Exploring the Functional and Semantic Roles of Text in Interactive Dashboards**|Nicole Sultanum et.al.|[2407.14451](http://arxiv.org/abs/2407.14451)|null|
 |**2024-07-19**|**The time-space evolution of economic activities: theory and estimation**|Davide Fiaschi et.al.|[2407.14267](http://arxiv.org/abs/2407.14267)|null|
@@ -171,6 +190,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**AutoAD-Zero: A Training-Free Framework for Zero-Shot Audio Description**|Junyu Xie et.al.|[2407.15850](http://arxiv.org/abs/2407.15850)|**[link](https://github.com/Jyxarthur/AutoAD-Zero)**|
+|**2024-07-22**|**LLMmap: Fingerprinting For Large Language Models**|Dario Pasquini et.al.|[2407.15847](http://arxiv.org/abs/2407.15847)|null|
+|**2024-07-22**|**Artist: Aesthetically Controllable Text-Driven Stylization without Training**|Ruixiang Jiang et.al.|[2407.15842](http://arxiv.org/abs/2407.15842)|null|
+|**2024-07-22**|**SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models**|Mingze Xu et.al.|[2407.15841](http://arxiv.org/abs/2407.15841)|null|
+|**2024-07-22**|**MMInstruct: A High-Quality Multi-Modal Instruction Tuning Dataset with Extensive Diversity**|Yangzhou Liu et.al.|[2407.15838](http://arxiv.org/abs/2407.15838)|null|
+|**2024-07-22**|**dMel: Speech Tokenization made Simple**|He Bai et.al.|[2407.15835](http://arxiv.org/abs/2407.15835)|null|
+|**2024-07-22**|**Accelerating Pre-training of Multimodal LLMs via Chain-of-Sight**|Ziyuan Huang et.al.|[2407.15819](http://arxiv.org/abs/2407.15819)|null|
+|**2024-07-22**|**FSboard: Over 3 million characters of ASL fingerspelling collected via smartphones**|Manfred Georg et.al.|[2407.15806](http://arxiv.org/abs/2407.15806)|null|
+|**2024-07-22**|**Extracting Structured Insights from Financial News: An Augmented LLM Driven Approach**|Rian Dolphin et.al.|[2407.15788](http://arxiv.org/abs/2407.15788)|null|
+|**2024-07-22**|**Conditioned Language Policy: A General Framework for Steerable Multi-Objective Finetuning**|Kaiwen Wang et.al.|[2407.15762](http://arxiv.org/abs/2407.15762)|null|
+|**2024-07-22**|**Model editing for distribution shifts in uranium oxide morphological analysis**|Davis Brown et.al.|[2407.15756](http://arxiv.org/abs/2407.15756)|null|
+|**2024-07-22**|**MoRSE: Bridging the Gap in Cybersecurity Expertise with Retrieval Augmented Generation**|Marco Simoni et.al.|[2407.15748](http://arxiv.org/abs/2407.15748)|null|
+|**2024-07-22**|**OMoS-QA: A Dataset for Cross-Lingual Extractive Question Answering in a German Migration Context**|Steffen Kleinle et.al.|[2407.15736](http://arxiv.org/abs/2407.15736)|null|
+|**2024-07-22**|**TaskGen: A Task-Based, Memory-Infused Agentic Framework using StrictJSON**|John Chong Min Tan et.al.|[2407.15734](http://arxiv.org/abs/2407.15734)|null|
+|**2024-07-22**|**DStruct2Design: Data and Benchmarks for Data Structure Driven Generative Floor Plan Design**|Zhi Hao Luo et.al.|[2407.15723](http://arxiv.org/abs/2407.15723)|**[link](https://github.com/plstory/ds2d)**|
+|**2024-07-22**|**Do Large Language Models Have Compositional Ability? An Investigation into Limitations and Scalability**|Zhuoyan Xu et.al.|[2407.15720](http://arxiv.org/abs/2407.15720)|**[link](https://github.com/oliverxuzy/llm_compose)**|
+|**2024-07-22**|**CrashEventLLM: Predicting System Crashes with Large Language Models**|Priyanka Mudgal et.al.|[2407.15716](http://arxiv.org/abs/2407.15716)|null|
+|**2024-07-22**|**Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2407.15706](http://arxiv.org/abs/2407.15706)|**[link](https://github.com/liujf69/MMCL-Action)**|
+|**2024-07-22**|**Supporting the Digital Autonomy of Elders Through LLM Assistance**|Jesse Roberts et.al.|[2407.15695](http://arxiv.org/abs/2407.15695)|null|
+|**2024-07-22**|**Counter Turing Test ( $CT^2$): Investigating AI-Generated Text Detection for Hindi -- Ranking LLMs based on Hindi AI Detectability Index ($ADI_{hi}$ )**|Ishan Kavathekar et.al.|[2407.15694](http://arxiv.org/abs/2407.15694)|null|
 |**2024-07-19**|**Internal Consistency and Self-Feedback in Large Language Models: A Survey**|Xun Liang et.al.|[2407.14507](http://arxiv.org/abs/2407.14507)|**[link](https://github.com/iaar-shanghai/icsfsurvey)**|
 |**2024-07-19**|**On Pre-training of Multimodal Language Models Customized for Chart Understanding**|Wan-Cyuan Fan et.al.|[2407.14506](http://arxiv.org/abs/2407.14506)|null|
 |**2024-07-19**|**Evaluating the Reliability of Self-Explanations in Large Language Models**|Korbinian Randl et.al.|[2407.14487](http://arxiv.org/abs/2407.14487)|**[link](https://github.com/k-randl/self-explaining_llms)**|
@@ -358,6 +397,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget**|Vikash Sehwag et.al.|[2407.15811](http://arxiv.org/abs/2407.15811)|null|
+|**2024-07-22**|**DStruct2Design: Data and Benchmarks for Data Structure Driven Generative Floor Plan Design**|Zhi Hao Luo et.al.|[2407.15723](http://arxiv.org/abs/2407.15723)|**[link](https://github.com/plstory/ds2d)**|
+|**2024-07-22**|**SpotDiffusion: A Fast Approach For Seamless Panorama Generation Over Time**|Stanislav Frolov et.al.|[2407.15507](http://arxiv.org/abs/2407.15507)|null|
+|**2024-07-22**|**TextureCrop: Enhancing Synthetic Image Detection through Texture-based Cropping**|Despina Konstantinidou et.al.|[2407.15500](http://arxiv.org/abs/2407.15500)|null|
+|**2024-07-22**|**DiffX: Guide Your Layout to Cross-Modal Generative Modeling**|Zeyu Wang et.al.|[2407.15488](http://arxiv.org/abs/2407.15488)|**[link](https://github.com/zeyuwang-zju/diffx)**|
+|**2024-07-22**|**Text2Place: Affordance-aware Text Guided Human Placement**|Rishubh Parihar et.al.|[2407.15446](http://arxiv.org/abs/2407.15446)|null|
+|**2024-07-21**|**BIGbench: A Unified Benchmark for Social Bias in Text-to-Image Generative Models Based on Multi-modal LLM**|Hanjun Luo et.al.|[2407.15240](http://arxiv.org/abs/2407.15240)|null|
+|**2024-07-21**|**Variational Potential Flow: A Novel Probabilistic Framework for Energy-Based Generative Modelling**|Junn Yong Loo et.al.|[2407.15238](http://arxiv.org/abs/2407.15238)|null|
+|**2024-07-21**|**HoloDreamer: Holistic 3D Panoramic World Generation from Text Descriptions**|Haiyang Zhou et.al.|[2407.15187](http://arxiv.org/abs/2407.15187)|null|
+|**2024-07-21**|**The VEP Booster: A Closed-Loop AI System for Visual EEG Biomarker Auto-generation**|Junwen Luo et.al.|[2407.15167](http://arxiv.org/abs/2407.15167)|null|
+|**2024-07-21**|**LSReGen: Large-Scale Regional Generator via Backward Guidance Framework**|Bowen Zhang et.al.|[2407.15066](http://arxiv.org/abs/2407.15066)|null|
+|**2024-07-20**|**GreenStableYolo: Optimizing Inference Time and Image Quality of Text-to-Image Generation**|Jingzhi Gong et.al.|[2407.14982](http://arxiv.org/abs/2407.14982)|**[link](https://github.com/gjz78910/greenstableyolo)**|
+|**2024-07-20**|**CoCoG-2: Controllable generation of visual stimuli for understanding human concept representation**|Chen Wei et.al.|[2407.14949](http://arxiv.org/abs/2407.14949)|null|
+|**2024-07-20**|**EidetiCom: A Cross-modal Brain-Computer Semantic Communication Paradigm for Decoding Visual Perception**|Linfeng Zheng et.al.|[2407.14936](http://arxiv.org/abs/2407.14936)|null|
+|**2024-07-20**|**Do Generative AI Models Output Harm while Representing Non-Western Cultures: Evidence from A Community-Centered Approach**|Sourojit Ghosh et.al.|[2407.14779](http://arxiv.org/abs/2407.14779)|null|
+|**2024-07-19**|**Are handcrafted filters helpful for attributing AI-generated images?**|Jialiang Li et.al.|[2407.14570](http://arxiv.org/abs/2407.14570)|null|
 |**2024-07-19**|**Thinking Racial Bias in Fair Forgery Detection: Models, Datasets and Evaluations**|Decheng Liu et.al.|[2407.14367](http://arxiv.org/abs/2407.14367)|null|
 |**2024-07-19**|**As Generative Models Improve, People Adapt Their Prompts**|Eaman Jahani et.al.|[2407.14333](http://arxiv.org/abs/2407.14333)|null|
 |**2024-07-19**|**Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**|Kun Zhao et.al.|[2407.14326](http://arxiv.org/abs/2407.14326)|null|
