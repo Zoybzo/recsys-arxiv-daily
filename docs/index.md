@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RecSys
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-23**|**Analysis of 3GPP and Ray-Tracing Based Channel Model for 5G Industrial Network Planning**|Gurjot Singh Bhatia et.al.|[2407.16528](http://arxiv.org/abs/2407.16528)|null|
-|**2024-07-23**|**AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game**|Yizhou Chi et.al.|[2407.16521](http://arxiv.org/abs/2407.16521)|null|
+|**2024-07-24**|**AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game**|Yizhou Chi et.al.|[2407.16521](http://arxiv.org/abs/2407.16521)|null|
 |**2024-07-23**|**DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models**|Zhenyu Xie et.al.|[2407.16511](http://arxiv.org/abs/2407.16511)|null|
 |**2024-07-23**|**Hi-EF: Benchmarking Emotion Forecasting in Human-interaction**|Haoran Wang et.al.|[2407.16406](http://arxiv.org/abs/2407.16406)|**[link](https://github.com/anonymize-author/hi-ef)**|
 |**2024-07-23**|**On ADMM in Heterogeneous Federated Learning: Personalization, Robustness, and Fairness**|Shengkun Zhu et.al.|[2407.16397](http://arxiv.org/abs/2407.16397)|**[link](https://github.com/zsk66/flame)**|
@@ -213,12 +213,12 @@ layout: default
 |**2024-07-23**|**Shared Imagination: LLMs Hallucinate Alike**|Yilun Zhou et.al.|[2407.16604](http://arxiv.org/abs/2407.16604)|null|
 |**2024-07-23**|**Exploring Automatic Cryptographic API Misuse Detection in the Era of LLMs**|Yifan Xia et.al.|[2407.16576](http://arxiv.org/abs/2407.16576)|null|
 |**2024-07-23**|**Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models**|Ioana Buhnila et.al.|[2407.16565](http://arxiv.org/abs/2407.16565)|null|
-|**2024-07-23**|**Audio Prompt Adapter: Unleashing Music Editing Abilities for Text-to-Music with Lightweight Finetuning**|Fang-Duo Tsai et.al.|[2407.16564](http://arxiv.org/abs/2407.16564)|**[link](https://github.com/fundwotsai2001/ap-adapter)**|
+|**2024-07-24**|**Audio Prompt Adapter: Unleashing Music Editing Abilities for Text-to-Music with Lightweight Finetuning**|Fang-Duo Tsai et.al.|[2407.16564](http://arxiv.org/abs/2407.16564)|**[link](https://github.com/fundwotsai2001/ap-adapter)**|
 |**2024-07-23**|**Patched RTC: evaluating LLMs for diverse software development tasks**|Asankhaya Sharma et.al.|[2407.16557](http://arxiv.org/abs/2407.16557)|null|
-|**2024-07-23**|**MicroEmo: Time-Sensitive Multimodal Emotion Recognition with Micro-Expression Dynamics in Video Dialogues**|Liyun Zhang et.al.|[2407.16552](http://arxiv.org/abs/2407.16552)|null|
+|**2024-07-24**|**MicroEmo: Time-Sensitive Multimodal Emotion Recognition with Micro-Expression Dynamics in Video Dialogues**|Liyun Zhang et.al.|[2407.16552](http://arxiv.org/abs/2407.16552)|null|
 |**2024-07-23**|**QPT V2: Masked Image Modeling Advances Visual Scoring**|Qizhi Xie et.al.|[2407.16541](http://arxiv.org/abs/2407.16541)|**[link](https://github.com/keichitse/qpt-v2)**|
 |**2024-07-23**|**Imperfect Vision Encoders: Efficient and Robust Tuning for Vision-Language Models**|Aristeidis Panos et.al.|[2407.16526](http://arxiv.org/abs/2407.16526)|null|
-|**2024-07-23**|**AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game**|Yizhou Chi et.al.|[2407.16521](http://arxiv.org/abs/2407.16521)|null|
+|**2024-07-24**|**AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game**|Yizhou Chi et.al.|[2407.16521](http://arxiv.org/abs/2407.16521)|null|
 |**2024-07-23**|**Machine Translation Hallucination Detection for Low and High Resource Languages using Large Language Models**|Kenza Benkirane et.al.|[2407.16470](http://arxiv.org/abs/2407.16470)|null|
 |**2024-07-23**|**The CHiME-8 DASR Challenge for Generalizable and Array Agnostic Distant Automatic Speech Recognition and Diarization**|Samuele Cornell et.al.|[2407.16447](http://arxiv.org/abs/2407.16447)|null|
 |**2024-07-23**|**Psychomatics -- A Multidisciplinary Framework for Understanding Artificial Minds**|Giuseppe Riva et.al.|[2407.16444](http://arxiv.org/abs/2407.16444)|null|
@@ -430,7 +430,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-23**|**Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions**|Fabio Tosi et.al.|[2407.16698](http://arxiv.org/abs/2407.16698)|**[link](https://github.com/fabiotosi92/diffusion4robustdepth)**|
 |**2024-07-23**|**On Differentially Private 3D Medical Image Synthesis with Controllable Latent Diffusion Models**|Deniz Daum et.al.|[2407.16405](http://arxiv.org/abs/2407.16405)|**[link](https://github.com/compai-lab/2024-miccai-dgm-daum)**|
-|**2024-07-23**|**Visual Stereotypes of Autism Spectrum in DALL-E, Stable Diffusion, SDXL, and Midjourney**|Maciej Wodziński et.al.|[2407.16292](http://arxiv.org/abs/2407.16292)|null|
+|**2024-07-24**|**Visual Stereotypes of Autism Spectrum in DALL-E, Stable Diffusion, SDXL, and Midjourney**|Maciej Wodziński et.al.|[2407.16292](http://arxiv.org/abs/2407.16292)|null|
 |**2024-07-23**|**Fréchet Video Motion Distance: A Metric for Evaluating Motion Consistency in Videos**|Jiahe Liu et.al.|[2407.16124](http://arxiv.org/abs/2407.16124)|**[link](https://github.com/ljh0v0/fmd-frechet-motion-distance)**|
 |**2024-07-22**|**Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget**|Vikash Sehwag et.al.|[2407.15811](http://arxiv.org/abs/2407.15811)|null|
 |**2024-07-22**|**DStruct2Design: Data and Benchmarks for Data Structure Driven Generative Floor Plan Design**|Zhi Hao Luo et.al.|[2407.15723](http://arxiv.org/abs/2407.15723)|**[link](https://github.com/plstory/ds2d)**|
@@ -446,7 +446,7 @@ layout: default
 |**2024-07-20**|**GreenStableYolo: Optimizing Inference Time and Image Quality of Text-to-Image Generation**|Jingzhi Gong et.al.|[2407.14982](http://arxiv.org/abs/2407.14982)|**[link](https://github.com/gjz78910/greenstableyolo)**|
 |**2024-07-20**|**CoCoG-2: Controllable generation of visual stimuli for understanding human concept representation**|Chen Wei et.al.|[2407.14949](http://arxiv.org/abs/2407.14949)|null|
 |**2024-07-20**|**EidetiCom: A Cross-modal Brain-Computer Semantic Communication Paradigm for Decoding Visual Perception**|Linfeng Zheng et.al.|[2407.14936](http://arxiv.org/abs/2407.14936)|null|
-|**2024-07-20**|**Do Generative AI Models Output Harm while Representing Non-Western Cultures: Evidence from A Community-Centered Approach**|Sourojit Ghosh et.al.|[2407.14779](http://arxiv.org/abs/2407.14779)|null|
+|**2024-07-24**|**Do Generative AI Models Output Harm while Representing Non-Western Cultures: Evidence from A Community-Centered Approach**|Sourojit Ghosh et.al.|[2407.14779](http://arxiv.org/abs/2407.14779)|null|
 |**2024-07-23**|**Are handcrafted filters helpful for attributing AI-generated images?**|Jialiang Li et.al.|[2407.14570](http://arxiv.org/abs/2407.14570)|null|
 |**2024-07-19**|**Thinking Racial Bias in Fair Forgery Detection: Models, Datasets and Evaluations**|Decheng Liu et.al.|[2407.14367](http://arxiv.org/abs/2407.14367)|null|
 |**2024-07-19**|**As Generative Models Improve, People Adapt Their Prompts**|Eaman Jahani et.al.|[2407.14333](http://arxiv.org/abs/2407.14333)|null|
