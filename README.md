@@ -19,6 +19,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**ViPer: Visual Personalization of Generative Models via Individual Preference Learning**|Sogand Salehi et.al.|[2407.17365](http://arxiv.org/abs/2407.17365)|null|
+|**2024-07-24**|**Energy Efficiency Optimization in Integrated Satellite-Terrestrial UAV-Enabled Cell-Free Massive MIMO**|Thong-Nhat Tran et.al.|[2407.17321](http://arxiv.org/abs/2407.17321)|null|
+|**2024-07-24**|**Reinforced Prompt Personalization for Recommendation with Large Language Models**|Wenyu Mao et.al.|[2407.17115](http://arxiv.org/abs/2407.17115)|**[link](https://github.com/maowenyu-11/rpp)**|
+|**2024-07-24**|**AI-Gadget Kit: Integrating Swarm User Interfaces with LLM-driven Agents for Rich Tabletop Game Applications**|Yijie Guo et.al.|[2407.17086](http://arxiv.org/abs/2407.17086)|null|
+|**2024-07-24**|**The EU-US Data Privacy Framework: Is the Dragon Eating its Own Tail?**|Marcelo Corrales Compagnucci et.al.|[2407.17021](http://arxiv.org/abs/2407.17021)|null|
+|**2024-07-24**|**Revisiting Who's Harry Potter: Towards Targeted Unlearning from a Causal Intervention Perspective**|Yujian Liu et.al.|[2407.16997](http://arxiv.org/abs/2407.16997)|**[link](https://github.com/ucsb-nlp-chang/causal_unlearn)**|
+|**2024-07-24**|**Dynamic Graph Transformer with Correlated Spatial-Temporal Positional Encoding**|Zhe Wang et.al.|[2407.16959](http://arxiv.org/abs/2407.16959)|null|
+|**2024-07-23**|**How Video Passthrough Headsets Influence Perception of Self and Others**|Monique Santoso et.al.|[2407.16904](http://arxiv.org/abs/2407.16904)|null|
+|**2024-07-23**|**Impacts of National Cultures on Managerial Decisions of Engaging in Core Earnings Management**|Muhammad Rofiqul Islam et.al.|[2407.16854](http://arxiv.org/abs/2407.16854)|null|
+|**2024-07-23**|**PateGail: A Privacy-Preserving Mobility Trajectory Generator with Imitation Learning**|Huandong Wang et.al.|[2407.16729](http://arxiv.org/abs/2407.16729)|**[link](https://github.com/tsinghua-fib-lab/pategail)**|
+|**2024-07-23**|**Towards an Improved Taxonomy of Attacks related to Digital Identities and Identity Management Systems**|Daniela Pöhn et.al.|[2407.16718](http://arxiv.org/abs/2407.16718)|null|
 |**2024-07-23**|**Analysis of 3GPP and Ray-Tracing Based Channel Model for 5G Industrial Network Planning**|Gurjot Singh Bhatia et.al.|[2407.16528](http://arxiv.org/abs/2407.16528)|null|
 |**2024-07-24**|**AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game**|Yizhou Chi et.al.|[2407.16521](http://arxiv.org/abs/2407.16521)|null|
 |**2024-07-23**|**DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models**|Zhenyu Xie et.al.|[2407.16511](http://arxiv.org/abs/2407.16511)|null|
@@ -210,6 +221,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**I Could've Asked That: Reformulating Unanswerable Questions**|Wenting Zhao et.al.|[2407.17469](http://arxiv.org/abs/2407.17469)|**[link](https://github.com/wenting-zhao/couldask)**|
+|**2024-07-24**|**WildHallucinations: Evaluating Long-form Factuality in LLMs with Real-World Entity Queries**|Wenting Zhao et.al.|[2407.17468](http://arxiv.org/abs/2407.17468)|null|
+|**2024-07-24**|**CMR Scaling Law: Predicting Critical Mixture Ratios for Continual Pre-training of Language Models**|Jiawei Gu et.al.|[2407.17467](http://arxiv.org/abs/2407.17467)|null|
+|**2024-07-24**|**$VILA^2$ : VILA Augmented VILA**|Yunhao Fang et.al.|[2407.17453](http://arxiv.org/abs/2407.17453)|null|
+|**2024-07-24**|**Fluent Student-Teacher Redteaming**|T. Ben Thompson et.al.|[2407.17447](http://arxiv.org/abs/2407.17447)|null|
+|**2024-07-24**|**Can Watermarking Large Language Models Prevent Copyrighted Text Generation and Hide Training Data?**|Michael-Andrei Panaitescu-Liess et.al.|[2407.17417](http://arxiv.org/abs/2407.17417)|null|
+|**2024-07-24**|**(PASS) Visual Prompt Locates Good Structure Sparsity through a Recurrent HyperNetwork**|Tianjin Huang et.al.|[2407.17412](http://arxiv.org/abs/2407.17412)|null|
+|**2024-07-24**|**Grammar-based Game Description Generation using Large Language Models**|Tsunehiko Tanaka et.al.|[2407.17404](http://arxiv.org/abs/2407.17404)|null|
+|**2024-07-24**|**3D Question Answering for City Scene Understanding**|Penglei Sun et.al.|[2407.17398](http://arxiv.org/abs/2407.17398)|null|
+|**2024-07-24**|**CovScore: Evaluation of Multi-Document Abstractive Title Set Generation**|Itamar Trainin et.al.|[2407.17390](http://arxiv.org/abs/2407.17390)|null|
+|**2024-07-24**|**ViPer: Visual Personalization of Generative Models via Individual Preference Learning**|Sogand Salehi et.al.|[2407.17365](http://arxiv.org/abs/2407.17365)|null|
+|**2024-07-24**|**Scalify: scale propagation for efficient low-precision LLM training**|Paul Balança et.al.|[2407.17353](http://arxiv.org/abs/2407.17353)|**[link](https://github.com/graphcore-research/jax-scalify)**|
+|**2024-07-24**|**Boosting Large Language Models with Socratic Method for Conversational Mathematics Teaching**|Yuyang Ding et.al.|[2407.17349](http://arxiv.org/abs/2407.17349)|null|
+|**2024-07-24**|**DexGANGrasp: Dexterous Generative Adversarial Grasping Synthesis for Task-Oriented Manipulation**|Qian Feng et.al.|[2407.17348](http://arxiv.org/abs/2407.17348)|null|
+|**2024-07-24**|**Label Alignment and Reassignment with Generalist Large Language Model for Enhanced Cross-Domain Named Entity Recognition**|Ke Bao et.al.|[2407.17344](http://arxiv.org/abs/2407.17344)|null|
+|**2024-07-24**|**How Good (Or Bad) Are LLMs at Detecting Misleading Visualizations?**|Leo Yu-Ho Lo et.al.|[2407.17291](http://arxiv.org/abs/2407.17291)|null|
+|**2024-07-24**|**Pretrained Visual Representations in Reinforcement Learning**|Emlyn Williams et.al.|[2407.17238](http://arxiv.org/abs/2407.17238)|null|
+|**2024-07-24**|**LEAN-GitHub: Compiling GitHub LEAN repositories for a versatile LEAN prover**|Zijian Wu et.al.|[2407.17227](http://arxiv.org/abs/2407.17227)|null|
+|**2024-07-24**|**Graph Neural Networks: A suitable Alternative to MLPs in Latent 3D Medical Image Classification?**|Johannes Kiechle et.al.|[2407.17219](http://arxiv.org/abs/2407.17219)|**[link](https://github.com/compai-lab/2024-miccai-grail-kiechle)**|
+|**2024-07-24**|**Testing Large Language Models on Driving Theory Knowledge and Skills for Connected Autonomous Vehicles**|Zuoyin Tang et.al.|[2407.17211](http://arxiv.org/abs/2407.17211)|null|
 |**2024-07-23**|**Can Large Language Models Automatically Jailbreak GPT-4V?**|Yuanwei Wu et.al.|[2407.16686](http://arxiv.org/abs/2407.16686)|null|
 |**2024-07-23**|**RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent**|Huiyu Xu et.al.|[2407.16667](http://arxiv.org/abs/2407.16667)|null|
 |**2024-07-23**|**Towards scalable efficient on-device ASR with transfer learning**|Laxmi Pandey et.al.|[2407.16664](http://arxiv.org/abs/2407.16664)|null|
@@ -437,6 +468,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**ViPer: Visual Personalization of Generative Models via Individual Preference Learning**|Sogand Salehi et.al.|[2407.17365](http://arxiv.org/abs/2407.17365)|null|
+|**2024-07-24**|**Revolutionizing Text-to-Image Retrieval as Autoregressive Token-to-Voken Generation**|Yongqi Li et.al.|[2407.17274](http://arxiv.org/abs/2407.17274)|null|
+|**2024-07-24**|**LPGen: Enhancing High-Fidelity Landscape Painting Generation through Diffusion Model**|Wanggong Yang et.al.|[2407.17229](http://arxiv.org/abs/2407.17229)|null|
+|**2024-07-24**|**MemBench: Memorized Image Trigger Prompt Dataset for Diffusion Models**|Chunsan Hong et.al.|[2407.17095](http://arxiv.org/abs/2407.17095)|null|
+|**2024-07-24**|**Diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model**|Lirui Zhao et.al.|[2407.16982](http://arxiv.org/abs/2407.16982)|null|
+|**2024-07-24**|**An Adaptive Gradient Regularization Method**|Huixiu Jiang et.al.|[2407.16944](http://arxiv.org/abs/2407.16944)|null|
+|**2024-07-24**|**Synthetic Trajectory Generation Through Convolutional Neural Networks**|Jesse Merhi et.al.|[2407.16938](http://arxiv.org/abs/2407.16938)|**[link](https://github.com/jesse-merhi/CNN-TRAJGAN)**|
 |**2024-07-23**|**Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions**|Fabio Tosi et.al.|[2407.16698](http://arxiv.org/abs/2407.16698)|**[link](https://github.com/fabiotosi92/diffusion4robustdepth)**|
 |**2024-07-23**|**On Differentially Private 3D Medical Image Synthesis with Controllable Latent Diffusion Models**|Deniz Daum et.al.|[2407.16405](http://arxiv.org/abs/2407.16405)|**[link](https://github.com/compai-lab/2024-miccai-dgm-daum)**|
 |**2024-07-24**|**Visual Stereotypes of Autism Spectrum in DALL-E, Stable Diffusion, SDXL, and Midjourney**|Maciej Wodziński et.al.|[2407.16292](http://arxiv.org/abs/2407.16292)|null|
