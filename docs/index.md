@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.14
+## Updated on 2024.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RecSys
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-13**|**PSM: Learning Probabilistic Embeddings for Multi-scale Zero-Shot Soundscape Mapping**|Subash Khanal et.al.|[2408.07050](http://arxiv.org/abs/2408.07050)|null|
 |**2024-08-13**|**Casper: Prompt Sanitization for Protecting User Privacy in Web-Based Large Language Models**|Chun Jie Chong et.al.|[2408.07004](http://arxiv.org/abs/2408.07004)|null|
-|**2024-08-13**|**Measuring User Understanding in Dialogue-based XAI Systems**|Dimitry Mindlin et.al.|[2408.06960](http://arxiv.org/abs/2408.06960)|null|
+|**2024-08-14**|**Measuring User Understanding in Dialogue-based XAI Systems**|Dimitry Mindlin et.al.|[2408.06960](http://arxiv.org/abs/2408.06960)|null|
 |**2024-08-13**|**Evaluating Cultural Adaptability of a Large Language Model via Simulation of Synthetic Personas**|Louis Kwok et.al.|[2408.06929](http://arxiv.org/abs/2408.06929)|null|
 |**2024-08-13**|**Leveraging Language Models for Emotion and Behavior Analysis in Education**|Kaito Tanaka et.al.|[2408.06874](http://arxiv.org/abs/2408.06874)|null|
 |**2024-08-13**|**SaSLaW: Dialogue Speech Corpus with Audio-visual Egocentric Information Toward Environment-adaptive Dialogue Speech Synthesis**|Osamu Take et.al.|[2408.06858](http://arxiv.org/abs/2408.06858)|null|
@@ -30,9 +30,9 @@ layout: default
 |**2024-08-13**|**DePatch: Towards Robust Adversarial Patch for Evading Person Detectors in the Real World**|Jikang Cheng et.al.|[2408.06625](http://arxiv.org/abs/2408.06625)|null|
 |**2024-08-13**|**Super-intelligence or Superstition? Exploring Psychological Factors Underlying Unwarranted Belief in AI Predictions**|Eunhae Lee et.al.|[2408.06602](http://arxiv.org/abs/2408.06602)|null|
 |**2024-08-12**|**Learned Ranking Function: From Short-term Behavior Predictions to Long-term User Satisfaction**|Yi Wu et.al.|[2408.06512](http://arxiv.org/abs/2408.06512)|null|
-|**2024-08-12**|**AniBalloons: Animated Chat Balloons as Affective Augmentation for Social Messaging and Chatbot Interaction**|Pengcheng An et.al.|[2408.06294](http://arxiv.org/abs/2408.06294)|null|
+|**2024-08-14**|**AniBalloons: Animated Chat Balloons as Affective Augmentation for Social Messaging and Chatbot Interaction**|Pengcheng An et.al.|[2408.06294](http://arxiv.org/abs/2408.06294)|null|
 |**2024-08-13**|**Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation**|Jieyong Kim et.al.|[2408.06276](http://arxiv.org/abs/2408.06276)|null|
-|**2024-08-13**|**Decentralized Intelligence Health Network (DIHN)**|Abraham Nash et.al.|[2408.06240](http://arxiv.org/abs/2408.06240)|null|
+|**2024-08-14**|**Decentralized Health Intelligence Network (DHIN)**|Abraham Nash et.al.|[2408.06240](http://arxiv.org/abs/2408.06240)|null|
 |**2024-08-12**|**ACCELERATION: Sequentially-scanning DECT Imaging Using High Temporal Resolution Image Reconstruction And Temporal Extrapolation**|Qiaoxin Li et.al.|[2408.06163](http://arxiv.org/abs/2408.06163)|null|
 |**2024-08-12**|**BooW-VTON: Boosting In-the-Wild Virtual Try-On via Mask-Free Pseudo Data Training**|Xuanpu Zhang et.al.|[2408.06047](http://arxiv.org/abs/2408.06047)|**[link](https://github.com/little-misfit/boow-vton)**|
 |**2024-08-12**|**HeadGAP: Few-shot 3D Head Avatar via Generalizable Gaussian Priors**|Xiaozheng Zheng et.al.|[2408.06019](http://arxiv.org/abs/2408.06019)|null|
