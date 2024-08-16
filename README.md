@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.15
+## Updated on 2024.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,8 +23,8 @@
 |**2024-08-14**|**Towards Fair and Rigorous Evaluations: Hyperparameter Optimization for Top-N Recommendation Task with Implicit Feedback**|Hui Fang et.al.|[2408.07630](http://arxiv.org/abs/2408.07630)|null|
 |**2024-08-14**|**Optimizing HIV Patient Engagement with Reinforcement Learning in Resource-Limited Settings**|África Periáñez et.al.|[2408.07629](http://arxiv.org/abs/2408.07629)|null|
 |**2024-08-14**|**Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach**|Shizhou Zhang et.al.|[2408.07500](http://arxiv.org/abs/2408.07500)|**[link](https://github.com/fhr-l/vsla-clip)**|
-|**2024-08-14**|**MagicFace: Training-free Universal-Style Human Image Customized Synthesis**|Yibin Wang et.al.|[2408.07433](http://arxiv.org/abs/2408.07433)|null|
-|**2024-08-14**|**Do GPT Language Models Suffer From Split Personality Disorder? The Advent Of Substrate-Free Psychometrics**|Peter Romero et.al.|[2408.07377](http://arxiv.org/abs/2408.07377)|null|
+|**2024-08-15**|**MagicFace: Training-free Universal-Style Human Image Customized Synthesis**|Yibin Wang et.al.|[2408.07433](http://arxiv.org/abs/2408.07433)|null|
+|**2024-08-15**|**Do GPT Language Models Suffer From Split Personality Disorder? The Advent Of Substrate-Free Psychometrics**|Peter Romero et.al.|[2408.07377](http://arxiv.org/abs/2408.07377)|null|
 |**2024-08-14**|**Evaluating Large Language Model based Personal Information Extraction and Countermeasures**|Yupei Liu et.al.|[2408.07291](http://arxiv.org/abs/2408.07291)|null|
 |**2024-08-13**|**Vision Language Model for Interpretable and Fine-grained Detection of Safety Compliance in Diverse Workplaces**|Zhiling Chen et.al.|[2408.07146](http://arxiv.org/abs/2408.07146)|null|
 |**2024-08-13**|**PSM: Learning Probabilistic Embeddings for Multi-scale Zero-Shot Soundscape Mapping**|Subash Khanal et.al.|[2408.07050](http://arxiv.org/abs/2408.07050)|null|
@@ -413,22 +413,22 @@
 |**2024-07-08**|**CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation**|Xinying Guo et.al.|[2407.06188](http://arxiv.org/abs/2407.06188)|null|
 |**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187](http://arxiv.org/abs/2407.06187)|null|
 
-<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-14**|**The Death of Schema Linking? Text-to-SQL in the Age of Well-Reasoned Language Models**|Karime Maamari et.al.|[2408.07702](http://arxiv.org/abs/2408.07702)|null|
-|**2024-08-14**|**Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities**|Enneng Yang et.al.|[2408.07666](http://arxiv.org/abs/2408.07666)|**[link](https://github.com/ennengyang/awesome-model-merging-methods-theories-applications)**|
+|**2024-08-15**|**Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities**|Enneng Yang et.al.|[2408.07666](http://arxiv.org/abs/2408.07666)|**[link](https://github.com/ennengyang/awesome-model-merging-methods-theories-applications)**|
 |**2024-08-14**|**Spoken Stereoset: On Evaluating Social Bias Toward Speaker in Speech Large Language Models**|Yi-Cheng Lin et.al.|[2408.07665](http://arxiv.org/abs/2408.07665)|null|
 |**2024-08-14**|**Alignment-Enhanced Decoding:Defending via Token-Level Adaptive Refining of Probability Distributions**|Quan Liu et.al.|[2408.07663](http://arxiv.org/abs/2408.07663)|**[link](https://github.com/gigabaozi/aed)**|
 |**2024-08-14**|**WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs**|Weijian Xie et.al.|[2408.07611](http://arxiv.org/abs/2408.07611)|null|
 |**2024-08-14**|**Assessing the Role of Lexical Semantics in Cross-lingual Transfer through Controlled Manipulations**|Roy Ilani et.al.|[2408.07599](http://arxiv.org/abs/2408.07599)|null|
 |**2024-08-14**|**Transformers and Large Language Models for Efficient Intrusion Detection Systems: A Comprehensive Survey**|Hamza Kheddar et.al.|[2408.07583](http://arxiv.org/abs/2408.07583)|null|
-|**2024-08-14**|**MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark**|Minxuan Zhou et.al.|[2408.07543](http://arxiv.org/abs/2408.07543)|null|
+|**2024-08-15**|**MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark**|Minxuan Zhou et.al.|[2408.07543](http://arxiv.org/abs/2408.07543)|null|
 |**2024-08-14**|**New Curriculum, New Chance -- Retrieval Augmented Generation for Lesson Planning in Ugandan Secondary Schools. Prototype Quality Evaluation**|Simon Kloker et.al.|[2408.07542](http://arxiv.org/abs/2408.07542)|null|
-|**2024-08-14**|**Usefulness of data flow diagrams and large language models for security threat validation: a registered report**|Winnie Bahati Mbaka et.al.|[2408.07537](http://arxiv.org/abs/2408.07537)|null|
+|**2024-08-15**|**Usefulness of data flow diagrams and large language models for security threat validation: a registered report**|Winnie Bahati Mbaka et.al.|[2408.07537](http://arxiv.org/abs/2408.07537)|null|
 |**2024-08-14**|**Development of a Multi-Agent Clinical Decision Support System for Korean Triage and Acuity Scale (KTAS)-Based Triage and Treatment Planning in Emergency Departments**|Seungjun Han et.al.|[2408.07531](http://arxiv.org/abs/2408.07531)|null|
 |**2024-08-14**|**Learning-based Models for Vulnerability Detection: An Extensive Study**|Chao Ni et.al.|[2408.07526](http://arxiv.org/abs/2408.07526)|null|
 |**2024-08-14**|**Whitening Consistently Improves Self-Supervised Learning**|András Kalapos et.al.|[2408.07519](http://arxiv.org/abs/2408.07519)|**[link](https://github.com/kaland313/ssl-whitening)**|
@@ -960,14 +960,14 @@
 |**2024-07-09**|**Who is better at math, Jenny or Jingzhen? Uncovering Stereotypes in Large Language Models**|Zara Siddique et.al.|[2407.06917](http://arxiv.org/abs/2407.06917)|null|
 |**2024-07-09**|**Fine-grained large-scale content recommendations for MSX sellers**|Manpreet Singh et.al.|[2407.06910](http://arxiv.org/abs/2407.06910)|null|
 
-<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
 
 ## Image Genration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-14**|**Boosting Unconstrained Face Recognition with Targeted Style Adversary**|Mohammad Saeed Ebrahimi Saadabadi et.al.|[2408.07642](http://arxiv.org/abs/2408.07642)|null|
-|**2024-08-14**|**DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution**|Yuanbo Zhou et.al.|[2408.07516](http://arxiv.org/abs/2408.07516)|null|
+|**2024-08-15**|**DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution**|Yuanbo Zhou et.al.|[2408.07516](http://arxiv.org/abs/2408.07516)|null|
 |**2024-08-14**|**KIND: Knowledge Integration and Diversion in Diffusion Models**|Yucheng Xie et.al.|[2408.07337](http://arxiv.org/abs/2408.07337)|null|
 |**2024-08-13**|**Generative Photomontage**|Sean J. Liu et.al.|[2408.07116](http://arxiv.org/abs/2408.07116)|null|
 |**2024-08-13**|**Definition of multispectral camera system parameters to model the asteroid 2001 SN263**|Gabriela de Carvalho Assis Goulart et.al.|[2408.06886](http://arxiv.org/abs/2408.06886)|null|
@@ -1193,7 +1193,7 @@
 |**2024-07-07**|**Topological Persistence Guided Knowledge Distillation for Wearable Sensor Data**|Eun Som Jeon et.al.|[2407.05315](http://arxiv.org/abs/2407.05315)|null|
 |**2024-07-07**|**An Improved Method for Personalizing Diffusion Models**|Yan Zeng et.al.|[2407.05312](http://arxiv.org/abs/2407.05312)|null|
 
-<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
