@@ -14,6 +14,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Dr.Academy: A Benchmark for Evaluating Questioning Capability in Education for Large Language Models**|Yuyan Chen et.al.|[2408.10947](http://arxiv.org/abs/2408.10947)|null|
+|**2024-08-20**|**Large Language Model Driven Recommendation**|Anton Korikov et.al.|[2408.10946](http://arxiv.org/abs/2408.10946)|null|
+|**2024-08-20**|**Pluto and Charon: A Time and Memory Efficient Collaborative Edge AI Framework for Personal LLMs Fine-Tuning**|Bei Ouyang et.al.|[2408.10746](http://arxiv.org/abs/2408.10746)|null|
+|**2024-08-20**|**Accelerating the Surrogate Retraining for Poisoning Attacks against Recommender Systems**|Yunfan Wu et.al.|[2408.10666](http://arxiv.org/abs/2408.10666)|null|
+|**2024-08-20**|**CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation**|Yuting Liu et.al.|[2408.10645](http://arxiv.org/abs/2408.10645)|null|
+|**2024-08-20**|**WRIM-Net: Wide-Ranging Information Mining Network for Visible-Infrared Person Re-Identification**|Yonggan Wu et.al.|[2408.10624](http://arxiv.org/abs/2408.10624)|null|
+|**2024-08-20**|**Bidirectional Intent Communication: A Role for Large Foundation Models**|Tim Schreiter et.al.|[2408.10589](http://arxiv.org/abs/2408.10589)|null|
+|**2024-08-20**|**Prompt-Agnostic Adversarial Perturbation for Customized Diffusion Models**|Cong Wan et.al.|[2408.10571](http://arxiv.org/abs/2408.10571)|null|
+|**2024-08-20**|**Prompt Your Brain: Scaffold Prompt Tuning for Efficient Adaptation of fMRI Pre-trained Model**|Zijian Dong et.al.|[2408.10567](http://arxiv.org/abs/2408.10567)|null|
+|**2024-08-20**|**NutrifyAI: An AI-Powered System for Real-Time Food Detection, Nutritional Analysis, and Personalized Meal Recommendations**|Michelle Han et.al.|[2408.10532](http://arxiv.org/abs/2408.10532)|null|
+|**2024-08-20**|**Data Augmentation Integrating Dialogue Flow and Style to Adapt Spoken Dialogue Systems to Low-Resource User Groups**|Zhiyang Qi et.al.|[2408.10516](http://arxiv.org/abs/2408.10516)|null|
+|**2024-08-20**|**Event Stream based Sign Language Translation: A High-Definition Benchmark Dataset and A New Algorithm**|Xiao Wang et.al.|[2408.10488](http://arxiv.org/abs/2408.10488)|null|
+|**2024-08-19**|**The Psychological Impacts of Algorithmic and AI-Driven Social Media on Teenagers: A Call to Action**|Sunil Arora et.al.|[2408.10351](http://arxiv.org/abs/2408.10351)|null|
 |**2024-08-19**|**Advancing Voice Cloning for Nepali: Leveraging Transfer Learning in a Low-Resource Language**|Manjil Karki et.al.|[2408.10128](http://arxiv.org/abs/2408.10128)|null|
 |**2024-08-19**|**Envisioning Possibilities and Challenges of AI for Personalized Cancer Care**|Elaine Kong et.al.|[2408.10108](http://arxiv.org/abs/2408.10108)|null|
 |**2024-08-19**|**Recent Surge in Public Interest in Transportation: Sentiment Analysis of Baidu Apollo Go Using Weibo Data**|Shiqi Wang et.al.|[2408.10088](http://arxiv.org/abs/2408.10088)|null|
@@ -454,6 +467,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**NeCo: Improving DINOv2's spatial representations in 19 GPU hours with Patch Neighbor Consistency**|Valentinos Pariza et.al.|[2408.11054](http://arxiv.org/abs/2408.11054)|null|
+|**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053](http://arxiv.org/abs/2408.11053)|null|
+|**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051](http://arxiv.org/abs/2408.11051)|null|
+|**2024-08-20**|**MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding**|Jian Chen et.al.|[2408.11049](http://arxiv.org/abs/2408.11049)|null|
+|**2024-08-20**|**Reconciling Methodological Paradigms: Employing Large Language Models as Novice Qualitative Research Assistants in Talent Management Research**|Sreyoshi Bhaduri et.al.|[2408.11043](http://arxiv.org/abs/2408.11043)|null|
+|**2024-08-20**|**Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model**|Chunting Zhou et.al.|[2408.11039](http://arxiv.org/abs/2408.11039)|null|
+|**2024-08-20**|**Scaling Law with Learning Rate Annealing**|Howe Tissue et.al.|[2408.11029](http://arxiv.org/abs/2408.11029)|null|
+|**2024-08-20**|**Athena: Safe Autonomous Agents with Verbal Contrastive Learning**|Tanmana Sadhu et.al.|[2408.11021](http://arxiv.org/abs/2408.11021)|null|
+|**2024-08-20**|**While GitHub Copilot Excels at Coding, Does It Ensure Responsible Output?**|Wen Cheng et.al.|[2408.11006](http://arxiv.org/abs/2408.11006)|**[link](https://github.com/sensente/security-attacks-on-lccts)**|
+|**2024-08-20**|**SenPa-MAE: Sensor Parameter Aware Masked Autoencoder for Multi-Satellite Self-Supervised Pretraining**|Jonathan Prexl et.al.|[2408.11000](http://arxiv.org/abs/2408.11000)|null|
+|**2024-08-20**|**CTP-LLM: Clinical Trial Phase Transition Prediction Using Large Language Models**|Michael Reinisch et.al.|[2408.10995](http://arxiv.org/abs/2408.10995)|null|
+|**2024-08-20**|**Dr.Academy: A Benchmark for Evaluating Questioning Capability in Education for Large Language Models**|Yuyan Chen et.al.|[2408.10947](http://arxiv.org/abs/2408.10947)|null|
+|**2024-08-20**|**Large Language Model Driven Recommendation**|Anton Korikov et.al.|[2408.10946](http://arxiv.org/abs/2408.10946)|null|
+|**2024-08-20**|**HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models in Resource-Constrained Environments**|Kazi Hasan Ibn Arif et.al.|[2408.10945](http://arxiv.org/abs/2408.10945)|**[link](https://github.com/hasanar1f/hired)**|
+|**2024-08-20**|**SysBench: Can Large Language Models Follow System Messages?**|Yanzhao Qin et.al.|[2408.10943](http://arxiv.org/abs/2408.10943)|**[link](https://github.com/pku-baichuan-mlsystemlab/sysbench)**|
+|**2024-08-20**|**A Closer Look at Data Augmentation Strategies for Finetuning-Based Low/Few-Shot Object Detection**|Vladislav Li et.al.|[2408.10940](http://arxiv.org/abs/2408.10940)|null|
+|**2024-08-20**|**Proxona: Leveraging LLM-Driven Personas to Enhance Creators' Understanding of Their Audience**|Yoonseo Choi et.al.|[2408.10937](http://arxiv.org/abs/2408.10937)|null|
+|**2024-08-20**|**LBC: Language-Based-Classifier for Out-Of-Variable Generalization**|Kangjun Noh et.al.|[2408.10923](http://arxiv.org/abs/2408.10923)|**[link](https://github.com/asdasdanonymous/language-based-classifier-foroovtasks)**|
+|**2024-08-20**|**MTFinEval:A Multi-domain Chinese Financial Benchmark with Eurypalynous questions**|Xinyu Liu et.al.|[2408.10921](http://arxiv.org/abs/2408.10921)|null|
+|**2024-08-20**|**CHECKWHY: Causal Fact Verification via Argument Structure**|Jiasheng Si et.al.|[2408.10918](http://arxiv.org/abs/2408.10918)|null|
 |**2024-08-19**|**Demystifying the Communication Characteristics for Distributed Transformer Models**|Quentin Anthony et.al.|[2408.10197](http://arxiv.org/abs/2408.10197)|null|
 |**2024-08-19**|**SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views**|Chao Xu et.al.|[2408.10195](http://arxiv.org/abs/2408.10195)|null|
 |**2024-08-19**|**Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models**|Aviv Bick et.al.|[2408.10189](http://arxiv.org/abs/2408.10189)|null|
@@ -1059,6 +1092,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning**|Haoning Wu et.al.|[2408.11001](http://arxiv.org/abs/2408.11001)|null|
+|**2024-08-20**|**A Grey-box Attack against Latent Diffusion Model-based Image Editing by Posterior Collapse**|Zhongliang Guo et.al.|[2408.10901](http://arxiv.org/abs/2408.10901)|null|
+|**2024-08-20**|**Perception-guided Jailbreak against Text-to-Image Models**|Yihao Huang et.al.|[2408.10848](http://arxiv.org/abs/2408.10848)|null|
+|**2024-08-20**|**MUSES: 3D-Controllable Image Generation via Multi-Modal Agent Collaboration**|Yanbo Ding et.al.|[2408.10605](http://arxiv.org/abs/2408.10605)|null|
+|**2024-08-20**|**Prompt-Agnostic Adversarial Perturbation for Customized Diffusion Models**|Cong Wan et.al.|[2408.10571](http://arxiv.org/abs/2408.10571)|null|
+|**2024-08-19**|**The Brittleness of AI-Generated Image Watermarking Techniques: Examining Their Robustness Against Visual Paraphrasing Attacks**|Niyar R Barman et.al.|[2408.10446](http://arxiv.org/abs/2408.10446)|null|
 |**2024-08-19**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|null|
 |**2024-08-19**|**Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation**|Yunxin Li et.al.|[2408.09787](http://arxiv.org/abs/2408.09787)|**[link](https://github.com/hitsz-tmg/anim-director)**|
 |**2024-08-19**|**RealCustom++: Representing Images as Real-Word for Real-Time Customization**|Zhendong Mao et.al.|[2408.09744](http://arxiv.org/abs/2408.09744)|null|
