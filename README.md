@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.21
+## Updated on 2024.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -468,7 +468,7 @@
 |**2024-07-08**|**CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation**|Xinying Guo et.al.|[2407.06188](http://arxiv.org/abs/2407.06188)|null|
 |**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187](http://arxiv.org/abs/2407.06187)|null|
 
-<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
 
 ## LLM
 
@@ -476,8 +476,8 @@
 |---|---|---|---|---|
 |**2024-08-20**|**NeCo: Improving DINOv2's spatial representations in 19 GPU hours with Patch Neighbor Consistency**|Valentinos Pariza et.al.|[2408.11054](http://arxiv.org/abs/2408.11054)|null|
 |**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053](http://arxiv.org/abs/2408.11053)|null|
-|**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051](http://arxiv.org/abs/2408.11051)|null|
-|**2024-08-20**|**MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding**|Jian Chen et.al.|[2408.11049](http://arxiv.org/abs/2408.11049)|null|
+|**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051](http://arxiv.org/abs/2408.11051)|**[link](https://github.com/xyz9911/FLAME)**|
+|**2024-08-21**|**MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding**|Jian Chen et.al.|[2408.11049](http://arxiv.org/abs/2408.11049)|null|
 |**2024-08-20**|**Reconciling Methodological Paradigms: Employing Large Language Models as Novice Qualitative Research Assistants in Talent Management Research**|Sreyoshi Bhaduri et.al.|[2408.11043](http://arxiv.org/abs/2408.11043)|null|
 |**2024-08-20**|**Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model**|Chunting Zhou et.al.|[2408.11039](http://arxiv.org/abs/2408.11039)|null|
 |**2024-08-20**|**Scaling Law with Learning Rate Annealing**|Howe Tissue et.al.|[2408.11029](http://arxiv.org/abs/2408.11029)|null|
@@ -491,7 +491,7 @@
 |**2024-08-20**|**SysBench: Can Large Language Models Follow System Messages?**|Yanzhao Qin et.al.|[2408.10943](http://arxiv.org/abs/2408.10943)|**[link](https://github.com/pku-baichuan-mlsystemlab/sysbench)**|
 |**2024-08-20**|**A Closer Look at Data Augmentation Strategies for Finetuning-Based Low/Few-Shot Object Detection**|Vladislav Li et.al.|[2408.10940](http://arxiv.org/abs/2408.10940)|null|
 |**2024-08-20**|**Proxona: Leveraging LLM-Driven Personas to Enhance Creators' Understanding of Their Audience**|Yoonseo Choi et.al.|[2408.10937](http://arxiv.org/abs/2408.10937)|null|
-|**2024-08-20**|**LBC: Language-Based-Classifier for Out-Of-Variable Generalization**|Kangjun Noh et.al.|[2408.10923](http://arxiv.org/abs/2408.10923)|**[link](https://github.com/asdasdanonymous/language-based-classifier-foroovtasks)**|
+|**2024-08-21**|**LBC: Language-Based-Classifier for Out-Of-Variable Generalization**|Kangjun Noh et.al.|[2408.10923](http://arxiv.org/abs/2408.10923)|null|
 |**2024-08-20**|**MTFinEval:A Multi-domain Chinese Financial Benchmark with Eurypalynous questions**|Xinyu Liu et.al.|[2408.10921](http://arxiv.org/abs/2408.10921)|null|
 |**2024-08-20**|**CHECKWHY: Causal Fact Verification via Argument Structure**|Jiasheng Si et.al.|[2408.10918](http://arxiv.org/abs/2408.10918)|null|
 |**2024-08-19**|**Demystifying the Communication Characteristics for Distributed Transformer Models**|Quentin Anthony et.al.|[2408.10197](http://arxiv.org/abs/2408.10197)|null|
@@ -1095,7 +1095,7 @@
 |**2024-07-09**|**Who is better at math, Jenny or Jingzhen? Uncovering Stereotypes in Large Language Models**|Zara Siddique et.al.|[2407.06917](http://arxiv.org/abs/2407.06917)|null|
 |**2024-07-09**|**Fine-grained large-scale content recommendations for MSX sellers**|Manpreet Singh et.al.|[2407.06910](http://arxiv.org/abs/2407.06910)|null|
 
-<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
 
 ## Image Genration
 
@@ -1104,14 +1104,14 @@
 |**2024-08-20**|**MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning**|Haoning Wu et.al.|[2408.11001](http://arxiv.org/abs/2408.11001)|null|
 |**2024-08-20**|**A Grey-box Attack against Latent Diffusion Model-based Image Editing by Posterior Collapse**|Zhongliang Guo et.al.|[2408.10901](http://arxiv.org/abs/2408.10901)|null|
 |**2024-08-20**|**Perception-guided Jailbreak against Text-to-Image Models**|Yihao Huang et.al.|[2408.10848](http://arxiv.org/abs/2408.10848)|null|
-|**2024-08-20**|**MUSES: 3D-Controllable Image Generation via Multi-Modal Agent Collaboration**|Yanbo Ding et.al.|[2408.10605](http://arxiv.org/abs/2408.10605)|null|
+|**2024-08-21**|**MUSES: 3D-Controllable Image Generation via Multi-Modal Agent Collaboration**|Yanbo Ding et.al.|[2408.10605](http://arxiv.org/abs/2408.10605)|null|
 |**2024-08-20**|**Prompt-Agnostic Adversarial Perturbation for Customized Diffusion Models**|Cong Wan et.al.|[2408.10571](http://arxiv.org/abs/2408.10571)|null|
 |**2024-08-19**|**The Brittleness of AI-Generated Image Watermarking Techniques: Examining Their Robustness Against Visual Paraphrasing Attacks**|Niyar R Barman et.al.|[2408.10446](http://arxiv.org/abs/2408.10446)|null|
 |**2024-08-19**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|null|
 |**2024-08-19**|**Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation**|Yunxin Li et.al.|[2408.09787](http://arxiv.org/abs/2408.09787)|**[link](https://github.com/hitsz-tmg/anim-director)**|
 |**2024-08-19**|**RealCustom++: Representing Images as Real-Word for Real-Time Customization**|Zhendong Mao et.al.|[2408.09744](http://arxiv.org/abs/2408.09744)|null|
 |**2024-08-19**|**TraDiffusion: Trajectory-Based Training-Free Image Generation**|Mingrui Wu et.al.|[2408.09739](http://arxiv.org/abs/2408.09739)|**[link](https://github.com/och-mac/tradiffusion)**|
-|**2024-08-19**|**Diff2CT: Diffusion Learning to Reconstruct Spine CT from Biplanar X-Rays**|Zhi Qiao et.al.|[2408.09731](http://arxiv.org/abs/2408.09731)|null|
+|**2024-08-21**|**Reconstruct Spine CT from Biplanar X-Rays via Diffusion Learning**|Zhi Qiao et.al.|[2408.09731](http://arxiv.org/abs/2408.09731)|null|
 |**2024-08-18**|**Moonshine: Distilling Game Content Generators into Steerable Generative Models**|Yuhe Nie et.al.|[2408.09594](http://arxiv.org/abs/2408.09594)|null|
 |**2024-08-18**|**AnomalyFactory: Regard Anomaly Generation as Unsupervised Anomaly Localization**|Ying Zhao et.al.|[2408.09533](http://arxiv.org/abs/2408.09533)|null|
 |**2024-08-18**|**Deformation-aware GAN for Medical Image Synthesis with Substantially Misaligned Pairs**|Bowen Xin et.al.|[2408.09432](http://arxiv.org/abs/2408.09432)|null|
@@ -1359,7 +1359,7 @@
 |**2024-07-07**|**Topological Persistence Guided Knowledge Distillation for Wearable Sensor Data**|Eun Som Jeon et.al.|[2407.05315](http://arxiv.org/abs/2407.05315)|null|
 |**2024-07-07**|**An Improved Method for Personalizing Diffusion Models**|Yan Zeng et.al.|[2407.05312](http://arxiv.org/abs/2407.05312)|null|
 
-<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
