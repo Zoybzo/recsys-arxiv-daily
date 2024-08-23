@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.22
+## Updated on 2024.08.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -485,7 +485,7 @@
 |**2024-07-08**|**CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation**|Xinying Guo et.al.|[2407.06188](http://arxiv.org/abs/2407.06188)|null|
 |**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187](http://arxiv.org/abs/2407.06187)|null|
 
-<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240823>back to top</a>)</p>
 
 ## LLM
 
@@ -510,7 +510,7 @@
 |**2024-08-21**|**MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models**|Elias Frantar et.al.|[2408.11743](http://arxiv.org/abs/2408.11743)|null|
 |**2024-08-21**|**CluMo: Cluster-based Modality Fusion Prompt for Continual Learning in Visual Question Answering**|Yuliang Cai et.al.|[2408.11742](http://arxiv.org/abs/2408.11742)|null|
 |**2024-08-21**|**Clinical Insights: A Comprehensive Review of Language Models in Medicine**|Nikita Neveditsin et.al.|[2408.11735](http://arxiv.org/abs/2408.11735)|null|
-|**2024-08-21**|**LLM4VV: Exploring LLM-as-a-Judge for Validation and Verification Testsuites**|Zachariah Sollenberger et.al.|[2408.11729](http://arxiv.org/abs/2408.11729)|null|
+|**2024-08-22**|**LLM4VV: Exploring LLM-as-a-Judge for Validation and Verification Testsuites**|Zachariah Sollenberger et.al.|[2408.11729](http://arxiv.org/abs/2408.11729)|null|
 |**2024-08-20**|**NeCo: Improving DINOv2's spatial representations in 19 GPU hours with Patch Neighbor Consistency**|Valentinos Pariza et.al.|[2408.11054](http://arxiv.org/abs/2408.11054)|null|
 |**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053](http://arxiv.org/abs/2408.11053)|null|
 |**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051](http://arxiv.org/abs/2408.11051)|**[link](https://github.com/xyz9911/FLAME)**|
@@ -1132,7 +1132,7 @@
 |**2024-07-09**|**Who is better at math, Jenny or Jingzhen? Uncovering Stereotypes in Large Language Models**|Zara Siddique et.al.|[2407.06917](http://arxiv.org/abs/2407.06917)|null|
 |**2024-07-09**|**Fine-grained large-scale content recommendations for MSX sellers**|Manpreet Singh et.al.|[2407.06910](http://arxiv.org/abs/2407.06910)|null|
 
-<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240823>back to top</a>)</p>
 
 ## Image Genration
 
@@ -1146,7 +1146,7 @@
 |**2024-08-21**|**UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation**|Xiangyu Zhao et.al.|[2408.11305](http://arxiv.org/abs/2408.11305)|**[link](https://github.com/xiangyu-mm/unifashion)**|
 |**2024-08-20**|**Compress Guidance in Conditional Diffusion Sampling**|Anh-Dung Dinh et.al.|[2408.11194](http://arxiv.org/abs/2408.11194)|null|
 |**2024-08-20**|**MS $^3$ D: A RG Flow-Based Regularization for GAN Training with Limited Data**|Jian Wang et.al.|[2408.11135](http://arxiv.org/abs/2408.11135)|null|
-|**2024-08-20**|**MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning**|Haoning Wu et.al.|[2408.11001](http://arxiv.org/abs/2408.11001)|null|
+|**2024-08-20**|**MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning**|Haoning Wu et.al.|[2408.11001](http://arxiv.org/abs/2408.11001)|**[link](https://github.com/ShaochengShen/MegaFusion)**|
 |**2024-08-20**|**A Grey-box Attack against Latent Diffusion Model-based Image Editing by Posterior Collapse**|Zhongliang Guo et.al.|[2408.10901](http://arxiv.org/abs/2408.10901)|null|
 |**2024-08-20**|**Perception-guided Jailbreak against Text-to-Image Models**|Yihao Huang et.al.|[2408.10848](http://arxiv.org/abs/2408.10848)|null|
 |**2024-08-21**|**MUSES: 3D-Controllable Image Generation via Multi-Modal Agent Collaboration**|Yanbo Ding et.al.|[2408.10605](http://arxiv.org/abs/2408.10605)|null|
@@ -1404,7 +1404,7 @@
 |**2024-07-07**|**Topological Persistence Guided Knowledge Distillation for Wearable Sensor Data**|Eun Som Jeon et.al.|[2407.05315](http://arxiv.org/abs/2407.05315)|null|
 |**2024-07-07**|**An Improved Method for Personalizing Diffusion Models**|Yan Zeng et.al.|[2407.05312](http://arxiv.org/abs/2407.05312)|null|
 
-<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240823>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
