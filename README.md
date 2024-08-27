@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.26
+## Updated on 2024.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -503,7 +503,7 @@
 |**2024-07-08**|**CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation**|Xinying Guo et.al.|[2407.06188](http://arxiv.org/abs/2407.06188)|null|
 |**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187](http://arxiv.org/abs/2407.06187)|null|
 
-<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
 
 ## LLM
 
@@ -1190,7 +1190,7 @@
 |**2024-07-09**|**Who is better at math, Jenny or Jingzhen? Uncovering Stereotypes in Large Language Models**|Zara Siddique et.al.|[2407.06917](http://arxiv.org/abs/2407.06917)|null|
 |**2024-07-09**|**Fine-grained large-scale content recommendations for MSX sellers**|Manpreet Singh et.al.|[2407.06910](http://arxiv.org/abs/2407.06910)|null|
 
-<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
 
 ## Image Genration
 
@@ -1201,7 +1201,7 @@
 |**2024-08-23**|**EasyControl: Transfer ControlNet to Video Diffusion for Controllable Generation and Interpolation**|Cong Wang et.al.|[2408.13005](http://arxiv.org/abs/2408.13005)|null|
 |**2024-08-23**|**What Do You Want? User-centric Prompt Generation for Text-to-image Synthesis via Multi-turn Guidance**|Yilun Liu et.al.|[2408.12910](http://arxiv.org/abs/2408.12910)|null|
 |**2024-08-22**|**Unlocking Intrinsic Fairness in Stable Diffusion**|Eunji Kim et.al.|[2408.12692](http://arxiv.org/abs/2408.12692)|null|
-|**2024-08-22**|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**|Jinheng Xie et.al.|[2408.12528](http://arxiv.org/abs/2408.12528)|null|
+|**2024-08-25**|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**|Jinheng Xie et.al.|[2408.12528](http://arxiv.org/abs/2408.12528)|null|
 |**2024-08-22**|**CODE: Confident Ordinary Differential Editing**|Bastien van Delft et.al.|[2408.12418](http://arxiv.org/abs/2408.12418)|**[link](https://github.com/vita-epfl/code)**|
 |**2024-08-22**|**Dynamic Product Image Generation and Recommendation at Scale for Personalized E-commerce**|Ádám Tibor Czapp et.al.|[2408.12392](http://arxiv.org/abs/2408.12392)|null|
 |**2024-08-23**|**GarmentAligner: Text-to-Garment Generation via Retrieval-augmented Multi-level Corrections**|Shiyue Zhang et.al.|[2408.12352](http://arxiv.org/abs/2408.12352)|null|
@@ -1475,7 +1475,7 @@
 |**2024-07-07**|**Topological Persistence Guided Knowledge Distillation for Wearable Sensor Data**|Eun Som Jeon et.al.|[2407.05315](http://arxiv.org/abs/2407.05315)|null|
 |**2024-07-07**|**An Improved Method for Personalizing Diffusion Models**|Yan Zeng et.al.|[2407.05312](http://arxiv.org/abs/2407.05312)|null|
 
-<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
