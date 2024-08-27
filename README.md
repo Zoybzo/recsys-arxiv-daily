@@ -19,6 +19,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos**|Qirui Chen et.al.|[2408.14469](http://arxiv.org/abs/2408.14469)|null|
+|**2024-08-26**|**Exploring ChatGPT App Ecosystem: Distribution, Deployment and Security**|Chuan Yan et.al.|[2408.14357](http://arxiv.org/abs/2408.14357)|null|
+|**2024-08-26**|**PHEVA: A Privacy-preserving Human-centric Video Anomaly Detection Dataset**|Ghazal Alinezhad Noghre et.al.|[2408.14329](http://arxiv.org/abs/2408.14329)|**[link](https://github.com/tecsar-uncc/pheva)**|
+|**2024-08-26**|**Effectiveness of Social Distancing under Partial Compliance of Individuals**|Hyelim Shin et.al.|[2408.14226](http://arxiv.org/abs/2408.14226)|null|
+|**2024-08-26**|**Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning**|Wei An et.al.|[2408.14158](http://arxiv.org/abs/2408.14158)|null|
+|**2024-08-26**|**Towards Lifelong Learning Embeddings: An Algorithmic Approach to Dynamically Extend Embeddings**|Miguel Alves Gomes et.al.|[2408.14118](http://arxiv.org/abs/2408.14118)|null|
+|**2024-08-26**|**Automatic recognition and detection of aphasic natural speech**|Mara Barberis et.al.|[2408.14082](http://arxiv.org/abs/2408.14082)|null|
+|**2024-08-26**|**Say Your Reason: Extract Contextual Rules In Situ for Context-aware Service Recommendation**|Yuxuan Li et.al.|[2408.13977](http://arxiv.org/abs/2408.13977)|null|
+|**2024-08-26**|**Anonymization of Voices in Spaces for Civic Dialogue: Measuring Impact on Empathy, Trust, and Feeling Heard**|Wonjune Kang et.al.|[2408.13970](http://arxiv.org/abs/2408.13970)|null|
+|**2024-08-25**|**Time Series Analysis for Education: Methods, Applications, and Future Directions**|Shengzhong Mao et.al.|[2408.13960](http://arxiv.org/abs/2408.13960)|**[link](https://github.com/ai-for-edu/time-series-analysis-for-education)**|
+|**2024-08-25**|**Personalized Topology-Informed 12-Lead ECG Electrode Localization from Incomplete Cardiac MRIs for Efficient Cardiac Digital Twins**|Lei Li et.al.|[2408.13945](http://arxiv.org/abs/2408.13945)|null|
+|**2024-08-25**|**Learning to Move Like Professional Counter-Strike Players**|David Durst et.al.|[2408.13934](http://arxiv.org/abs/2408.13934)|null|
+|**2024-08-25**|**FedGlu: A personalized federated learning-based glucose forecasting algorithm for improved performance in glycemic excursion regions**|Darpit Dave et.al.|[2408.13926](http://arxiv.org/abs/2408.13926)|null|
+|**2024-08-24**|**Finding the Center and Centroid of a Graph with Multiple Sources**|Matthew Chou et.al.|[2408.13688](http://arxiv.org/abs/2408.13688)|null|
+|**2024-08-24**|**Evaluating Alternative Training Interventions Using Personalized Computational Models of Learning**|Christopher James MacLellan et.al.|[2408.13684](http://arxiv.org/abs/2408.13684)|null|
+|**2024-08-24**|**Towards Case-based Interpretability for Medical Federated Learning**|Laura Latorre et.al.|[2408.13626](http://arxiv.org/abs/2408.13626)|null|
+|**2024-08-24**|**IntOPE: Off-Policy Evaluation in the Presence of Interference**|Yuqi Bai et.al.|[2408.13484](http://arxiv.org/abs/2408.13484)|null|
+|**2024-08-24**|**HabitAction: A Video Dataset for Human Habitual Behavior Recognition**|Hongwu Li et.al.|[2408.13463](http://arxiv.org/abs/2408.13463)|null|
+|**2024-08-24**|**Face Clustering via Early Stopping and Edge Recall**|Junjie Liu et.al.|[2408.13431](http://arxiv.org/abs/2408.13431)|null|
+|**2024-08-24**|**Enabling Humanitarian Applications with Targeted Differential Privacy**|Nitin Kohli et.al.|[2408.13424](http://arxiv.org/abs/2408.13424)|null|
 |**2024-08-23**|**EAViT: External Attention Vision Transformer for Audio Classification**|Aquib Iqbal et.al.|[2408.13201](http://arxiv.org/abs/2408.13201)|null|
 |**2024-08-23**|**Avatar Visual Similarity for Social HCI: Increasing Self-Awareness**|Bernhard Hilpert et.al.|[2408.13084](http://arxiv.org/abs/2408.13084)|null|
 |**2024-08-23**|**IntelliCare: Improving Healthcare Analysis with Variance-Controlled Patient-Level Knowledge from Large Language Models**|Zhihao Yu et.al.|[2408.13073](http://arxiv.org/abs/2408.13073)|null|
@@ -509,6 +529,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**A Practitioner's Guide to Continual Multimodal Pretraining**|Karsten Roth et.al.|[2408.14471](http://arxiv.org/abs/2408.14471)|**[link](https://github.com/explainableml/fomo_in_flux)**|
+|**2024-08-26**|**Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models**|Aradhye Agarwal et.al.|[2408.14470](http://arxiv.org/abs/2408.14470)|null|
+|**2024-08-26**|**Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos**|Qirui Chen et.al.|[2408.14469](http://arxiv.org/abs/2408.14469)|null|
+|**2024-08-26**|**Explicit Inductive Inference using Large Language Models**|Tianyang Liu et.al.|[2408.14467](http://arxiv.org/abs/2408.14467)|null|
+|**2024-08-26**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu Shuo Zhao et.al.|[2408.14438](http://arxiv.org/abs/2408.14438)|null|
+|**2024-08-26**|**CHARTOM: A Visual Theory-of-Mind Benchmark for Multimodal Large Language Models**|Shubham Bharti et.al.|[2408.14419](http://arxiv.org/abs/2408.14419)|null|
+|**2024-08-26**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418](http://arxiv.org/abs/2408.14418)|null|
+|**2024-08-26**|**Language-specific Calibration for Pruning Multilingual Language Models**|Simon Kurz et.al.|[2408.14398](http://arxiv.org/abs/2408.14398)|null|
+|**2024-08-26**|**Reprogramming Foundational Large Language Models(LLMs) for Enterprise Adoption for Spatio-Temporal Forecasting Applications: Unveiling a New Era in Copilot-Guided Cross-Modal Time Series Representation Learning**|Sakhinana Sagar Srinivas et.al.|[2408.14387](http://arxiv.org/abs/2408.14387)|null|
+|**2024-08-26**|**Probing Causality Manipulation of Large Language Models**|Chenyang Zhang et.al.|[2408.14380](http://arxiv.org/abs/2408.14380)|**[link](https://github.com/tongjinlp/llm-causality-probing)**|
+|**2024-08-26**|**Exploring ChatGPT App Ecosystem: Distribution, Deployment and Security**|Chuan Yan et.al.|[2408.14357](http://arxiv.org/abs/2408.14357)|null|
+|**2024-08-26**|**SWE-bench-java: A GitHub Issue Resolving Benchmark for Java**|Daoguang Zan et.al.|[2408.14354](http://arxiv.org/abs/2408.14354)|**[link](https://github.com/multi-swe-bench/multi-swe-bench-env)**|
+|**2024-08-26**|**Assessing Contamination in Large Language Models: Introducing the LogProber method**|Nicolas Yax et.al.|[2408.14352](http://arxiv.org/abs/2408.14352)|null|
+|**2024-08-26**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340](http://arxiv.org/abs/2408.14340)|**[link](https://github.com/nicolaus625/fm4music)**|
+|**2024-08-26**|**Claim Verification in the Age of Large Language Models: A Survey**|Alphaeus Dmonte et.al.|[2408.14317](http://arxiv.org/abs/2408.14317)|null|
+|**2024-08-26**|**LLM-3D Print: Large Language Models To Monitor and Control 3D Printing**|Yayati Jadhav et.al.|[2408.14307](http://arxiv.org/abs/2408.14307)|null|
+|**2024-08-26**|**Investigating the Effectiveness of Bayesian Spam Filters in Detecting LLM-modified Spam Mails**|Malte Josten et.al.|[2408.14293](http://arxiv.org/abs/2408.14293)|null|
+|**2024-08-26**|**Uncertainties of Latent Representations in Computer Vision**|Michael Kirchhof et.al.|[2408.14281](http://arxiv.org/abs/2408.14281)|null|
+|**2024-08-26**|**Epidemic Information Extraction for Event-Based Surveillance using Large Language Models**|Sergio Consoli et.al.|[2408.14277](http://arxiv.org/abs/2408.14277)|null|
+|**2024-08-26**|**Towards Synthetic Trace Generation of Modeling Operations using In-Context Learning Approach**|Vittoriano Muttillo et.al.|[2408.14259](http://arxiv.org/abs/2408.14259)|null|
 |**2024-08-23**|**MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**|Yi-Fan Zhang et.al.|[2408.13257](http://arxiv.org/abs/2408.13257)|null|
 |**2024-08-23**|**Domain-specific long text classification from sparse relevant information**|Célia D'Cruz et.al.|[2408.13253](http://arxiv.org/abs/2408.13253)|null|
 |**2024-08-23**|**Foundational Model for Electron Micrograph Analysis: Instruction-Tuning Small-Scale Language-and-Vision Assistant for Enterprise Adoption**|Sakhinana Sagar Srinivas et.al.|[2408.13248](http://arxiv.org/abs/2408.13248)|null|
@@ -1196,7 +1236,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-23**|**Focus on Neighbors and Know the Whole: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation**|Bonan Li et.al.|[2408.13149](http://arxiv.org/abs/2408.13149)|null|
+|**2024-08-26**|**K-Sort Arena: Efficient and Reliable Benchmarking for Generative Models via K-wise Human Preferences**|Zhikai Li et.al.|[2408.14468](http://arxiv.org/abs/2408.14468)|null|
+|**2024-08-26**|**GR-MG: Leveraging Partially Annotated Data via Multi-Modal Goal Conditioned Policy**|Peiyan Li et.al.|[2408.14368](http://arxiv.org/abs/2408.14368)|null|
+|**2024-08-26**|**ConceptMix: A Compositional Image Generation Benchmark with Controllable Difficulty**|Xindi Wu et.al.|[2408.14339](http://arxiv.org/abs/2408.14339)|null|
+|**2024-08-26**|**Reliable Multi-modal Medical Image-to-image Translation Independent of Pixel-wise Aligned Data**|Langrui Zhou et.al.|[2408.14270](http://arxiv.org/abs/2408.14270)|null|
+|**2024-08-26**|**SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher**|Trung Dao et.al.|[2408.14176](http://arxiv.org/abs/2408.14176)|null|
+|**2024-08-26**|**Foodfusion: A Novel Approach for Food Image Composition via Diffusion Models**|Chaohua Shi et.al.|[2408.14135](http://arxiv.org/abs/2408.14135)|null|
+|**2024-08-26**|**Pixel-Aligned Multi-View Generation with Depth Guided Decoder**|Zhenggang Tang et.al.|[2408.14016](http://arxiv.org/abs/2408.14016)|null|
+|**2024-08-25**|**ConVis: Contrastive Decoding with Hallucination Visualization for Mitigating Hallucinations in Multimodal Large Language Models**|Yeji Park et.al.|[2408.13906](http://arxiv.org/abs/2408.13906)|**[link](https://github.com/yejipark-m/convis)**|
+|**2024-08-25**|**RT-Attack: Jailbreaking Text-to-Image Models via Random Token**|Sensen Gao et.al.|[2408.13896](http://arxiv.org/abs/2408.13896)|null|
+|**2024-08-25**|**Draw Like an Artist: Complex Scene Generation with Diffusion Model via Composition, Painting, and Retouching**|Minghao Liu et.al.|[2408.13858](http://arxiv.org/abs/2408.13858)|null|
+|**2024-08-25**|**Prior Learning in Introspective VAEs**|Ioannis Athanasiadis et.al.|[2408.13805](http://arxiv.org/abs/2408.13805)|null|
+|**2024-08-25**|**SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting**|Wenrui Li et.al.|[2408.13711](http://arxiv.org/abs/2408.13711)|**[link](https://github.com/liwrui/scenedreamer360)**|
+|**2024-08-24**|**Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing**|Yitong Yang et.al.|[2408.13623](http://arxiv.org/abs/2408.13623)|null|
+|**2024-08-24**|**DualAnoDiff: Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation**|Ying Jin et.al.|[2408.13509](http://arxiv.org/abs/2408.13509)|null|
+|**2024-08-24**|**Explainable Concept Generation through Vision-Language Preference Learning**|Aditya Taparia et.al.|[2408.13438](http://arxiv.org/abs/2408.13438)|null|
+|**2024-08-23**|**Shape-Preserving Generation of Food Images for Automatic Dietary Assessment**|Guangzong Chen et.al.|[2408.13358](http://arxiv.org/abs/2408.13358)|null|
+|**2024-08-23**|**Latent Space Disentanglement in Diffusion Transformers Enables Zero-shot Fine-grained Semantic Editing**|Zitao Shuai et.al.|[2408.13335](http://arxiv.org/abs/2408.13335)|null|
+|**2024-08-26**|**Focus on Neighbors and Know the Whole: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation**|Bonan Li et.al.|[2408.13149](http://arxiv.org/abs/2408.13149)|null|
 |**2024-08-23**|**G3FA: Geometry-guided GAN for Face Animation**|Alireza Javanmardi et.al.|[2408.13049](http://arxiv.org/abs/2408.13049)|null|
 |**2024-08-23**|**EasyControl: Transfer ControlNet to Video Diffusion for Controllable Generation and Interpolation**|Cong Wang et.al.|[2408.13005](http://arxiv.org/abs/2408.13005)|null|
 |**2024-08-23**|**What Do You Want? User-centric Prompt Generation for Text-to-image Synthesis via Multi-turn Guidance**|Yilun Liu et.al.|[2408.12910](http://arxiv.org/abs/2408.12910)|null|
