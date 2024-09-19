@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**Massively Multi-Person 3D Human Motion Forecasting with Scene Context**|Felix B Mueller et.al.|[2409.12189](http://arxiv.org/abs/2409.12189)|null|
+|**2024-09-18**|**Autopet III challenge: Incorporating anatomical knowledge into nnUNet for lesion segmentation in PET/CT**|Hamza Kalisch et.al.|[2409.12155](http://arxiv.org/abs/2409.12155)|null|
+|**2024-09-18**|**Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference**|Najmeh Forouzandehmehr et.al.|[2409.12150](http://arxiv.org/abs/2409.12150)|null|
+|**2024-09-18**|**Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models**|EverestAI et.al.|[2409.12139](http://arxiv.org/abs/2409.12139)|null|
+|**2024-09-18**|**Understanding the Effects of the Baidu-ULTR Logging Policy on Two-Tower Models**|Morris de Haan et.al.|[2409.12043](http://arxiv.org/abs/2409.12043)|null|
+|**2024-09-18**|**Implementing New Technology in Educational Systems**|Scott Allen et.al.|[2409.12039](http://arxiv.org/abs/2409.12039)|null|
+|**2024-09-18**|**Conformity assessment of processes and lots in the framework of JCGM 106:2012**|Rainer Göb et.al.|[2409.11912](http://arxiv.org/abs/2409.11912)|null|
+|**2024-09-18**|**AlignBot: Aligning VLM-powered Customized Task Planning with User Reminders Through Fine-Tuning for Household Robots**|Zhaxizhuoma et.al.|[2409.11905](http://arxiv.org/abs/2409.11905)|null|
+|**2024-09-18**|**LLMs + Persona-Plug = Personalized LLMs**|Jiongnan Liu et.al.|[2409.11901](http://arxiv.org/abs/2409.11901)|null|
+|**2024-09-18**|**Crossing the disciplines -- a starter toolkit for researchers who wish to explore early Irish literature**|M. McCarthy et.al.|[2409.11858](http://arxiv.org/abs/2409.11858)|null|
+|**2024-09-18**|**Law-based and standards-oriented approach for privacy impact assessment in medical devices: a topic for lawyers, engineers and healthcare practitioners in MedTech**|Yuri R. Ladeia et.al.|[2409.11845](http://arxiv.org/abs/2409.11845)|null|
+|**2024-09-18**|**Inside Out or Not: Privacy Implications of Emotional Disclosure**|Elham Naghizade et.al.|[2409.11805](http://arxiv.org/abs/2409.11805)|null|
+|**2024-09-18**|**Model-Checking the Implementation of Consent**|Raúl Pardo et.al.|[2409.11803](http://arxiv.org/abs/2409.11803)|null|
+|**2024-09-18**|**Fast Spot Order Optimization to Increase Dose Rates in Scanned Particle Therapy FLASH Treatments**|Viktor Wase et.al.|[2409.11794](http://arxiv.org/abs/2409.11794)|null|
+|**2024-09-18**|**My Views Do Not Reflect Those of My Employer: Differences in Behavior of Organizations' Official and Personal Social Media Accounts**|Esa Palosaari et.al.|[2409.11759](http://arxiv.org/abs/2409.11759)|null|
+|**2024-09-18**|**Revolutionizing Pharmaceutical Manufacturing: Advances and Challenges of 3D Printing System and Control**|Rahul Kumar et.al.|[2409.11712](http://arxiv.org/abs/2409.11712)|null|
+|**2024-09-18**|**"A Woman is More Culturally Knowledgeable than A Man?": The Effect of Personas on Cultural Norm Interpretation in LLMs**|Mahammed Kamruzzaman et.al.|[2409.11636](http://arxiv.org/abs/2409.11636)|null|
+|**2024-09-17**|**Exploring Dimensions of Expertise in AR-Guided Psychomotor Tasks**|Steven Yoo et.al.|[2409.11599](http://arxiv.org/abs/2409.11599)|null|
+|**2024-09-17**|**ProSLM : A Prolog Synergized Language Model for explainable Domain Specific Knowledge Based Question Answering**|Priyesh Vakharia et.al.|[2409.11589](http://arxiv.org/abs/2409.11589)|null|
+|**2024-09-17**|**Leveraging AI-Generated Emotional Self-Voice to Nudge People towards their Ideal Selves**|Cathy Mengying Fang et.al.|[2409.11531](http://arxiv.org/abs/2409.11531)|null|
 |**2024-09-17**|**An Empirical Study of Sensitive Information in Logs**|Roozbeh Aghili et.al.|[2409.11313](http://arxiv.org/abs/2409.11313)|null|
 |**2024-09-17**|**Decentralized Biometric Authentication based on Fuzzy Commitments and Blockchain**|Nibras Abo Alzahab et.al.|[2409.11303](http://arxiv.org/abs/2409.11303)|null|
 |**2024-09-17**|**EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage**|Zeyi Liao et.al.|[2409.11295](http://arxiv.org/abs/2409.11295)|null|
@@ -722,6 +742,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194](http://arxiv.org/abs/2409.12194)|null|
+|**2024-09-18**|**DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control**|Zichen Jeff Cui et.al.|[2409.12192](http://arxiv.org/abs/2409.12192)|null|
+|**2024-09-18**|**Qwen2.5-Coder Technical Report**|Binyuan Hui et.al.|[2409.12186](http://arxiv.org/abs/2409.12186)|null|
+|**2024-09-18**|**To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning**|Zayne Sprague et.al.|[2409.12183](http://arxiv.org/abs/2409.12183)|null|
+|**2024-09-18**|**A Controlled Study on Long Context Extension and Generalization in LLMs**|Yi Lu et.al.|[2409.12181](http://arxiv.org/abs/2409.12181)|**[link](https://github.com/leooyii/lceg)**|
+|**2024-09-18**|**Finetuning Language Models to Emit Linguistic Expressions of Uncertainty**|Arslan Chaudhry et.al.|[2409.12180](http://arxiv.org/abs/2409.12180)|null|
+|**2024-09-18**|**Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference**|Najmeh Forouzandehmehr et.al.|[2409.12150](http://arxiv.org/abs/2409.12150)|null|
+|**2024-09-18**|**MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning**|Justin Chih-Yao Chen et.al.|[2409.12147](http://arxiv.org/abs/2409.12147)|**[link](https://github.com/dinobby/magicore)**|
+|**2024-09-18**|**MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion**|Kalakonda Sai Shashank et.al.|[2409.12140](http://arxiv.org/abs/2409.12140)|null|
+|**2024-09-18**|**Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models**|EverestAI et.al.|[2409.12139](http://arxiv.org/abs/2409.12139)|null|
+|**2024-09-18**|**Qwen2.5-Math Technical Report: Toward Mathematical Expert Model via Self-Improvement**|An Yang et.al.|[2409.12122](http://arxiv.org/abs/2409.12122)|null|
+|**2024-09-18**|**Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference**|Edresson Casanova et.al.|[2409.12117](http://arxiv.org/abs/2409.12117)|null|
+|**2024-09-18**|**Measuring Human and AI Values based on Generative Psychometrics with Large Language Models**|Haoran Ye et.al.|[2409.12106](http://arxiv.org/abs/2409.12106)|**[link](https://github.com/value4ai/gpv)**|
+|**2024-09-18**|**Dual-Layer Training and Decoding of Large Language Model with Simultaneously Thinking and Speaking**|Ningyuan Xi et.al.|[2409.12059](http://arxiv.org/abs/2409.12059)|null|
+|**2024-09-18**|**Using Large Language Models to Generate Clinical Trial Tables and Figures**|Yumeng Yang et.al.|[2409.12046](http://arxiv.org/abs/2409.12046)|null|
+|**2024-09-18**|**ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation**|Peiyu Li et.al.|[2409.12010](http://arxiv.org/abs/2409.12010)|**[link](https://github.com/peiyu-georgia-li/cheffusion-multimodal-foundation-model-integrating-recipe-and-food-image-generation)**|
+|**2024-09-18**|**Sampling Latent Material-Property Information From LLM-Derived Embedding Representations**|Luke P. J. Gilligan et.al.|[2409.11971](http://arxiv.org/abs/2409.11971)|null|
+|**2024-09-18**|**Efficacy of Synthetic Data as a Benchmark**|Gaurav Maheshwari et.al.|[2409.11968](http://arxiv.org/abs/2409.11968)|null|
+|**2024-09-18**|**LLM-wrapper: Black-Box Semantic-Aware Adaptation of Vision-Language Foundation Models**|Amaia Cardiel et.al.|[2409.11919](http://arxiv.org/abs/2409.11919)|null|
+|**2024-09-18**|**LLMs in Education: Novel Perspectives, Challenges, and Opportunities**|Bashar Alhafni et.al.|[2409.11917](http://arxiv.org/abs/2409.11917)|null|
 |**2024-09-17**|**AraDiCE: Benchmarks for Dialectal and Cultural Capabilities in LLMs**|Basel Mousi et.al.|[2409.11404](http://arxiv.org/abs/2409.11404)|null|
 |**2024-09-17**|**NVLM: Open Frontier-Class Multimodal LLMs**|Wenliang Dai et.al.|[2409.11402](http://arxiv.org/abs/2409.11402)|null|
 |**2024-09-17**|**LLM-Agent-UMF: LLM-based Agent Unified Modeling Framework for Seamless Integration of Multi Active/Passive Core-Agents**|Amine B. Hassouna et.al.|[2409.11393](http://arxiv.org/abs/2409.11393)|null|
@@ -1707,6 +1747,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**Brain-Streams: fMRI-to-Image Reconstruction with Multi-modal Guidance**|Jaehoon Joo et.al.|[2409.12099](http://arxiv.org/abs/2409.12099)|null|
+|**2024-09-18**|**LEMON: Localized Editing with Mesh Optimization and Neural Shaders**|Furkan Mert Algan et.al.|[2409.12024](http://arxiv.org/abs/2409.12024)|null|
+|**2024-09-18**|**ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation**|Peiyu Li et.al.|[2409.12010](http://arxiv.org/abs/2409.12010)|**[link](https://github.com/peiyu-georgia-li/cheffusion-multimodal-foundation-model-integrating-recipe-and-food-image-generation)**|
+|**2024-09-18**|**Tracking Any Point with Frame-Event Fusion Network at High Frame Rate**|Jiaxiong Liu et.al.|[2409.11953](http://arxiv.org/abs/2409.11953)|null|
+|**2024-09-18**|**Finding the Subjective Truth: Collecting 2 Million Votes for Comprehensive Gen-AI Model Evaluation**|Dimitrios Christodoulou et.al.|[2409.11904](http://arxiv.org/abs/2409.11904)|null|
+|**2024-09-18**|**ABHINAW: A method for Automatic Evaluation of Typography within AI-Generated Images**|Abhinaw Jagtap et.al.|[2409.11874](http://arxiv.org/abs/2409.11874)|null|
+|**2024-09-18**|**RaggeDi: Diffusion-based State Estimation of Disordered Rags, Sheets, Towels and Blankets**|Jikai Ye et.al.|[2409.11831](http://arxiv.org/abs/2409.11831)|null|
+|**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689](http://arxiv.org/abs/2409.11689)|null|
+|**2024-09-17**|**Using Physics Informed Generative Adversarial Networks to Model 3D porous media**|Zihan Ren et.al.|[2409.11541](http://arxiv.org/abs/2409.11541)|null|
 |**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355](http://arxiv.org/abs/2409.11355)|null|
 |**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340](http://arxiv.org/abs/2409.11340)|**[link](https://github.com/vectorspacelab/omnigen)**|
 |**2024-09-17**|**Score Forgetting Distillation: A Swift, Data-Free Method for Machine Unlearning in Diffusion Models**|Tianqi Chen et.al.|[2409.11219](http://arxiv.org/abs/2409.11219)|null|
