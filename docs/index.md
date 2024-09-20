@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.19
+## Updated on 2024.09.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RecSys
@@ -742,7 +742,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-18**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194](http://arxiv.org/abs/2409.12194)|null|
+|**2024-09-19**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194](http://arxiv.org/abs/2409.12194)|null|
 |**2024-09-18**|**DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control**|Zichen Jeff Cui et.al.|[2409.12192](http://arxiv.org/abs/2409.12192)|null|
 |**2024-09-18**|**Qwen2.5-Coder Technical Report**|Binyuan Hui et.al.|[2409.12186](http://arxiv.org/abs/2409.12186)|null|
 |**2024-09-18**|**To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning**|Zayne Sprague et.al.|[2409.12183](http://arxiv.org/abs/2409.12183)|null|
@@ -756,7 +756,7 @@ layout: default
 |**2024-09-18**|**Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference**|Edresson Casanova et.al.|[2409.12117](http://arxiv.org/abs/2409.12117)|null|
 |**2024-09-18**|**Measuring Human and AI Values based on Generative Psychometrics with Large Language Models**|Haoran Ye et.al.|[2409.12106](http://arxiv.org/abs/2409.12106)|**[link](https://github.com/value4ai/gpv)**|
 |**2024-09-18**|**Dual-Layer Training and Decoding of Large Language Model with Simultaneously Thinking and Speaking**|Ningyuan Xi et.al.|[2409.12059](http://arxiv.org/abs/2409.12059)|null|
-|**2024-09-18**|**Using Large Language Models to Generate Clinical Trial Tables and Figures**|Yumeng Yang et.al.|[2409.12046](http://arxiv.org/abs/2409.12046)|null|
+|**2024-09-19**|**Using Large Language Models to Generate Clinical Trial Tables and Figures**|Yumeng Yang et.al.|[2409.12046](http://arxiv.org/abs/2409.12046)|null|
 |**2024-09-18**|**ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation**|Peiyu Li et.al.|[2409.12010](http://arxiv.org/abs/2409.12010)|**[link](https://github.com/peiyu-georgia-li/cheffusion-multimodal-foundation-model-integrating-recipe-and-food-image-generation)**|
 |**2024-09-18**|**Sampling Latent Material-Property Information From LLM-Derived Embedding Representations**|Luke P. J. Gilligan et.al.|[2409.11971](http://arxiv.org/abs/2409.11971)|null|
 |**2024-09-18**|**Efficacy of Synthetic Data as a Benchmark**|Gaurav Maheshwari et.al.|[2409.11968](http://arxiv.org/abs/2409.11968)|null|
@@ -1756,7 +1756,7 @@ layout: default
 |**2024-09-18**|**RaggeDi: Diffusion-based State Estimation of Disordered Rags, Sheets, Towels and Blankets**|Jikai Ye et.al.|[2409.11831](http://arxiv.org/abs/2409.11831)|null|
 |**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689](http://arxiv.org/abs/2409.11689)|null|
 |**2024-09-17**|**Using Physics Informed Generative Adversarial Networks to Model 3D porous media**|Zihan Ren et.al.|[2409.11541](http://arxiv.org/abs/2409.11541)|null|
-|**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355](http://arxiv.org/abs/2409.11355)|null|
+|**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355](http://arxiv.org/abs/2409.11355)|**[link](https://github.com/VisualComputingInstitute/diffusion-e2e-ft)**|
 |**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340](http://arxiv.org/abs/2409.11340)|**[link](https://github.com/vectorspacelab/omnigen)**|
 |**2024-09-17**|**Score Forgetting Distillation: A Swift, Data-Free Method for Machine Unlearning in Diffusion Models**|Tianqi Chen et.al.|[2409.11219](http://arxiv.org/abs/2409.11219)|null|
 |**2024-09-17**|**Improving the Efficiency of Visually Augmented Language Models**|Paula Ontalvilla et.al.|[2409.11148](http://arxiv.org/abs/2409.11148)|null|
