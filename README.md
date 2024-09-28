@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**Stable Video Portraits**|Mirela Ostrek et.al.|[2409.18083](http://arxiv.org/abs/2409.18083)|null|
+|**2024-09-26**|**Enhancing Tourism Recommender Systems for Sustainable City Trips Using Retrieval-Augmented Generation**|Ashmi Banerjee et.al.|[2409.18003](http://arxiv.org/abs/2409.18003)|null|
+|**2024-09-26**|**CRoP: Context-wise Robust Static Human-Sensing Personalization**|Sawinder Kaur et.al.|[2409.17994](http://arxiv.org/abs/2409.17994)|null|
+|**2024-09-26**|**Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation**|Qihan Huang et.al.|[2409.17920](http://arxiv.org/abs/2409.17920)|null|
+|**2024-09-26**|**Upper-Body Pose-based Gaze Estimation for Privacy-Preserving 3D Gaze Target Detection**|Andrea Toaiari et.al.|[2409.17886](http://arxiv.org/abs/2409.17886)|**[link](https://github.com/intelligolabs/privacy-gtd-3d)**|
+|**2024-09-26**|**A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios**|Christian Ganhör et.al.|[2409.17864](http://arxiv.org/abs/2409.17864)|null|
+|**2024-09-26**|**Value Identification in Multistakeholder Recommender Systems for Humanities and Historical Research: The Case of the Digital Archive Monasterium.net**|Florian Atzenhofer-Baumgartner et.al.|[2409.17769](http://arxiv.org/abs/2409.17769)|null|
+|**2024-09-26**|**Efficient Pointwise-Pairwise Learning-to-Rank for News Recommendation**|Nithish Kannen et.al.|[2409.17711](http://arxiv.org/abs/2409.17711)|null|
+|**2024-09-26**|**Leveraging Anthropometric Measurements to Improve Human Mesh Estimation and Ensure Consistent Body Shapes**|Katja Ludwig et.al.|[2409.17671](http://arxiv.org/abs/2409.17671)|null|
+|**2024-09-26**|**Digital Twin Ecosystem for Oncology Clinical Operations**|Himanshu Pandey et.al.|[2409.17650](http://arxiv.org/abs/2409.17650)|null|
+|**2024-09-26**|**Attitudes and perceived effectiveness among first-time online instructors during Covid-19**|Owen Xingjian Zhang et.al.|[2409.17600](http://arxiv.org/abs/2409.17600)|null|
+|**2024-09-26**|**Dr. GPT in Campus Counseling: Understanding Higher Education Students' Opinions on LLM-assisted Mental Health Services**|Owen Xingjian Zhang et.al.|[2409.17572](http://arxiv.org/abs/2409.17572)|null|
+|**2024-09-26**|**When A Man Says He Is Pregnant: ERP Evidence for A Rational Account of Speaker-contextualized Language Comprehension**|Hanlin Wu et.al.|[2409.17525](http://arxiv.org/abs/2409.17525)|null|
+|**2024-09-26**|**EAGLE: Egocentric AGgregated Language-video Engine**|Jing Bi et.al.|[2409.17523](http://arxiv.org/abs/2409.17523)|null|
+|**2024-09-26**|**Active Vision Might Be All You Need: Exploring Active Vision in Bimanual Robotic Manipulation**|Ian Chuang et.al.|[2409.17435](http://arxiv.org/abs/2409.17435)|null|
+|**2024-09-25**|**Stress Detection from Photoplethysmography in a Virtual Reality Environment**|Athar Mahmoudi-Nejad et.al.|[2409.17427](http://arxiv.org/abs/2409.17427)|**[link](https://github.com/athar70/stress-estimation)**|
+|**2024-09-25**|**Spiders Based on Anxiety: How Reinforcement Learning Can Deliver Desired User Experience in Virtual Reality Personalized Arachnophobia Treatment**|Athar Mahmoudi-Nejad et.al.|[2409.17406](http://arxiv.org/abs/2409.17406)|**[link](https://github.com/athar70/edpcgrl4spider)**|
+|**2024-09-25**|**Evaluation of Galaxy as a User-friendly Bioinformatics Tool for Enhancing Clinical Diagnostics in Genetics Laboratories**|Hadi Almohab et.al.|[2409.17253](http://arxiv.org/abs/2409.17253)|null|
 |**2024-09-25**|**Language-oriented Semantic Communication for Image Transmission with Fine-Tuned Diffusion Model**|Xinfeng Wei et.al.|[2409.17104](http://arxiv.org/abs/2409.17104)|null|
 |**2024-09-25**|**Efficient Feature Interactions with Transformers: Improving User Spending Propensity Predictions in Gaming**|Ved Prakash et.al.|[2409.17077](http://arxiv.org/abs/2409.17077)|null|
 |**2024-09-25**|**Adaptive Self-Supervised Learning Strategies for Dynamic On-Device LLM Personalization**|Rafael Mendoza et.al.|[2409.16973](http://arxiv.org/abs/2409.16973)|null|
@@ -763,12 +781,32 @@
 |**2024-07-08**|**CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation**|Xinying Guo et.al.|[2407.06188](http://arxiv.org/abs/2407.06188)|null|
 |**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187](http://arxiv.org/abs/2407.06187)|null|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**EgoLM: Multi-Modal Language Model of Egocentric Motions**|Fangzhou Hong et.al.|[2409.18127](http://arxiv.org/abs/2409.18127)|null|
+|**2024-09-26**|**Robot See Robot Do: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction**|Justin Kerr et.al.|[2409.18121](http://arxiv.org/abs/2409.18121)|null|
+|**2024-09-26**|**Multi-View and Multi-Scale Alignment for Contrastive Language-Image Pre-training in Mammography**|Yuexi Du et.al.|[2409.18119](http://arxiv.org/abs/2409.18119)|null|
+|**2024-09-26**|**E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding**|Ye Liu et.al.|[2409.18111](http://arxiv.org/abs/2409.18111)|**[link](https://github.com/PolyU-ChenLab/ETBench)**|
+|**2024-09-26**|**Self-supervised Pretraining for Cardiovascular Magnetic Resonance Cine Segmentation**|Rob A. J. de Mooij et.al.|[2409.18100](http://arxiv.org/abs/2409.18100)|**[link](https://github.com/q-cardia/ssp-cmr-cine-segmentation)**|
+|**2024-09-26**|**EfficientCrackNet: A Lightweight Model for Crack Segmentation**|Abid Hasan Zim et.al.|[2409.18099](http://arxiv.org/abs/2409.18099)|null|
+|**2024-09-26**|**Infering Alt-text For UI Icons With Large Language Models During App Development**|Sabrina Haque et.al.|[2409.18060](http://arxiv.org/abs/2409.18060)|null|
+|**2024-09-26**|**LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**|Huan Wang et.al.|[2409.18057](http://arxiv.org/abs/2409.18057)|**[link](https://github.com/mingsun-tse/lightavatar-tensorflow)**|
+|**2024-09-26**|**DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving**|Dingrui Wang et.al.|[2409.18053](http://arxiv.org/abs/2409.18053)|null|
+|**2024-09-26**|**Unveiling the Role of Pretraining in Direct Speech Translation**|Belen Alastruey et.al.|[2409.18044](http://arxiv.org/abs/2409.18044)|null|
+|**2024-09-26**|**EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions**|Kai Chen et.al.|[2409.18042](http://arxiv.org/abs/2409.18042)|null|
+|**2024-09-26**|**Compositional Hardness of Code in Large Language Models -- A Probabilistic Perspective**|Yotam Wolf et.al.|[2409.18028](http://arxiv.org/abs/2409.18028)|null|
+|**2024-09-26**|**An Adversarial Perspective on Machine Unlearning for AI Safety**|Jakub Łucki et.al.|[2409.18025](http://arxiv.org/abs/2409.18025)|null|
+|**2024-09-26**|**DARE: Diverse Visual Question Answering with Robustness Evaluation**|Hannah Sterz et.al.|[2409.18023](http://arxiv.org/abs/2409.18023)|null|
+|**2024-09-26**|**Role-RL: Online Long-Context Processing with Role Reinforcement Learning for Distinct LLMs in Their Optimal Roles**|Lewei He et.al.|[2409.18014](http://arxiv.org/abs/2409.18014)|null|
+|**2024-09-26**|**Control Industrial Automation System with Large Language Models**|Yuchen Xia et.al.|[2409.18009](http://arxiv.org/abs/2409.18009)|**[link](https://github.com/yuchenxia/llm4ias)**|
+|**2024-09-26**|**Multilingual Evaluation of Long Context Retrieval and Reasoning**|Ameeta Agrawal et.al.|[2409.18006](http://arxiv.org/abs/2409.18006)|null|
+|**2024-09-26**|**Enhancing Tourism Recommender Systems for Sustainable City Trips Using Retrieval-Augmented Generation**|Ashmi Banerjee et.al.|[2409.18003](http://arxiv.org/abs/2409.18003)|null|
+|**2024-09-26**|**Extracting Affect Aggregates from Longitudinal Social Media Data with Temporal Adapters for Large Language Models**|Georg Ahnert et.al.|[2409.17990](http://arxiv.org/abs/2409.17990)|**[link](https://github.com/dess-mannheim/temporal-adapters)**|
+|**2024-09-26**|**LLM4Brain: Training a Large Language Model for Brain Video Understanding**|Ruizhe Zheng et.al.|[2409.17987](http://arxiv.org/abs/2409.17987)|null|
 |**2024-09-25**|**DreamWaltz-G: Expressive 3D Gaussian Avatars from Skeleton-Guided 2D Diffusion**|Yukun Huang et.al.|[2409.17145](http://arxiv.org/abs/2409.17145)|null|
 |**2024-09-25**|**Attention Prompting on Image for Large Vision-Language Models**|Runpeng Yu et.al.|[2409.17143](http://arxiv.org/abs/2409.17143)|**[link](https://github.com/yu-rp/apiprompting)**|
 |**2024-09-25**|**FineZip : Pushing the Limits of Large Language Models for Practical Lossless Text Compression**|Fazal Mittu et.al.|[2409.17141](http://arxiv.org/abs/2409.17141)|**[link](https://github.com/fazalmittu/finezip)**|
@@ -1790,12 +1828,28 @@
 |**2024-07-09**|**Who is better at math, Jenny or Jingzhen? Uncovering Stereotypes in Large Language Models**|Zara Siddique et.al.|[2407.06917](http://arxiv.org/abs/2407.06917)|null|
 |**2024-07-09**|**Fine-grained large-scale content recommendations for MSX sellers**|Manpreet Singh et.al.|[2407.06910](http://arxiv.org/abs/2407.06910)|null|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 ## Image Genration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner**|Wenliang Zhao et.al.|[2409.18128](http://arxiv.org/abs/2409.18128)|**[link](https://github.com/shiml20/flowturbo)**|
+|**2024-09-26**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124](http://arxiv.org/abs/2409.18124)|null|
+|**2024-09-26**|**DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models**|Helin Cao et.al.|[2409.18092](http://arxiv.org/abs/2409.18092)|null|
+|**2024-09-26**|**Stable Video Portraits**|Mirela Ostrek et.al.|[2409.18083](http://arxiv.org/abs/2409.18083)|null|
+|**2024-09-26**|**Pioneering Reliable Assessment in Text-to-Image Knowledge Editing: Leveraging a Fine-Grained Dataset and an Innovative Criterion**|Hengrui Gu et.al.|[2409.17928](http://arxiv.org/abs/2409.17928)|null|
+|**2024-09-26**|**Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation**|Qihan Huang et.al.|[2409.17920](http://arxiv.org/abs/2409.17920)|null|
+|**2024-09-26**|**Text Image Generation for Low-Resource Languages with Dual Translation Learning**|Chihiro Noguchi et.al.|[2409.17747](http://arxiv.org/abs/2409.17747)|null|
+|**2024-09-26**|**AnyLogo: Symbiotic Subject-Driven Diffusion System with Gemini Status**|Jinghao Zhang et.al.|[2409.17740](http://arxiv.org/abs/2409.17740)|null|
+|**2024-09-26**|**Dark Miner: Defend against unsafe generation for text-to-image diffusion models**|Zheling Meng et.al.|[2409.17682](http://arxiv.org/abs/2409.17682)|null|
+|**2024-09-26**|**ID $^3$ : Identity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition**|Shen Li et.al.|[2409.17576](http://arxiv.org/abs/2409.17576)|null|
+|**2024-09-26**|**Pixel-Space Post-Training of Latent Diffusion Models**|Christina Zhang et.al.|[2409.17565](http://arxiv.org/abs/2409.17565)|null|
+|**2024-09-26**|**JoyType: A Robust Design for Multilingual Visual Text Creation**|Chao Li et.al.|[2409.17524](http://arxiv.org/abs/2409.17524)|null|
+|**2024-09-26**|**Study of Subjective and Objective Quality in Super-Resolution Enhanced Broadcast Images on a Novel SR-IQA Dataset**|Yongrok Kim et.al.|[2409.17451](http://arxiv.org/abs/2409.17451)|null|
+|**2024-09-26**|**Rejection Sampling IMLE: Designing Priors for Better Few-Shot Image Synthesis**|Chirag Vashist et.al.|[2409.17439](http://arxiv.org/abs/2409.17439)|null|
+|**2024-09-25**|**Copying style, Extracting value: Illustrators' Perception of AI Style Transfer and its Impact on Creative Labor**|Julien Porquet et.al.|[2409.17410](http://arxiv.org/abs/2409.17410)|null|
+|**2024-09-25**|**Consistent estimation of generative model representations in the data kernel perspective space**|Aranyak Acharyya et.al.|[2409.17308](http://arxiv.org/abs/2409.17308)|null|
 |**2024-09-25**|**Degradation-Guided One-Step Image Super-Resolution with Diffusion Priors**|Aiping Zhang et.al.|[2409.17058](http://arxiv.org/abs/2409.17058)|**[link](https://github.com/arctichare105/s3diff)**|
 |**2024-09-25**|**ControlCity: A Multimodal Diffusion Model Based Approach for Accurate Geospatial Data Generation and Urban Morphology Analysis**|Fangshuo Zhou et.al.|[2409.17049](http://arxiv.org/abs/2409.17049)|**[link](https://github.com/fangshuoz/controlcity)**|
 |**2024-09-25**|**GeoBiked: A Dataset with Geometric Features and Automated Labeling Techniques to Enable Deep Generative Models in Engineering Design**|Phillip Mueller et.al.|[2409.17045](http://arxiv.org/abs/2409.17045)|null|
@@ -2245,7 +2299,7 @@
 |**2024-07-07**|**Topological Persistence Guided Knowledge Distillation for Wearable Sensor Data**|Eun Som Jeon et.al.|[2407.05315](http://arxiv.org/abs/2407.05315)|null|
 |**2024-07-07**|**An Improved Method for Personalizing Diffusion Models**|Yan Zeng et.al.|[2407.05312](http://arxiv.org/abs/2407.05312)|null|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
