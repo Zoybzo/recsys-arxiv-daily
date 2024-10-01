@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**DressRecon: Freeform 4D Human Reconstruction from Monocular Video**|Jeff Tan et.al.|[2409.20563](http://arxiv.org/abs/2409.20563)|null|
+|**2024-09-30**|**Preservación de la memoria colectiva-científica, en la astronomía argentina, desde el Observatorio de La Plata**|Natalia Soledad Meilán et.al.|[2409.20542](http://arxiv.org/abs/2409.20542)|null|
+|**2024-09-30**|**NUTRIVISION: A System for Automatic Diet Management in Smart Healthcare**|Madhumita Veeramreddy et.al.|[2409.20508](http://arxiv.org/abs/2409.20508)|null|
+|**2024-09-30**|**RecSys Challenge 2024: Balancing Accuracy and Editorial Values in News Recommendations**|Johannes Kruse et.al.|[2409.20483](http://arxiv.org/abs/2409.20483)|null|
+|**2024-09-30**|**Superposition of PRS and PDSCH for ISAC System: Spectral Efficiency Enhancement and Range Ambiguity Elimination**|Keivan Khosroshahi et.al.|[2409.20420](http://arxiv.org/abs/2409.20420)|null|
+|**2024-09-30**|**Conformal Prediction for Dose-Response Models with Continuous Treatments**|Jarne Verhaeghe et.al.|[2409.20412](http://arxiv.org/abs/2409.20412)|null|
+|**2024-09-30**|**Fine-Tuning Personalization in Federated Learning to Mitigate Adversarial Clients**|Youssef Allouah et.al.|[2409.20329](http://arxiv.org/abs/2409.20329)|null|
+|**2024-09-30**|**A Mathematical Perspective on Neurophenomenology**|Lancelot Da Costa et.al.|[2409.20318](http://arxiv.org/abs/2409.20318)|null|
+|**2024-09-30**|**PersonalLLM: Tailoring LLMs to Individual Preferences**|Thomas P. Zollo et.al.|[2409.20296](http://arxiv.org/abs/2409.20296)|null|
+|**2024-09-30**|**Investigating Creation Perspectives and Icon Placement Preferences for On-Body Menus in Virtual Reality**|Xiang Li et.al.|[2409.20238](http://arxiv.org/abs/2409.20238)|null|
+|**2024-09-30**|**MemSim: A Bayesian Simulator for Evaluating Memory of LLM-based Personal Assistants**|Zeyu Zhang et.al.|[2409.20163](http://arxiv.org/abs/2409.20163)|**[link](https://github.com/nuster1128/memsim)**|
+|**2024-09-30**|**Aggressive Post-Training Compression on Extremely Large Language Models**|Zining Zhang et.al.|[2409.20094](http://arxiv.org/abs/2409.20094)|null|
+|**2024-09-30**|**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**|Can Cui et.al.|[2409.20081](http://arxiv.org/abs/2409.20081)|**[link](https://github.com/cuixxx/profd)**|
+|**2024-09-30**|**OPONeRF: One-Point-One NeRF for Robust Neural Rendering**|Yu Zheng et.al.|[2409.20043](http://arxiv.org/abs/2409.20043)|null|
+|**2024-09-30**|**Personalisation via Dynamic Policy Fusion**|Ajsal Shereef Palattuparambil et.al.|[2409.20016](http://arxiv.org/abs/2409.20016)|null|
+|**2024-09-30**|**Early review of Gender Bias of OpenAI o1-mini: Higher Intelligence of LLM does not necessarily solve Gender Bias and Stereotyping issues**|Rajesh Ranjan et.al.|[2409.19959](http://arxiv.org/abs/2409.19959)|null|
+|**2024-09-30**|**Attribute-Text Guided Forgetting Compensation for Lifelong Person Re-Identification**|Shiben Liu et.al.|[2409.19954](http://arxiv.org/abs/2409.19954)|null|
+|**2024-09-30**|**Illustrious: an Open Advanced Illustration Model**|Sang Hyun Park et.al.|[2409.19946](http://arxiv.org/abs/2409.19946)|null|
+|**2024-09-30**|**VAP: The Vulnerability-Adaptive Protection Paradigm Toward Reliable Autonomous Machines**|Zishen Wan et.al.|[2409.19892](http://arxiv.org/abs/2409.19892)|null|
+|**2024-09-30**|**Opt-in Camera: Person Identification in Video via UWB Localization and Its Application to Opt-in Systems**|Matthew Ishige et.al.|[2409.19891](http://arxiv.org/abs/2409.19891)|null|
 |**2024-09-27**|**UniEmoX: Cross-modal Semantic-Guided Large-Scale Pretraining for Universal Scene Emotion Perception**|Chuang Chen et.al.|[2409.18877](http://arxiv.org/abs/2409.18877)|null|
 |**2024-09-27**|**Space-time 2D Gaussian Splatting for Accurate Surface Reconstruction under Complex Dynamic Scenes**|Shuo Wang et.al.|[2409.18852](http://arxiv.org/abs/2409.18852)|**[link](https://github.com/tb2-sy/st-2dgs)**|
 |**2024-09-27**|**Transparency evaluation for the Kinematic Design of the Harnesses through Human-Exoskeleton Interaction Modeling**|Riccardo Bezzini et.al.|[2409.18755](http://arxiv.org/abs/2409.18755)|null|
@@ -791,6 +811,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**|Haotian Zhang et.al.|[2409.20566](http://arxiv.org/abs/2409.20566)|null|
+|**2024-09-30**|**Ranking Over Scoring: Towards Reliable and Robust Automated Evaluation of LLM-Generated Medical Explanatory Arguments**|Iker De la Iglesia et.al.|[2409.20565](http://arxiv.org/abs/2409.20565)|null|
+|**2024-09-30**|**Propose, Assess, Search: Harnessing LLMs for Goal-Oriented Planning in Instructional Videos**|Md Mohaiminul Islam et.al.|[2409.20557](http://arxiv.org/abs/2409.20557)|null|
+|**2024-09-30**|**LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation**|Ziyao Zhang et.al.|[2409.20550](http://arxiv.org/abs/2409.20550)|null|
+|**2024-09-30**|**Robi Butler: Remote Multimodal Interactions with Household Robot Assistant**|Anxing Xiao et.al.|[2409.20548](http://arxiv.org/abs/2409.20548)|null|
+|**2024-09-30**|**Uncertainty-Informed Screening for Safer Solvents Used in the Synthesis of Perovskite via Language Models**|Arpan Mukherjee et.al.|[2409.20512](http://arxiv.org/abs/2409.20512)|null|
+|**2024-09-30**|**COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models**|Divyanshu Daiya et.al.|[2409.20502](http://arxiv.org/abs/2409.20502)|null|
+|**2024-09-30**|**Instance-adaptive Zero-shot Chain-of-Thought Prompting**|Xiaosong Yuan et.al.|[2409.20441](http://arxiv.org/abs/2409.20441)|null|
+|**2024-09-30**|**Wait, but Tylenol is Acetaminophen... Investigating and Improving Language Models' Ability to Resist Requests for Misinformation**|Shan Chen et.al.|[2409.20385](http://arxiv.org/abs/2409.20385)|null|
+|**2024-09-30**|**The Perfect Blend: Redefining RLHF with Mixture of Judges**|Tengyu Xu et.al.|[2409.20370](http://arxiv.org/abs/2409.20370)|null|
+|**2024-09-30**|**VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs**|Ruotong Liao et.al.|[2409.20365](http://arxiv.org/abs/2409.20365)|null|
+|**2024-09-30**|**Efficient Driving Behavior Narration and Reasoning on Edge Device Using Large Language Models**|Yizhou Huang et.al.|[2409.20364](http://arxiv.org/abs/2409.20364)|null|
+|**2024-09-30**|**Rotated Runtime Smooth: Training-Free Activation Smoother for accurate INT4 inference**|Ke Yi et.al.|[2409.20361](http://arxiv.org/abs/2409.20361)|null|
+|**2024-09-30**|**Enhancing GANs with Contrastive Learning-Based Multistage Progressive Finetuning SNN and RL-Based External Optimization**|Osama Mustafa et.al.|[2409.20340](http://arxiv.org/abs/2409.20340)|null|
+|**2024-09-30**|**A Looming Replication Crisis in Evaluating Behavior in Language Models? Evidence and Solutions**|Laurène Vaugrante et.al.|[2409.20303](http://arxiv.org/abs/2409.20303)|null|
+|**2024-09-30**|**PersonalLLM: Tailoring LLMs to Individual Preferences**|Thomas P. Zollo et.al.|[2409.20296](http://arxiv.org/abs/2409.20296)|null|
+|**2024-09-30**|**LexEval: A Comprehensive Chinese Legal Benchmark for Evaluating Large Language Models**|Haitao Li et.al.|[2409.20288](http://arxiv.org/abs/2409.20288)|**[link](https://github.com/cshaitao/lexeval)**|
+|**2024-09-30**|**What is the Role of Large Language Models in the Evolution of Astronomy Research?**|Morgan Fouesneau et.al.|[2409.20252](http://arxiv.org/abs/2409.20252)|null|
+|**2024-09-30**|**Feature Extractor or Decision Maker: Rethinking the Role of Visual Encoders in Visuomotor Policies**|Ruiyu Wang et.al.|[2409.20248](http://arxiv.org/abs/2409.20248)|null|
+|**2024-09-30**|**Resource Allocation for Stable LLM Training in Mobile Edge Computing**|Chang Liu et.al.|[2409.20247](http://arxiv.org/abs/2409.20247)|null|
 |**2024-09-27**|**LML: Language Model Learning a Dataset for Data-Augmented Prediction**|Praneeth Vadlapati et.al.|[2409.18957](http://arxiv.org/abs/2409.18957)|**[link](https://github.com/pro-genai/lml-dap)**|
 |**2024-09-27**|**Ruler: A Model-Agnostic Method to Control Generated Length for Large Language Models**|Jiaming Li et.al.|[2409.18943](http://arxiv.org/abs/2409.18943)|**[link](https://github.com/geaming2002/ruler)**|
 |**2024-09-27**|**From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding**|Heqing Zou et.al.|[2409.18938](http://arxiv.org/abs/2409.18938)|null|
@@ -1856,6 +1896,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Inverse Painting: Reconstructing The Painting Process**|Bowei Chen et.al.|[2409.20556](http://arxiv.org/abs/2409.20556)|null|
+|**2024-09-30**|**All-optical autoencoder machine learning framework using diffractive processors**|Peijie Feng et.al.|[2409.20346](http://arxiv.org/abs/2409.20346)|null|
+|**2024-09-30**|**Erase, then Redraw: A Novel Data Augmentation Approach for Free Space Detection Using Diffusion Model**|Fulong Ma et.al.|[2409.20164](http://arxiv.org/abs/2409.20164)|null|
+|**2024-09-30**|**Magnet: We Never Know How Text-to-Image Diffusion Models Work, Until We Learn How Vision-Language Models Function**|Chenyi Zhuang et.al.|[2409.19967](http://arxiv.org/abs/2409.19967)|null|
+|**2024-09-30**|**Illustrious: an Open Advanced Illustration Model**|Sang Hyun Park et.al.|[2409.19946](http://arxiv.org/abs/2409.19946)|null|
+|**2024-09-30**|**MaskMamba: A Hybrid Mamba-Transformer Model for Masked Image Generation**|Wenchao Chen et.al.|[2409.19937](http://arxiv.org/abs/2409.19937)|null|
+|**2024-09-29**|**OrganiQ: Mitigating Classical Resource Bottlenecks of Quantum Generative Adversarial Networks on NISQ-Era Machines**|Daniel Silver et.al.|[2409.19823](http://arxiv.org/abs/2409.19823)|null|
+|**2024-09-29**|**Simple and Fast Distillation of Diffusion Models**|Zhenyu Zhou et.al.|[2409.19681](http://arxiv.org/abs/2409.19681)|**[link](https://github.com/zju-pi/diff-sampler)**|
+|**2024-09-29**|**Storynizor: Consistent Story Generation via Inter-Frame Synchronized and Shuffled ID Injection**|Yuhang Ma et.al.|[2409.19624](http://arxiv.org/abs/2409.19624)|null|
+|**2024-09-29**|**Effective Diffusion Transformer Architecture for Image Super-Resolution**|Kun Cheng et.al.|[2409.19589](http://arxiv.org/abs/2409.19589)|**[link](https://github.com/kunncheng/dit-sr)**|
+|**2024-09-28**|**Introducing SDICE: An Index for Assessing Diversity of Synthetic Medical Datasets**|Mohammed Talha Alam et.al.|[2409.19436](http://arxiv.org/abs/2409.19436)|null|
+|**2024-09-28**|**FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models**|Yucheng Xie et.al.|[2409.19289](http://arxiv.org/abs/2409.19289)|null|
+|**2024-09-28**|**SciDoc2Diagrammer-MAF: Towards Generation of Scientific Diagrams from Documents guided by Multi-Aspect Feedback Refinement**|Ishani Mondal et.al.|[2409.19242](http://arxiv.org/abs/2409.19242)|null|
+|**2024-09-27**|**Multimodal Pragmatic Jailbreak on Text-to-image Models**|Tong Liu et.al.|[2409.19149](http://arxiv.org/abs/2409.19149)|null|
+|**2024-09-27**|**Secure Multiparty Generative AI**|Manil Shrestha et.al.|[2409.19120](http://arxiv.org/abs/2409.19120)|null|
+|**2024-09-27**|**Fusion is all you need: Face Fusion for Customized Identity-Preserving Image Synthesis**|Salaheldin Mohamed et.al.|[2409.19111](http://arxiv.org/abs/2409.19111)|null|
 |**2024-09-27**|**Detecting Dataset Abuse in Fine-Tuning Stable Diffusion Models for Text-to-Image Synthesis**|Songrui Wang et.al.|[2409.18897](http://arxiv.org/abs/2409.18897)|null|
 |**2024-09-27**|**Underwater Image Enhancement with Physical-based Denoising Diffusion Implicit Models**|Nguyen Gia Bach et.al.|[2409.18476](http://arxiv.org/abs/2409.18476)|**[link](https://github.com/bachzz/uw-diffphys)**|
 |**2024-09-27**|**GenesisTex2: Stable, Consistent and High-Quality Text-to-Texture Generation**|Jiawei Lu et.al.|[2409.18401](http://arxiv.org/abs/2409.18401)|null|
