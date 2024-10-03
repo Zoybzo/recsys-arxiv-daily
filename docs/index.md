@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**Integrating Protein Sequence and Expression Level to Analysis Molecular Characterization of Breast Cancer Subtypes**|Hossein Sholehrasa et.al.|[2410.01755](http://arxiv.org/abs/2410.01755)|null|
+|**2024-10-02**|**Discrete-Time LQ Stochastic Two-Person Nonzero-Sum Difference Games with Random Coefficients:~Open-Loop Nash Equilibrium**|Yiwei Wu et.al.|[2410.01741](http://arxiv.org/abs/2410.01741)|null|
+|**2024-10-02**|**Automated Knowledge Concept Annotation and Question Representation Learning for Knowledge Tracing**|Yilmazcan Ozyurt et.al.|[2410.01727](http://arxiv.org/abs/2410.01727)|**[link](https://github.com/oezyurty/kcqrl)**|
+|**2024-10-02**|**Examining the Role of Relationship Alignment in Large Language Models**|Kristen M. Altenburger et.al.|[2410.01708](http://arxiv.org/abs/2410.01708)|null|
+|**2024-10-02**|**Customizing Generated Signs and Voices of AI Avatars: Deaf-Centric Mixed-Reality Design for Deaf-Hearing Communication**|Si Chen et.al.|[2410.01604](http://arxiv.org/abs/2410.01604)|null|
+|**2024-10-02**|**DynFrs: An Efficient Framework for Machine Unlearning in Random Forest**|Shurong Wang et.al.|[2410.01588](http://arxiv.org/abs/2410.01588)|null|
+|**2024-10-02**|**Personalized Federated Learning on Flowing Data Heterogeneity under Restricted Storage**|Sixing Tan et.al.|[2410.01502](http://arxiv.org/abs/2410.01502)|null|
+|**2024-10-02**|**Peeling Back the Layers: An In-Depth Evaluation of Encoder Architectures in Neural News Recommenders**|Andreea Iana et.al.|[2410.01470](http://arxiv.org/abs/2410.01470)|null|
+|**2024-10-02**|**See Me and Believe Me: Causality and Intersectionality in Testimonial Injustice in Healthcare**|Kenya S. Andrews et.al.|[2410.01227](http://arxiv.org/abs/2410.01227)|null|
+|**2024-10-02**|**First-principles computational methods for quantum defects in two-dimensional materials: A perspective**|Hosung Seo et.al.|[2410.01200](http://arxiv.org/abs/2410.01200)|null|
+|**2024-10-02**|**A Deep Learning Approach for Imbalanced Tabular Data in Advertiser Prospecting: A Case of Direct Mail Prospecting**|Sadegh Farhang et.al.|[2410.01157](http://arxiv.org/abs/2410.01157)|null|
+|**2024-10-01**|**A Computational Fluid Dynamics study of drug-releasing ocular implants for glaucoma treatment: Comparison of implant size and locations**|Elisa Molla et.al.|[2410.01082](http://arxiv.org/abs/2410.01082)|null|
+|**2024-10-01**|**Back to Bayesics: Uncovering Human Mobility Distributions and Anomalies with an Integrated Statistical and Neural Framework**|Minxuan Duan et.al.|[2410.01011](http://arxiv.org/abs/2410.01011)|null|
+|**2024-10-01**|**Code Interviews: Design and Evaluation of a More Authentic Assessment for Introductory Programming Assignments**|Suhas Kannam et.al.|[2410.01010](http://arxiv.org/abs/2410.01010)|null|
+|**2024-10-01**|**"Hiding in Plain Sight": Designing Synthetic Dialog Generation for Uncovering Socially Situated Norms**|Chengfei Wu et.al.|[2410.00998](http://arxiv.org/abs/2410.00998)|null|
+|**2024-10-01**|**Nonparametric tests of treatment effect homogeneity for policy-makers**|Oliver Dukes et.al.|[2410.00985](http://arxiv.org/abs/2410.00985)|null|
+|**2024-10-01**|**Uncovering the Viral Nature of Toxicity in Competitive Online Video Games**|Jacob Morrier et.al.|[2410.00978](http://arxiv.org/abs/2410.00978)|null|
+|**2024-10-01**|**How should we aggregate ratings? Accounting for personal rating scales via Wasserstein barycenters**|Daniel Raban et.al.|[2410.00865](http://arxiv.org/abs/2410.00865)|null|
+|**2024-10-02**|**Mining Your Own Secrets: Diffusion Classifier Scores for Continual Personalization of Text-to-Image Diffusion Models**|Saurav Jha et.al.|[2410.00700](http://arxiv.org/abs/2410.00700)|null|
+|**2024-10-01**|**Integrating PETs into Software Applications: A Game-Based Learning Approach**|Maisha Boteju et.al.|[2410.00661](http://arxiv.org/abs/2410.00661)|null|
 |**2024-09-30**|**DressRecon: Freeform 4D Human Reconstruction from Monocular Video**|Jeff Tan et.al.|[2409.20563](http://arxiv.org/abs/2409.20563)|null|
 |**2024-09-30**|**Preservación de la memoria colectiva-científica, en la astronomía argentina, desde el Observatorio de La Plata**|Natalia Soledad Meilán et.al.|[2409.20542](http://arxiv.org/abs/2409.20542)|null|
 |**2024-09-30**|**NUTRIVISION: A System for Automatic Diet Management in Smart Healthcare**|Madhumita Veeramreddy et.al.|[2409.20508](http://arxiv.org/abs/2409.20508)|null|
@@ -811,6 +831,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads**|Yuxiang Huang et.al.|[2410.01805](http://arxiv.org/abs/2410.01805)|**[link](https://github.com/huangyuxiang03/Locret)**|
+|**2024-10-02**|**Efficient $1$ -bit tensor approximations**|Alex W. Neal Riasanovsky et.al.|[2410.01799](http://arxiv.org/abs/2410.01799)|null|
+|**2024-10-02**|**Knowledge-Driven Feature Selection and Engineering for Genotype Data with Large Language Models**|Joseph Lee et.al.|[2410.01795](http://arxiv.org/abs/2410.01795)|**[link](https://github.com/pennshenlab/freeform)**|
+|**2024-10-02**|**When a language model is optimized for reasoning, does it still show embers of autoregression? An analysis of OpenAI o1**|R. Thomas McCoy et.al.|[2410.01792](http://arxiv.org/abs/2410.01792)|null|
+|**2024-10-02**|**DreamGarden: A Designer Assistant for Growing Games from a Single Prompt**|Sam Earle et.al.|[2410.01791](http://arxiv.org/abs/2410.01791)|null|
+|**2024-10-02**|**Investigating on RLHF methodology**|Alexey Kutalev et.al.|[2410.01789](http://arxiv.org/abs/2410.01789)|null|
+|**2024-10-02**|**OmniGenBench: Automating Large-scale in-silico Benchmarking for Genomic Foundation Models**|Heng Yang et.al.|[2410.01784](http://arxiv.org/abs/2410.01784)|**[link](https://github.com/yangheng95/OmniGenomeBench)**|
+|**2024-10-02**|**Open-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models**|Shayekh Bin Islam et.al.|[2410.01782](http://arxiv.org/abs/2410.01782)|null|
+|**2024-10-02**|**DeFine: Enhancing LLM Decision-Making with Factor Profiles and Analogical Reasoning**|Yebowen Hu et.al.|[2410.01772](http://arxiv.org/abs/2410.01772)|null|
+|**2024-10-02**|**Quantifying Generalization Complexity for Large Language Models**|Zhenting Qi et.al.|[2410.01769](http://arxiv.org/abs/2410.01769)|null|
+|**2024-10-02**|**Not All LLM Reasoners Are Created Equal**|Arian Hosseini et.al.|[2410.01748](http://arxiv.org/abs/2410.01748)|null|
+|**2024-10-02**|**LEOPARD : A Vision Language Model For Text-Rich Multi-Image Tasks**|Mengzhao Jia et.al.|[2410.01744](http://arxiv.org/abs/2410.01744)|null|
+|**2024-10-02**|**VitaGlyph: Vitalizing Artistic Typography with Flexible Dual-branch Diffusion Models**|Kailai Feng et.al.|[2410.01738](http://arxiv.org/abs/2410.01738)|**[link](https://github.com/carlofkl/vitaglyph)**|
+|**2024-10-02**|**LASeR: Learning to Adaptively Select Reward Models with Multi-Armed Bandits**|Duy Nguyen et.al.|[2410.01735](http://arxiv.org/abs/2410.01735)|**[link](https://github.com/duykhuongnguyen/laser-mab)**|
+|**2024-10-02**|**Visual Perception in Text Strings**|Qi Jia et.al.|[2410.01733](http://arxiv.org/abs/2410.01733)|null|
+|**2024-10-02**|**ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation**|Rinon Gal et.al.|[2410.01731](http://arxiv.org/abs/2410.01731)|null|
+|**2024-10-02**|**Automated Knowledge Concept Annotation and Question Representation Learning for Knowledge Tracing**|Yilmazcan Ozyurt et.al.|[2410.01727](http://arxiv.org/abs/2410.01727)|**[link](https://github.com/oezyurty/kcqrl)**|
+|**2024-10-02**|**Auto-Demo Prompting: Leveraging Generated Outputs as Demonstrations for Enhanced Batch Prompting**|Longyu Feng et.al.|[2410.01724](http://arxiv.org/abs/2410.01724)|null|
+|**2024-10-02**|**Towards a Theoretical Understanding of Synthetic Data in LLM Post-Training: A Reverse-Bottleneck Perspective**|Zeyu Gan et.al.|[2410.01720](http://arxiv.org/abs/2410.01720)|null|
+|**2024-10-02**|**Examining the Role of Relationship Alignment in Large Language Models**|Kristen M. Altenburger et.al.|[2410.01708](http://arxiv.org/abs/2410.01708)|null|
 |**2024-09-30**|**MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**|Haotian Zhang et.al.|[2409.20566](http://arxiv.org/abs/2409.20566)|null|
 |**2024-09-30**|**Ranking Over Scoring: Towards Reliable and Robust Automated Evaluation of LLM-Generated Medical Explanatory Arguments**|Iker De la Iglesia et.al.|[2409.20565](http://arxiv.org/abs/2409.20565)|null|
 |**2024-09-30**|**Propose, Assess, Search: Harnessing LLMs for Goal-Oriented Planning in Instructional Videos**|Md Mohaiminul Islam et.al.|[2409.20557](http://arxiv.org/abs/2409.20557)|null|
@@ -1896,6 +1936,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**Bellman Diffusion: Generative Modeling as Learning a Linear Operator in the Distribution Space**|Yangming Li et.al.|[2410.01796](http://arxiv.org/abs/2410.01796)|null|
+|**2024-10-02**|**ImageFolder: Autoregressive Image Generation with Folded Tokens**|Xiang Li et.al.|[2410.01756](http://arxiv.org/abs/2410.01756)|**[link](https://github.com/lxa9867/imagefolder)**|
+|**2024-10-02**|**VitaGlyph: Vitalizing Artistic Typography with Flexible Dual-branch Diffusion Models**|Kailai Feng et.al.|[2410.01738](http://arxiv.org/abs/2410.01738)|**[link](https://github.com/carlofkl/vitaglyph)**|
+|**2024-10-02**|**ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation**|Rinon Gal et.al.|[2410.01731](http://arxiv.org/abs/2410.01731)|null|
+|**2024-10-02**|**Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding**|Yao Teng et.al.|[2410.01699](http://arxiv.org/abs/2410.01699)|null|
+|**2024-10-02**|**COSMIC: Compress Satellite Images Efficiently via Diffusion Compensation**|Ziyuan Zhang et.al.|[2410.01698](http://arxiv.org/abs/2410.01698)|**[link](https://github.com/joanna-0421/cosmic)**|
+|**2024-10-02**|**Data Extrapolation for Text-to-image Generation on Small Datasets**|Senmao Ye et.al.|[2410.01638](http://arxiv.org/abs/2410.01638)|**[link](https://github.com/senmaoy/RAT-Diffusion)**|
+|**2024-10-02**|**KnobGen: Controlling the Sophistication of Artwork in Sketch-Based Diffusion Models**|Pouyan Navard et.al.|[2410.01595](http://arxiv.org/abs/2410.01595)|**[link](https://github.com/aminK8/KnobGen)**|
+|**2024-10-02**|**Edge-preserving noise for diffusion models**|Jente Vandersanden et.al.|[2410.01540](http://arxiv.org/abs/2410.01540)|null|
+|**2024-10-02**|**Aggregation of Multi Diffusion Models for Enhancing Learned Representations**|Conghan Yue et.al.|[2410.01262](http://arxiv.org/abs/2410.01262)|**[link](https://github.com/hammour-steak/amdm)**|
+|**2024-10-02**|**The SynCOM Flow Tracking Challenge**|Valmir Moraes Filho et.al.|[2410.01233](http://arxiv.org/abs/2410.01233)|null|
+|**2024-10-01**|**Removing Distributional Discrepancies in Captions Improves Image-Text Alignment**|Yuheng Li et.al.|[2410.00905](http://arxiv.org/abs/2410.00905)|null|
+|**2024-10-01**|**NECOMIMI: Neural-Cognitive Multimodal EEG-informed Image Generation with Diffusion Models**|Chi-Sheng Chen et.al.|[2410.00712](http://arxiv.org/abs/2410.00712)|null|
+|**2024-10-02**|**Mining Your Own Secrets: Diffusion Classifier Scores for Continual Personalization of Text-to-Image Diffusion Models**|Saurav Jha et.al.|[2410.00700](http://arxiv.org/abs/2410.00700)|null|
+|**2024-10-01**|**MCGM: Mask Conditional Text-to-Image Generative Model**|Rami Skaik et.al.|[2410.00483](http://arxiv.org/abs/2410.00483)|null|
+|**2024-10-01**|**Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation**|Yunnan Wang et.al.|[2410.00447](http://arxiv.org/abs/2410.00447)|null|
+|**2024-10-01**|**CusConcept: Customized Visual Concept Decomposition with Diffusion Models**|Zhi Xu et.al.|[2410.00398](http://arxiv.org/abs/2410.00398)|**[link](https://github.com/xzlcan/cusconcept)**|
+|**2024-10-01**|**A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization**|Chieh-Yun Chen et.al.|[2410.00321](http://arxiv.org/abs/2410.00321)|**[link](https://github.com/basiclab/unraveling-information-mix-ups)**|
+|**2024-10-01**|**RadGazeGen: Radiomics and Gaze-guided Medical Image Generation using Diffusion Models**|Moinak Bhattacharya et.al.|[2410.00307](http://arxiv.org/abs/2410.00307)|null|
 |**2024-09-30**|**Inverse Painting: Reconstructing The Painting Process**|Bowei Chen et.al.|[2409.20556](http://arxiv.org/abs/2409.20556)|null|
 |**2024-09-30**|**All-optical autoencoder machine learning framework using diffractive processors**|Peijie Feng et.al.|[2409.20346](http://arxiv.org/abs/2409.20346)|null|
 |**2024-09-30**|**Erase, then Redraw: A Novel Data Augmentation Approach for Free Space Detection Using Diffusion Model**|Fulong Ma et.al.|[2409.20164](http://arxiv.org/abs/2409.20164)|null|
