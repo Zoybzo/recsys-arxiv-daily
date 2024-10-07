@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Aligning LLMs with Individual Preferences via Interaction**|Shujin Wu et.al.|[2410.03642](http://arxiv.org/abs/2410.03642)|**[link](https://github.com/shujinwu-0814/aloe)**|
+|**2024-10-04**|**A Global Medical Data Security and Privacy Preserving Standards Identification Framework for Electronic Healthcare Consumers**|Vinaytosh Mishra et.al.|[2410.03621](http://arxiv.org/abs/2410.03621)|null|
+|**2024-10-04**|**Large Language Model Performance Benchmarking on Mobile Platforms: A Thorough Evaluation**|Jie Xiao et.al.|[2410.03613](http://arxiv.org/abs/2410.03613)|null|
+|**2024-10-04**|**Uncertainty Propagation from Projections to Region Counts in Tomographic Imaging: Application to Radiopharmaceutical Dosimetry**|Lucas Polson et.al.|[2410.03570](http://arxiv.org/abs/2410.03570)|null|
+|**2024-10-04**|**Artificial Human Lecturers: Initial Findings From Asia's First AI Lecturers in Class to Promote Innovation in Education**|Ching Christie Pang et.al.|[2410.03525](http://arxiv.org/abs/2410.03525)|null|
+|**2024-10-04**|**Stabilized Neural Prediction of Potential Outcomes in Continuous Time**|Konstantin Hess et.al.|[2410.03514](http://arxiv.org/abs/2410.03514)|null|
+|**2024-10-04**|**Collaborative and Efficient Personalization with Mixtures of Adaptors**|Abdulla Jasem Almansoori et.al.|[2410.03497](http://arxiv.org/abs/2410.03497)|null|
+|**2024-10-04**|**MO-DDN: A Coarse-to-Fine Attribute-based Exploration Agent for Multi-object Demand-driven Navigation**|Hongcheng Wang et.al.|[2410.03488](http://arxiv.org/abs/2410.03488)|null|
+|**2024-10-04**|**A Multimodal Framework for Deepfake Detection**|Kashish Gandhi et.al.|[2410.03487](http://arxiv.org/abs/2410.03487)|null|
+|**2024-10-04**|**EB-NeRD: A Large-Scale Dataset for News Recommendation**|Johannes Kruse et.al.|[2410.03432](http://arxiv.org/abs/2410.03432)|null|
+|**2024-10-04**|**Towards Real-time Intrahepatic Vessel Identification in Intraoperative Ultrasound-Guided Liver Surgery**|Karl-Philippe Beaudet et.al.|[2410.03420](http://arxiv.org/abs/2410.03420)|null|
+|**2024-10-04**|**SoundSignature: What Type of Music Do You Like?**|Brandon James Carone et.al.|[2410.03375](http://arxiv.org/abs/2410.03375)|null|
+|**2024-10-04**|**EmojiHeroVR: A Study on Facial Expression Recognition under Partial Occlusion from Head-Mounted Displays**|Thorben Ortmann et.al.|[2410.03331](http://arxiv.org/abs/2410.03331)|null|
+|**2024-10-04**|**Influence-oriented Personalized Federated Learning**|Yue Tan et.al.|[2410.03315](http://arxiv.org/abs/2410.03315)|null|
+|**2024-10-04**|**A Service Robot in the Wild: Analysis of Users Intentions, Robot Behaviors, and Their Impact on the Interaction**|Simone Arreghini et.al.|[2410.03287](http://arxiv.org/abs/2410.03287)|null|
+|**2024-10-04**|**PersoBench: Benchmarking Personalized Response Generation in Large Language Models**|Saleh Afzoon et.al.|[2410.03198](http://arxiv.org/abs/2410.03198)|null|
+|**2024-10-04**|**SAG: Style-Aligned Article Generation via Model Collaboration**|Chenning Xu et.al.|[2410.03137](http://arxiv.org/abs/2410.03137)|null|
+|**2024-10-04**|**Interactive GDPR-Compliant Privacy Policy Generation for Software Applications**|Pattaraporn Sangaroonsilp et.al.|[2410.03069](http://arxiv.org/abs/2410.03069)|null|
+|**2024-10-04**|**Scalable Frame-based Construction of Sociocultural NormBases for Socially-Aware Dialogues**|Shilin Qu et.al.|[2410.03049](http://arxiv.org/abs/2410.03049)|null|
+|**2024-10-03**|**FedPeWS: Personalized Warmup via Subnetworks for Enhanced Heterogeneous Federated Learning**|Nurbek Tastan et.al.|[2410.03042](http://arxiv.org/abs/2410.03042)|null|
 |**2024-10-03**|**Cracking the code: Lessons from 15 years of digital health IPOs for the era of AI**|Tamen Jadad-Garcia et.al.|[2410.02709](http://arxiv.org/abs/2410.02709)|null|
 |**2024-10-03**|**User-centric Immersive Communications in 6G: A Data-oriented Approach via Digital Twin**|Conghao Zhou et.al.|[2410.02688](http://arxiv.org/abs/2410.02688)|null|
 |**2024-10-03**|**DailyDilemmas: Revealing Value Preferences of LLMs with Quandaries of Daily Life**|Yu Ying Chiu et.al.|[2410.02683](http://arxiv.org/abs/2410.02683)|null|
@@ -849,6 +869,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Enhance Reasoning by Learning from Mistakes: Peer-Review Knowledge Distillation from Multiple Large Language Models**|Zhuochun Li et.al.|[2410.03663](http://arxiv.org/abs/2410.03663)|null|
+|**2024-10-04**|**RAFT: Realistic Attacks to Fool Text Detectors**|James Wang et.al.|[2410.03658](http://arxiv.org/abs/2410.03658)|null|
+|**2024-10-04**|**GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs**|Pu Hua et.al.|[2410.03645](http://arxiv.org/abs/2410.03645)|null|
+|**2024-10-04**|**Aligning LLMs with Individual Preferences via Interaction**|Shujin Wu et.al.|[2410.03642](http://arxiv.org/abs/2410.03642)|**[link](https://github.com/shujinwu-0814/aloe)**|
+|**2024-10-04**|**Conditional Enzyme Generation Using Protein Language Models with Adapters**|Jason Yang et.al.|[2410.03634](http://arxiv.org/abs/2410.03634)|null|
+|**2024-10-04**|**Large Language Model Performance Benchmarking on Mobile Platforms: A Thorough Evaluation**|Jie Xiao et.al.|[2410.03613](http://arxiv.org/abs/2410.03613)|null|
+|**2024-10-04**|**TICKing All the Boxes: Generated Checklists Improve LLM Evaluation and Generation**|Jonathan Cook et.al.|[2410.03608](http://arxiv.org/abs/2410.03608)|null|
+|**2024-10-04**|**Efficiently Identifying Watermarked Segments in Mixed-Source Texts**|Xuandong Zhao et.al.|[2410.03600](http://arxiv.org/abs/2410.03600)|null|
+|**2024-10-04**|**Understanding Reasoning in Chain-of-Thought from the Hopfieldian View**|Lijie Hu et.al.|[2410.03595](http://arxiv.org/abs/2410.03595)|null|
+|**2024-10-04**|**Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models**|Xin Zou et.al.|[2410.03577](http://arxiv.org/abs/2410.03577)|null|
+|**2024-10-04**|**Table Question Answering for Low-resourced Indic Languages**|Vaishali Pal et.al.|[2410.03576](http://arxiv.org/abs/2410.03576)|**[link](https://github.com/kolk/low-resource-tableqa-indic-languages)**|
+|**2024-10-04**|**Towards Linguistically-Aware and Language-Independent Tokenization for Large Language Models (LLMs)**|Abrar Rahman et.al.|[2410.03568](http://arxiv.org/abs/2410.03568)|null|
+|**2024-10-04**|**Structure-Enhanced Protein Instruction Tuning: Towards General-Purpose Protein Understanding**|Wei Wu et.al.|[2410.03553](http://arxiv.org/abs/2410.03553)|null|
+|**2024-10-04**|**Re-examining Sexism and Misogyny Classification with Annotator Attitudes**|Aiqi Jiang et.al.|[2410.03543](http://arxiv.org/abs/2410.03543)|null|
+|**2024-10-04**|**Ward: Provable RAG Dataset Inference via LLM Watermarks**|Nikola Jovanović et.al.|[2410.03537](http://arxiv.org/abs/2410.03537)|null|
+|**2024-10-04**|**Steering Large Language Models between Code Execution and Textual Reasoning**|Yongchao Chen et.al.|[2410.03524](http://arxiv.org/abs/2410.03524)|null|
+|**2024-10-04**|**A Probabilistic Perspective on Unlearning and Alignment for Large Language Models**|Yan Scholten et.al.|[2410.03523](http://arxiv.org/abs/2410.03523)|null|
+|**2024-10-04**|**CliMedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models in Clinical Scenarios**|Zetian Ouyang et.al.|[2410.03502](http://arxiv.org/abs/2410.03502)|null|
+|**2024-10-04**|**Towards Reproducible LLM Evaluation: Quantifying Uncertainty in LLM Benchmark Scores**|Robert E. Blackwell et.al.|[2410.03492](http://arxiv.org/abs/2410.03492)|null|
+|**2024-10-04**|**VEDIT: Latent Prediction Architecture For Procedural Video Representation Learning**|Han Lin et.al.|[2410.03478](http://arxiv.org/abs/2410.03478)|null|
 |**2024-10-03**|**FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models**|Zhipei Xu et.al.|[2410.02761](http://arxiv.org/abs/2410.02761)|null|
 |**2024-10-03**|**Loong: Generating Minute-level Long Videos with Autoregressive Language Models**|Yuqing Wang et.al.|[2410.02757](http://arxiv.org/abs/2410.02757)|null|
 |**2024-10-03**|**CorPipe at CRAC 2024: Predicting Zero Mentions from Raw Text**|Milan Straka et.al.|[2410.02756](http://arxiv.org/abs/2410.02756)|null|
@@ -1974,6 +2014,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features**|Benyuan Meng et.al.|[2410.03558](http://arxiv.org/abs/2410.03558)|**[link](https://github.com/darkbblue/generic-diffusion-feature)**|
+|**2024-10-04**|**Dynamic Diffusion Transformer**|Wangbo Zhao et.al.|[2410.03456](http://arxiv.org/abs/2410.03456)|**[link](https://github.com/nus-hpc-ai-lab/dynamic-diffusion-transformer)**|
+|**2024-10-04**|**Images Speak Volumes: User-Centric Assessment of Image Generation for Accessible Communication**|Miriam Anschütz et.al.|[2410.03430](http://arxiv.org/abs/2410.03430)|null|
+|**2024-10-04**|**LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding**|Doohyuk Jang et.al.|[2410.03355](http://arxiv.org/abs/2410.03355)|null|
+|**2024-10-04**|**Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization**|Zichen Miao et.al.|[2410.03190](http://arxiv.org/abs/2410.03190)|null|
+|**2024-10-04**|**Redefining Temporal Modeling in Video Diffusion: The Vectorized Timestep Approach**|Yaofang Liu et.al.|[2410.03160](http://arxiv.org/abs/2410.03160)|**[link](https://github.com/yaofang-liu/fvdm)**|
+|**2024-10-03**|**Revealing the Unseen: Guiding Personalized Diffusion Models to Expose Training Data**|Xiaoyu Wu et.al.|[2410.03039](http://arxiv.org/abs/2410.03039)|null|
+|**2024-10-03**|**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**|Omar Zamzam et.al.|[2410.03021](http://arxiv.org/abs/2410.03021)|null|
 |**2024-10-03**|**SteerDiff: Steering towards Safe Text-to-Image Diffusion Models**|Hongxiang Zhang et.al.|[2410.02710](http://arxiv.org/abs/2410.02710)|null|
 |**2024-10-03**|**ControlAR: Controllable Image Generation with Autoregressive Models**|Zongming Li et.al.|[2410.02705](http://arxiv.org/abs/2410.02705)|**[link](https://github.com/hustvl/controlar)**|
 |**2024-10-03**|**Grounded Answers for Multi-agent Decision-making Problem through Generative World Model**|Zeyang Liu et.al.|[2410.02664](http://arxiv.org/abs/2410.02664)|null|
