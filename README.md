@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2024-10-07**|**GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**|Yukang Cao et.al.|[2410.05259](http://arxiv.org/abs/2410.05259)|null|
 |**2024-10-07**|**The Informed Elastic Net for Fast Grouped Variable Selection and FDR Control in Genomics Research**|Jasin Machkour et.al.|[2410.05211](http://arxiv.org/abs/2410.05211)|null|
 |**2024-10-07**|**Human-Feedback Efficient Reinforcement Learning for Online Diffusion Model Finetuning**|Ayano Hiranaka et.al.|[2410.05116](http://arxiv.org/abs/2410.05116)|null|
-|**2024-10-07**|**DIMS: Distributed Index for Similarity Search in Metric Spaces**|Yifan Zhu et.al.|[2410.05091](http://arxiv.org/abs/2410.05091)|null|
+|**2024-10-07**|**DIMS: Distributed Index for Similarity Search in Metric Spaces**|Yifan Zhu et.al.|[2410.05091](http://arxiv.org/abs/2410.05091)|**[link](https://github.com/zju-daily/dims)**|
 |**2024-10-07**|**On the Biased Assessment of Expert Finding Systems**|Jens-Joris Decorte et.al.|[2410.05018](http://arxiv.org/abs/2410.05018)|null|
 |**2024-10-07**|**Training Interactive Agent in Large FPS Game Map with Rule-enhanced Reinforcement Learning**|Chen Zhang et.al.|[2410.04936](http://arxiv.org/abs/2410.04936)|null|
 |**2024-10-07**|**OmniBooth: Learning Latent Control for Image Synthesis with Multi-modal Instruction**|Leheng Li et.al.|[2410.04932](http://arxiv.org/abs/2410.04932)|null|
@@ -32,7 +32,7 @@
 |**2024-10-07**|**Urbanization, economic development, and income distribution dynamics in India**|Anand Sahasranaman et.al.|[2410.04737](http://arxiv.org/abs/2410.04737)|null|
 |**2024-10-06**|**A Cross-Lingual Meta-Learning Method Based on Domain Adaptation for Speech Emotion Recognition**|David-Gabriel Ion et.al.|[2410.04633](http://arxiv.org/abs/2410.04633)|null|
 |**2024-10-06**|**Distribution Grids May Be a Barrier To Residential Electrification**|Priyadarshan et.al.|[2410.04540](http://arxiv.org/abs/2410.04540)|null|
-|**2024-10-06**|**Leveraging Large Language Models for Suicide Detection on Social Media with Limited Labels**|Vy Nguyen et.al.|[2410.04501](http://arxiv.org/abs/2410.04501)|**[link](https://github.com/khanhvynguyen/suicide_detection_llms)**|
+|**2024-10-08**|**Leveraging Large Language Models for Suicide Detection on Social Media with Limited Labels**|Vy Nguyen et.al.|[2410.04501](http://arxiv.org/abs/2410.04501)|**[link](https://github.com/khanhvynguyen/suicide_detection_llms)**|
 |**2024-10-06**|**Interpret Your Decision: Logical Reasoning Regularization for Generalization in Visual Classification**|Zhaorui Tan et.al.|[2410.04492](http://arxiv.org/abs/2410.04492)|**[link](https://github.com/zhaorui-tan/L-Reg_NeurIPS24)**|
 |**2024-10-06**|**MVP-Bench: Can Large Vision--Language Models Conduct Multi-level Visual Perception Like Humans?**|Guanzhen Li et.al.|[2410.04345](http://arxiv.org/abs/2410.04345)|**[link](https://github.com/guanzhenli/mvp-bench)**|
 |**2024-10-06**|**SONAR: A Synthetic AI-Audio Detection Framework~and Benchmark**|Xiang Li et.al.|[2410.04324](http://arxiv.org/abs/2410.04324)|**[link](https://github.com/jessegator/sonar)**|
@@ -890,7 +890,7 @@
 |**2024-07-08**|**CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation**|Xinying Guo et.al.|[2407.06188](http://arxiv.org/abs/2407.06188)|null|
 |**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187](http://arxiv.org/abs/2407.06187)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## LLM
 
@@ -900,9 +900,9 @@
 |**2024-10-07**|**Data Advisor: Dynamic Data Curation for Safety Alignment of Large Language Models**|Fei Wang et.al.|[2410.05269](http://arxiv.org/abs/2410.05269)|null|
 |**2024-10-07**|**Grounding Partially-Defined Events in Multimodal Data**|Kate Sanders et.al.|[2410.05267](http://arxiv.org/abs/2410.05267)|null|
 |**2024-10-07**|**PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs**|Mengzhao Chen et.al.|[2410.05265](http://arxiv.org/abs/2410.05265)|**[link](https://github.com/chenmnz/prefixquant)**|
-|**2024-10-07**|**TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles**|Qingchen Yu et.al.|[2410.05262](http://arxiv.org/abs/2410.05262)|null|
+|**2024-10-07**|**TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles**|Qingchen Yu et.al.|[2410.05262](http://arxiv.org/abs/2410.05262)|**[link](https://github.com/mazzzystar/TurtleBench)**|
 |**2024-10-07**|**Differential Transformer**|Tianzhu Ye et.al.|[2410.05258](http://arxiv.org/abs/2410.05258)|null|
-|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254](http://arxiv.org/abs/2410.05254)|null|
+|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254](http://arxiv.org/abs/2410.05254)|**[link](https://github.com/eilamshapira/GLEE)**|
 |**2024-10-07**|**Causal Micro-Narratives**|Mourad Heddaya et.al.|[2410.05252](http://arxiv.org/abs/2410.05252)|null|
 |**2024-10-07**|**SFTMix: Elevating Language Model Instruction Tuning with Mixup Recipe**|Yuxin Xiao et.al.|[2410.05248](http://arxiv.org/abs/2410.05248)|null|
 |**2024-10-07**|**Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents**|Boyu Gou et.al.|[2410.05243](http://arxiv.org/abs/2410.05243)|null|
@@ -914,7 +914,7 @@
 |**2024-10-07**|**RevisEval: Improving LLM-as-a-Judge via Response-Adapted References**|Qiyuan Zhang et.al.|[2410.05193](http://arxiv.org/abs/2410.05193)|null|
 |**2024-10-07**|**Understanding Warmup-Stable-Decay Learning Rates: A River Valley Loss Landscape Perspective**|Kaiyue Wen et.al.|[2410.05192](http://arxiv.org/abs/2410.05192)|null|
 |**2024-10-07**|**LADEV: A Language-Driven Testing and Evaluation Platform for Vision-Language-Action Models in Robotic Manipulation**|Zhijie Wang et.al.|[2410.05191](http://arxiv.org/abs/2410.05191)|null|
-|**2024-10-07**|**Enhancing Equity in Large Language Models for Medical Applications**|Yuelyu Ji et.al.|[2410.05180](http://arxiv.org/abs/2410.05180)|null|
+|**2024-10-07**|**Enhancing Equity in Large Language Models for Medical Applications**|Yuelyu Ji et.al.|[2410.05180](http://arxiv.org/abs/2410.05180)|**[link](https://github.com/JoyDajunSpaceCraft/EquityGuard)**|
 |**2024-10-07**|**ReasoningRank: Teaching Student Models to Rank through Reasoning-Based Knowledge Distillation**|Yuelyu Ji et.al.|[2410.05168](http://arxiv.org/abs/2410.05168)|null|
 |**2024-10-04**|**Enhance Reasoning by Learning from Mistakes: Peer-Review Knowledge Distillation from Multiple Large Language Models**|Zhuochun Li et.al.|[2410.03663](http://arxiv.org/abs/2410.03663)|null|
 |**2024-10-04**|**RAFT: Realistic Attacks to Fool Text Detectors**|James Wang et.al.|[2410.03658](http://arxiv.org/abs/2410.03658)|null|
@@ -2057,7 +2057,7 @@
 |**2024-07-09**|**Who is better at math, Jenny or Jingzhen? Uncovering Stereotypes in Large Language Models**|Zara Siddique et.al.|[2407.06917](http://arxiv.org/abs/2407.06917)|null|
 |**2024-07-09**|**Fine-grained large-scale content recommendations for MSX sellers**|Manpreet Singh et.al.|[2407.06910](http://arxiv.org/abs/2407.06910)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## Image Genration
 
@@ -2073,12 +2073,12 @@
 |**2024-10-06**|**Realizing Video Summarization from the Path of Language-based Semantic Understanding**|Kuan-Chen Mu et.al.|[2410.04511](http://arxiv.org/abs/2410.04511)|null|
 |**2024-10-06**|**Empowering Backbone Models for Visual Text Generation with Input Granularity Control and Glyph-Aware Training**|Wenbo Li et.al.|[2410.04439](http://arxiv.org/abs/2410.04439)|null|
 |**2024-10-06**|**Disentangling Regional Primitives for Image Generation**|Zhengting Chen et.al.|[2410.04421](http://arxiv.org/abs/2410.04421)|null|
-|**2024-10-06**|**VideoGuide: Improving Video Diffusion Models without Training Through a Teacher's Guide**|Dohun Lee et.al.|[2410.04364](http://arxiv.org/abs/2410.04364)|null|
+|**2024-10-08**|**VideoGuide: Improving Video Diffusion Models without Training Through a Teacher's Guide**|Dohun Lee et.al.|[2410.04364](http://arxiv.org/abs/2410.04364)|null|
 |**2024-10-05**|**The Visualization JUDGE : Can Multimodal Foundation Models Guide Visualization Design Through Visual Perception?**|Matthew Berger et.al.|[2410.04280](http://arxiv.org/abs/2410.04280)|null|
 |**2024-10-05**|**Boosting Visual Fidelity in Driving Simulations through Diffusion Models**|Fanjun Bu et.al.|[2410.04214](http://arxiv.org/abs/2410.04214)|null|
 |**2024-10-05**|**Learning on LoRAs: GL-Equivariant Processing of Low-Rank Weight Spaces for Large Finetuned Models**|Theo et.al.|[2410.04207](http://arxiv.org/abs/2410.04207)|null|
 |**2024-10-05**|**Accelerating Diffusion Models with One-to-Many Knowledge Distillation**|Linfeng Zhang et.al.|[2410.04191](http://arxiv.org/abs/2410.04191)|null|
-|**2024-10-05**|**IV-Mixed Sampler: Leveraging Image Diffusion Models for Enhanced Video Synthesis**|Shitong Shao et.al.|[2410.04171](http://arxiv.org/abs/2410.04171)|null|
+|**2024-10-08**|**IV-Mixed Sampler: Leveraging Image Diffusion Models for Enhanced Video Synthesis**|Shitong Shao et.al.|[2410.04171](http://arxiv.org/abs/2410.04171)|null|
 |**2024-10-05**|**Lane Detection System for Driver Assistance in Vehicles**|Kauan Divino Pouso Mariano et.al.|[2410.04046](http://arxiv.org/abs/2410.04046)|null|
 |**2024-10-04**|**Chain-of-Jailbreak Attack for Image Generation Models via Editing Step by Step**|Wenxuan Wang et.al.|[2410.03869](http://arxiv.org/abs/2410.03869)|null|
 |**2024-10-04**|**Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features**|Benyuan Meng et.al.|[2410.03558](http://arxiv.org/abs/2410.03558)|**[link](https://github.com/darkbblue/generic-diffusion-feature)**|
@@ -2610,7 +2610,7 @@
 |**2024-07-07**|**Topological Persistence Guided Knowledge Distillation for Wearable Sensor Data**|Eun Som Jeon et.al.|[2407.05315](http://arxiv.org/abs/2407.05315)|null|
 |**2024-07-07**|**An Improved Method for Personalizing Diffusion Models**|Yan Zeng et.al.|[2407.05312](http://arxiv.org/abs/2407.05312)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
