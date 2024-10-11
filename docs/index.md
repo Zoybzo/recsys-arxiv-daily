@@ -14,14 +14,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157](http://arxiv.org/abs/2410.07157)|null|
-|**2024-10-09**|**Personalized Visual Instruction Tuning**|Renjie Pi et.al.|[2410.07113](http://arxiv.org/abs/2410.07113)|null|
-|**2024-10-09**|**I Want to Break Free! Anti-Social Behavior and Persuasion Ability of LLMs in Multi-Agent Settings with Social Hierarchy**|Gian Maria Campedelli et.al.|[2410.07109](http://arxiv.org/abs/2410.07109)|null|
+|**2024-10-10**|**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**|Shanyan Guan et.al.|[2410.08192](http://arxiv.org/abs/2410.08192)|null|
+|**2024-10-10**|**CCA-Secure Key-Aggregate Proxy Re-Encryption for Secure Cloud Storage**|Wei-Hao Chen et.al.|[2410.08120](http://arxiv.org/abs/2410.08120)|null|
+|**2024-10-10**|**Mapping Hong Kong's Financial Ecosystem: A Network Analysis of the SFC's Licensed Professionals and Institutions**|Abdulla AlKetbi et.al.|[2410.07970](http://arxiv.org/abs/2410.07970)|null|
+|**2024-10-10**|**Memories of Ian G. Macdonald**|Gert Heckman et.al.|[2410.07882](http://arxiv.org/abs/2410.07882)|null|
+|**2024-10-10**|**A Hate Speech Moderated Chat Application: Use Case for GDPR and DSA Compliance**|Jan Fillies et.al.|[2410.07713](http://arxiv.org/abs/2410.07713)|null|
+|**2024-10-10**|**Extending the European Competence Framework for Quantum Technologies: new proficiency triangle and qualification profiles**|Franziska Greinert et.al.|[2410.07692](http://arxiv.org/abs/2410.07692)|null|
+|**2024-10-10**|**Cognitive Noise and Altruistic Preferences**|Niklas M. Witzig et.al.|[2410.07647](http://arxiv.org/abs/2410.07647)|null|
+|**2024-10-09**|**3D2M Dataset: A 3-Dimension diverse Mesh Dataset**|Sankarshan Dasgupta et.al.|[2410.07415](http://arxiv.org/abs/2410.07415)|null|
+|**2024-10-09**|**The Moral Turing Test: Evaluating Human-LLM Alignment in Moral Decision-Making**|Basile Garcia et.al.|[2410.07304](http://arxiv.org/abs/2410.07304)|null|
+|**2024-10-09**|**Benchmarking Data Heterogeneity Evaluation Approaches for Personalized Federated Learning**|Zhilong Li et.al.|[2410.07286](http://arxiv.org/abs/2410.07286)|**[link](https://github.com/xiaoni-61/dh-benchmark)**|
+|**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157](http://arxiv.org/abs/2410.07157)|**[link](https://github.com/PeterGriffinJin/InstructG2I)**|
+|**2024-10-09**|**Personalized Visual Instruction Tuning**|Renjie Pi et.al.|[2410.07113](http://arxiv.org/abs/2410.07113)|**[link](https://github.com/sterzhang/pvit)**|
+|**2024-10-09**|**I Want to Break Free! Anti-Social Behavior and Persuasion Ability of LLMs in Multi-Agent Settings with Social Hierarchy**|Gian Maria Campedelli et.al.|[2410.07109](http://arxiv.org/abs/2410.07109)|**[link](https://github.com/mobs-fbk/llm_interaction_simulator)**|
 |**2024-10-09**|**Adaptive High-Frequency Transformer for Diverse Wildlife Re-Identification**|Chenyue Li et.al.|[2410.06977](http://arxiv.org/abs/2410.06977)|null|
 |**2024-10-09**|**Personal Intelligence System UniLM: Hybrid On-Device Small Language Model and Server-Based Large Language Model for Malay Nusantara**|Azree Nazri et.al.|[2410.06973](http://arxiv.org/abs/2410.06973)|null|
 |**2024-10-10**|**Degree Distribution based Spiking Graph Networks for Domain Adaptation**|Yingxu Wang et.al.|[2410.06883](http://arxiv.org/abs/2410.06883)|null|
 |**2024-10-09**|**Digital Dotted Lines: Design and Evaluation of a Prototype for Digitally Signing Documents Using Identity Wallets**|Yorick Last et.al.|[2410.06857](http://arxiv.org/abs/2410.06857)|null|
-|**2024-10-09**|**MentalArena: Self-play Training of Language Models for Diagnosis and Treatment of Mental Health Disorders**|Cheng Li et.al.|[2410.06845](http://arxiv.org/abs/2410.06845)|null|
+|**2024-10-09**|**MentalArena: Self-play Training of Language Models for Diagnosis and Treatment of Mental Health Disorders**|Cheng Li et.al.|[2410.06845](http://arxiv.org/abs/2410.06845)|**[link](https://github.com/scarelette/mentalarena)**|
 |**2024-10-09**|**MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes**|Zhenhui Ye et.al.|[2410.06734](http://arxiv.org/abs/2410.06734)|null|
 |**2024-10-09**|**Collective perception for tracking people with a robot swarm**|Miquel Kegeleirs et.al.|[2410.06720](http://arxiv.org/abs/2410.06720)|null|
 |**2024-10-10**|**MERGE: Matching Electronic Results with Genuine Evidence for verifiable voting in person at remote locations**|Ben Adida et.al.|[2410.06705](http://arxiv.org/abs/2410.06705)|null|
@@ -909,6 +919,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**PointOBB-v2: Towards Simpler, Faster, and Stronger Single Point Supervised Oriented Object Detection**|Botao Ren et.al.|[2410.08210](http://arxiv.org/abs/2410.08210)|null|
+|**2024-10-10**|**Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training**|Gen Luo et.al.|[2410.08202](http://arxiv.org/abs/2410.08202)|null|
+|**2024-10-10**|**From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**|Changle Qu et.al.|[2410.08197](http://arxiv.org/abs/2410.08197)|null|
+|**2024-10-10**|**MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code**|Zimu Lu et.al.|[2410.08196](http://arxiv.org/abs/2410.08196)|**[link](https://github.com/mathllm/mathcoder2)**|
+|**2024-10-10**|**GenARM: Reward Guided Generation with Autoregressive Reward Model for Test-time Alignment**|Yuancheng Xu et.al.|[2410.08193](http://arxiv.org/abs/2410.08193)|null|
+|**2024-10-10**|**SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation**|Hang Yin et.al.|[2410.08189](http://arxiv.org/abs/2410.08189)|null|
+|**2024-10-10**|**Scaling Laws For Diffusion Transformers**|Zhengyang Liang et.al.|[2410.08184](http://arxiv.org/abs/2410.08184)|null|
+|**2024-10-10**|**Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models**|Qingni Wang et.al.|[2410.08174](http://arxiv.org/abs/2410.08174)|null|
+|**2024-10-10**|**On the Evaluation of Generative Robotic Simulations**|Feng Chen et.al.|[2410.08172](http://arxiv.org/abs/2410.08172)|null|
+|**2024-10-10**|**Agent S: An Open Agentic Framework that Uses Computers Like a Human**|Saaket Agashe et.al.|[2410.08164](http://arxiv.org/abs/2410.08164)|**[link](https://github.com/simular-ai/agent-s)**|
+|**2024-10-10**|**Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning**|Amrith Setlur et.al.|[2410.08146](http://arxiv.org/abs/2410.08146)|null|
+|**2024-10-10**|**Insight Over Sight? Exploring the Vision-Knowledge Conflicts in Multimodal LLMs**|Xiaoyuan Liu et.al.|[2410.08145](http://arxiv.org/abs/2410.08145)|null|
+|**2024-10-10**|**DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory**|Yutong Wang et.al.|[2410.08143](http://arxiv.org/abs/2410.08143)|**[link](https://github.com/yutongwang1216/docmtagent)**|
+|**2024-10-10**|**Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction**|Jarrid Rector-Brooks et.al.|[2410.08134](http://arxiv.org/abs/2410.08134)|null|
+|**2024-10-10**|**Assessing Episodic Memory in LLMs with Sequence Order Recall Tasks**|Mathis Pink et.al.|[2410.08133](http://arxiv.org/abs/2410.08133)|null|
+|**2024-10-10**|**Think Beyond Size: Dynamic Prompting for More Effective Reasoning**|Kamesh R et.al.|[2410.08130](http://arxiv.org/abs/2410.08130)|null|
+|**2024-10-10**|**Mars: Situated Inductive Reasoning in an Open-World Environment**|Xiaojuan Tang et.al.|[2410.08126](http://arxiv.org/abs/2410.08126)|null|
+|**2024-10-10**|**Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System**|Weize Chen et.al.|[2410.08115](http://arxiv.org/abs/2410.08115)|null|
+|**2024-10-10**|**A Closer Look at Machine Unlearning for Large Language Models**|Xiaojian Yuan et.al.|[2410.08109](http://arxiv.org/abs/2410.08109)|**[link](https://github.com/sail-sg/closer-look-llm-unlearning)**|
+|**2024-10-10**|**What Makes Large Language Models Reason in (Multi-Turn) Code Generation?**|Kunhao Zheng et.al.|[2410.08105](http://arxiv.org/abs/2410.08105)|null|
 |**2024-10-09**|**MM-Ego: Towards Building Egocentric Multimodal LLMs**|Hanrong Ye et.al.|[2410.07177](http://arxiv.org/abs/2410.07177)|null|
 |**2024-10-09**|**Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models**|Fei Wang et.al.|[2410.07176](http://arxiv.org/abs/2410.07176)|null|
 |**2024-10-09**|**Do better language models have crisper vision?**|Jona Ruthardt et.al.|[2410.07173](http://arxiv.org/abs/2410.07173)|null|
@@ -2094,9 +2124,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models**|Xiaoxiao He et.al.|[2410.08207](http://arxiv.org/abs/2410.08207)|null|
+|**2024-10-10**|**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**|Shanyan Guan et.al.|[2410.08192](http://arxiv.org/abs/2410.08192)|null|
+|**2024-10-10**|**DifFRelight: Diffusion-Based Facial Performance Relighting**|Mingming He et.al.|[2410.08188](http://arxiv.org/abs/2410.08188)|null|
+|**2024-10-10**|**Scaling Laws For Diffusion Transformers**|Zhengyang Liang et.al.|[2410.08184](http://arxiv.org/abs/2410.08184)|null|
+|**2024-10-10**|**DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation**|Jiatao Gu et.al.|[2410.08159](http://arxiv.org/abs/2410.08159)|null|
+|**2024-10-10**|**RayEmb: Arbitrary Landmark Detection in X-Ray Images Using Ray Embedding Subspace**|Pragyan Shrestha et.al.|[2410.08152](http://arxiv.org/abs/2410.08152)|**[link](https://github.com/pragyanstha/rayemb)**|
+|**2024-10-10**|**Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models**|Vinith M. Suriyakumar et.al.|[2410.08074](http://arxiv.org/abs/2410.08074)|null|
+|**2024-10-10**|**Generated Bias: Auditing Internal Bias Dynamics of Text-To-Image Generative Models**|Abhishek Mandal et.al.|[2410.07884](http://arxiv.org/abs/2410.07884)|null|
+|**2024-10-10**|**MinorityPrompt: Text to Minority Image Generation via Prompt Optimization**|Soobin Um et.al.|[2410.07838](http://arxiv.org/abs/2410.07838)|null|
+|**2024-10-10**|**HARIVO: Harnessing Text-to-Image Models for Video Generation**|Mingi Kwon et.al.|[2410.07763](http://arxiv.org/abs/2410.07763)|null|
+|**2024-10-10**|**Relational Diffusion Distillation for Efficient Image Generation**|Weilun Feng et.al.|[2410.07679](http://arxiv.org/abs/2410.07679)|**[link](https://github.com/cantbebetter2/rdd)**|
+|**2024-10-10**|**SeMv-3D: Towards Semantic and Mutil-view Consistency simultaneously for General Text-to-3D Generation with Triplane Priors**|Xiao Cai et.al.|[2410.07658](http://arxiv.org/abs/2410.07658)|null|
+|**2024-10-10**|**FLIER: Few-shot Language Image Models Embedded with Latent Representations**|Zhinuo Zhou et.al.|[2410.07648](http://arxiv.org/abs/2410.07648)|null|
+|**2024-10-10**|**A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**|Hoin Jung et.al.|[2410.07593](http://arxiv.org/abs/2410.07593)|null|
+|**2024-10-10**|**I-Max: Maximize the Resolution Potential of Pre-trained Rectified Flow Transformers with Projected Flow**|Ruoyi Du et.al.|[2410.07536](http://arxiv.org/abs/2410.07536)|null|
 |**2024-10-09**|**IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation**|Xinchen Zhang et.al.|[2410.07171](http://arxiv.org/abs/2410.07171)|**[link](https://github.com/yangling0818/itercomp)**|
 |**2024-10-10**|**EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models**|Rui Zhao et.al.|[2410.07133](http://arxiv.org/abs/2410.07133)|**[link](https://github.com/showlab/evolvedirector)**|
-|**2024-10-09**|**Personalized Visual Instruction Tuning**|Renjie Pi et.al.|[2410.07113](http://arxiv.org/abs/2410.07113)|null|
+|**2024-10-09**|**Personalized Visual Instruction Tuning**|Renjie Pi et.al.|[2410.07113](http://arxiv.org/abs/2410.07113)|**[link](https://github.com/sterzhang/pvit)**|
 |**2024-10-09**|**Transesophageal Echocardiography Generation using Anatomical Models**|Emmanuel Oladokun et.al.|[2410.06781](http://arxiv.org/abs/2410.06781)|null|
 |**2024-10-09**|**Patterns of Creativity: How User Input Shapes AI-Generated Visual Diversity**|Maria-Teresa De Rosa Palmini et.al.|[2410.06768](http://arxiv.org/abs/2410.06768)|null|
 |**2024-10-09**|**Decouple-Then-Merge: Towards Better Training for Diffusion Models**|Qianli Ma et.al.|[2410.06664](http://arxiv.org/abs/2410.06664)|null|
