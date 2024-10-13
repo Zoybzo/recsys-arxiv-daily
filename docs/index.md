@@ -21,7 +21,7 @@ layout: default
 |**2024-10-10**|**A Hate Speech Moderated Chat Application: Use Case for GDPR and DSA Compliance**|Jan Fillies et.al.|[2410.07713](http://arxiv.org/abs/2410.07713)|null|
 |**2024-10-10**|**Extending the European Competence Framework for Quantum Technologies: new proficiency triangle and qualification profiles**|Franziska Greinert et.al.|[2410.07692](http://arxiv.org/abs/2410.07692)|null|
 |**2024-10-10**|**Cognitive Noise and Altruistic Preferences**|Niklas M. Witzig et.al.|[2410.07647](http://arxiv.org/abs/2410.07647)|null|
-|**2024-10-09**|**3D2M Dataset: A 3-Dimension diverse Mesh Dataset**|Sankarshan Dasgupta et.al.|[2410.07415](http://arxiv.org/abs/2410.07415)|null|
+|**2024-10-09**|**3D2M Dataset: A 3-Dimension diverse Mesh Dataset**|Sankarshan Dasgupta et.al.|[2410.07415](http://arxiv.org/abs/2410.07415)|**[link](https://github.com/sohomd/3D2M-Dataset)**|
 |**2024-10-09**|**The Moral Turing Test: Evaluating Human-LLM Alignment in Moral Decision-Making**|Basile Garcia et.al.|[2410.07304](http://arxiv.org/abs/2410.07304)|null|
 |**2024-10-09**|**Benchmarking Data Heterogeneity Evaluation Approaches for Personalized Federated Learning**|Zhilong Li et.al.|[2410.07286](http://arxiv.org/abs/2410.07286)|**[link](https://github.com/xiaoni-61/dh-benchmark)**|
 |**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157](http://arxiv.org/abs/2410.07157)|**[link](https://github.com/PeterGriffinJin/InstructG2I)**|
@@ -921,7 +921,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-10**|**PointOBB-v2: Towards Simpler, Faster, and Stronger Single Point Supervised Oriented Object Detection**|Botao Ren et.al.|[2410.08210](http://arxiv.org/abs/2410.08210)|null|
 |**2024-10-10**|**Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training**|Gen Luo et.al.|[2410.08202](http://arxiv.org/abs/2410.08202)|null|
-|**2024-10-10**|**From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**|Changle Qu et.al.|[2410.08197](http://arxiv.org/abs/2410.08197)|null|
+|**2024-10-10**|**From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**|Changle Qu et.al.|[2410.08197](http://arxiv.org/abs/2410.08197)|**[link](https://github.com/quchangle1/DRAFT)**|
 |**2024-10-10**|**MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code**|Zimu Lu et.al.|[2410.08196](http://arxiv.org/abs/2410.08196)|**[link](https://github.com/mathllm/mathcoder2)**|
 |**2024-10-10**|**GenARM: Reward Guided Generation with Autoregressive Reward Model for Test-time Alignment**|Yuancheng Xu et.al.|[2410.08193](http://arxiv.org/abs/2410.08193)|null|
 |**2024-10-10**|**SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation**|Hang Yin et.al.|[2410.08189](http://arxiv.org/abs/2410.08189)|null|
@@ -2132,7 +2132,7 @@ layout: default
 |**2024-10-10**|**RayEmb: Arbitrary Landmark Detection in X-Ray Images Using Ray Embedding Subspace**|Pragyan Shrestha et.al.|[2410.08152](http://arxiv.org/abs/2410.08152)|**[link](https://github.com/pragyanstha/rayemb)**|
 |**2024-10-10**|**Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models**|Vinith M. Suriyakumar et.al.|[2410.08074](http://arxiv.org/abs/2410.08074)|null|
 |**2024-10-10**|**Generated Bias: Auditing Internal Bias Dynamics of Text-To-Image Generative Models**|Abhishek Mandal et.al.|[2410.07884](http://arxiv.org/abs/2410.07884)|null|
-|**2024-10-10**|**MinorityPrompt: Text to Minority Image Generation via Prompt Optimization**|Soobin Um et.al.|[2410.07838](http://arxiv.org/abs/2410.07838)|null|
+|**2024-10-10**|**MinorityPrompt: Text to Minority Image Generation via Prompt Optimization**|Soobin Um et.al.|[2410.07838](http://arxiv.org/abs/2410.07838)|**[link](https://github.com/anonymous-6898/MinorityPrompt)**|
 |**2024-10-10**|**HARIVO: Harnessing Text-to-Image Models for Video Generation**|Mingi Kwon et.al.|[2410.07763](http://arxiv.org/abs/2410.07763)|null|
 |**2024-10-10**|**Relational Diffusion Distillation for Efficient Image Generation**|Weilun Feng et.al.|[2410.07679](http://arxiv.org/abs/2410.07679)|**[link](https://github.com/cantbebetter2/rdd)**|
 |**2024-10-10**|**SeMv-3D: Towards Semantic and Mutil-view Consistency simultaneously for General Text-to-3D Generation with Triplane Priors**|Xiao Cai et.al.|[2410.07658](http://arxiv.org/abs/2410.07658)|null|
