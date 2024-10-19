@@ -17,7 +17,7 @@ layout: default
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
 |**2024-10-17**|**Looking Inward: Language Models Can Learn About Themselves by Introspection**|Felix J Binder et.al.|[2410.13787](http://arxiv.org/abs/2410.13787)|**[link](https://github.com/felixbinder/introspection_self_prediction)**|
 |**2024-10-17**|**Privacy-Preserving Decentralized AI with Confidential Computing**|Dayeol Lee et.al.|[2410.13752](http://arxiv.org/abs/2410.13752)|null|
-|**2024-10-17**|**Movie Gen: A Cast of Media Foundation Models**|Adam Polyak et.al.|[2410.13720](http://arxiv.org/abs/2410.13720)|null|
+|**2024-10-17**|**Movie Gen: A Cast of Media Foundation Models**|Adam Polyak et.al.|[2410.13720](http://arxiv.org/abs/2410.13720)|**[link](https://github.com/facebookresearch/moviegenbench)**|
 |**2024-10-17**|**The Subtlety of Optimal Paternalism in a Population with Bounded Rationality**|Charles F. Manski et.al.|[2410.13658](http://arxiv.org/abs/2410.13658)|null|
 |**2024-10-17**|**Large Language Models as Narrative-Driven Recommenders**|Lukas Eberhard et.al.|[2410.13604](http://arxiv.org/abs/2410.13604)|null|
 |**2024-10-17**|**CCUP: A Controllable Synthetic Data Generation Pipeline for Pretraining Cloth-Changing Person Re-Identification Models**|Yujian Zhao et.al.|[2410.13567](http://arxiv.org/abs/2410.13567)|**[link](https://github.com/yjzhao1019/ccup)**|
@@ -27,13 +27,13 @@ layout: default
 |**2024-10-17**|**Predicting Breast Cancer Survival: A Survival Analysis Approach Using Log Odds and Clinical Variables**|Opeyemi Sheu Alamu et.al.|[2410.13404](http://arxiv.org/abs/2410.13404)|null|
 |**2024-10-17**|**Metacognitive Monitoring: A Human Ability Beyond Generative Artificial Intelligence**|Markus Huff et.al.|[2410.13392](http://arxiv.org/abs/2410.13392)|null|
 |**2024-10-17**|**MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models**|Donghao Zhou et.al.|[2410.13370](http://arxiv.org/abs/2410.13370)|null|
-|**2024-10-17**|**Remember, Retrieve and Generate: Understanding Infinite Visual Concepts as Your Personalized Assistant**|Haoran Hao et.al.|[2410.13360](http://arxiv.org/abs/2410.13360)|null|
+|**2024-10-17**|**Remember, Retrieve and Generate: Understanding Infinite Visual Concepts as Your Personalized Assistant**|Haoran Hao et.al.|[2410.13360](http://arxiv.org/abs/2410.13360)|**[link](https://github.com/hoar012/rap-mllm)**|
 |**2024-10-17**|**DART: Disentanglement of Accent and Speaker Representation in Multispeaker Text-to-Speech**|Jan Melechovsky et.al.|[2410.13342](http://arxiv.org/abs/2410.13342)|null|
 |**2024-10-17**|**Active inference and deep generative modeling for cognitive ultrasound**|Ruud JG van Sloun et.al.|[2410.13310](http://arxiv.org/abs/2410.13310)|null|
 |**2024-10-17**|**Breaking Chains: Unraveling the Links in Multi-Hop Knowledge Unlearning**|Minseok Choi et.al.|[2410.13274](http://arxiv.org/abs/2410.13274)|null|
 |**2024-10-17**|**Perceptions of Discriminatory Decisions of Artificial Intelligence: Unpacking the Role of Individual Characteristics**|Soojong Kim et.al.|[2410.13250](http://arxiv.org/abs/2410.13250)|null|
 |**2024-10-17**|**Disentangling Likes and Dislikes in Personalized Generative Explainable Recommendation**|Ryotaro Shimizu et.al.|[2410.13248](http://arxiv.org/abs/2410.13248)|null|
-|**2024-10-17**|**Research on Travel Route Planing Problems Based on Greedy Algorithm**|Yiquan Wang et.al.|[2410.13226](http://arxiv.org/abs/2410.13226)|null|
+|**2024-10-17**|**Research on Travel Route Planing Problems Based on Greedy Algorithm**|Yiquan Wang et.al.|[2410.13226](http://arxiv.org/abs/2410.13226)|**[link](https://github.com/mindspore-lab/models)**|
 |**2024-10-16**|**Drillboards: Adaptive Visualization Dashboards for Dynamic Personalization of Visualization Experiences**|Sungbok Shin et.al.|[2410.12744](http://arxiv.org/abs/2410.12744)|null|
 |**2024-10-16**|**A spatial hypergraph model where epidemic spread demonstrates clear higher-order effects**|Omar Eldaghar et.al.|[2410.12688](http://arxiv.org/abs/2410.12688)|null|
 |**2024-10-16**|**Identity Emergence in the Context of Vaccine Criticism in France**|Melody Sepahpour-Fard et.al.|[2410.12676](http://arxiv.org/abs/2410.12676)|null|
@@ -1019,7 +1019,7 @@ layout: default
 |**2024-10-17**|**How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs**|Guhao Feng et.al.|[2410.13857](http://arxiv.org/abs/2410.13857)|null|
 |**2024-10-17**|**Can MLLMs Understand the Deep Implication Behind Chinese Images?**|Chenhao Zhang et.al.|[2410.13854](http://arxiv.org/abs/2410.13854)|**[link](https://github.com/MING-ZCH/CII-Bench)**|
 |**2024-10-17**|**Retrospective Learning from Interactions**|Zizhao Chen et.al.|[2410.13852](http://arxiv.org/abs/2410.13852)|null|
-|**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|null|
+|**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|**[link](https://github.com/sail-sg/simlayerkv)**|
 |**2024-10-17**|**D-FINE: Redefine Regression Task in DETRs as Fine-grained Distribution Refinement**|Yansong Peng et.al.|[2410.13842](http://arxiv.org/abs/2410.13842)|**[link](https://github.com/Peterande/D-FINE)**|
 |**2024-10-17**|**Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs**|Tianyu Guo et.al.|[2410.13835](http://arxiv.org/abs/2410.13835)|null|
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
@@ -2331,7 +2331,7 @@ layout: default
 |**2024-10-16**|**Evaluating Utility of Memory Efficient Medical Image Generation: A Study on Lung Nodule Segmentation**|Kathrin Khadra et.al.|[2410.12542](http://arxiv.org/abs/2410.12542)|null|
 |**2024-10-16**|**Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective**|Yongxin Zhu et.al.|[2410.12490](http://arxiv.org/abs/2410.12490)|**[link](https://github.com/DAMO-NLP-SG/DiGIT)**|
 |**2024-10-16**|**Imagine2Servo: Intelligent Visual Servoing with Diffusion-Driven Goal Generation for Robotic Tasks**|Pranjali Pathre et.al.|[2410.12432](http://arxiv.org/abs/2410.12432)|null|
-|**2024-10-16**|**FaceChain-FACT: Face Adapter with Decoupled Training for Identity-preserved Personalization**|Cheng Yu et.al.|[2410.12312](http://arxiv.org/abs/2410.12312)|null|
+|**2024-10-16**|**FaceChain-FACT: Face Adapter with Decoupled Training for Identity-preserved Personalization**|Cheng Yu et.al.|[2410.12312](http://arxiv.org/abs/2410.12312)|**[link](https://github.com/modelscope/facechain)**|
 |**2024-10-16**|**Facing Identity: The Formation and Performance of Identity via Face-Based Artificial Intelligence Technologies**|Wells Lucas Santo et.al.|[2410.12148](http://arxiv.org/abs/2410.12148)|null|
 |**2024-10-15**|**DDIL: Improved Diffusion Distillation With Imitation Learning**|Risheek Garrepalli et.al.|[2410.11971](http://arxiv.org/abs/2410.11971)|null|
 |**2024-10-15**|**On the Effectiveness of Dataset Alignment for Fake Image Detection**|Anirudh Sundara Rajan et.al.|[2410.11835](http://arxiv.org/abs/2410.11835)|null|
