@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**Optimizing Travel Itineraries with AI Algorithms in a Microservices Architecture: Balancing Cost, Time, Preferences, and Sustainability**|Biman Barua et.al.|[2410.17943](http://arxiv.org/abs/2410.17943)|null|
+|**2024-10-23**|**Multi-Continental Healthcare Modelling Using Blockchain-Enabled Federated Learning**|Rui Sun et.al.|[2410.17933](http://arxiv.org/abs/2410.17933)|null|
+|**2024-10-23**|**SpeakGer: A meta-data enriched speech corpus of German state and federal parliaments**|Kai-Robin Lange et.al.|[2410.17886](http://arxiv.org/abs/2410.17886)|null|
+|**2024-10-23**|**Interacting Particle Systems on Random Graphs**|F. Capannoli et.al.|[2410.17766](http://arxiv.org/abs/2410.17766)|null|
+|**2024-10-23**|**LMLPA: Language Model Linguistic Personality Assessment**|Jingyao Zheng et.al.|[2410.17632](http://arxiv.org/abs/2410.17632)|null|
+|**2024-10-23**|**How to Continually Adapt Text-to-Image Diffusion Models for Flexible Customization?**|Jiahua Dong et.al.|[2410.17594](http://arxiv.org/abs/2410.17594)|null|
+|**2024-10-23**|**MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control**|Juyong Lee et.al.|[2410.17520](http://arxiv.org/abs/2410.17520)|null|
+|**2024-10-23**|**Which Client is Reliable?: A Reliable and Personalized Prompt-based Federated Learning for Medical Image Question Answering**|He Zhu et.al.|[2410.17484](http://arxiv.org/abs/2410.17484)|null|
+|**2024-10-22**|**AdaptoML-UX: An Adaptive User-centered GUI-based AutoML Toolkit for Non-AI Experts and HCI Researchers**|Amr Gomaa et.al.|[2410.17469](http://arxiv.org/abs/2410.17469)|**[link](https://github.com/michaelsargious/adaptoml_ux)**|
+|**2024-10-22**|**Revealing The Secret Power: How Algorithms Can Influence Content Visibility on Social Media**|Mauro Conti et.al.|[2410.17390](http://arxiv.org/abs/2410.17390)|null|
 |**2024-10-22**|**Large Language Models Empowered Personalized Web Agents**|Hongru Cai et.al.|[2410.17236](http://arxiv.org/abs/2410.17236)|null|
 |**2024-10-22**|**Ergodic Risk Sensitive Control of Markovian Multiclass Many-Server Queues with Abandonment**|Sumith Reddy Anugu et.al.|[2410.17205](http://arxiv.org/abs/2410.17205)|null|
 |**2024-10-22**|**PAPILLON: PrivAcy Preservation from Internet-based and Local Language MOdel ENsembles**|Li Siyan et.al.|[2410.17127](http://arxiv.org/abs/2410.17127)|**[link](https://github.com/siyan-sylvia-li/papillon)**|
@@ -1079,6 +1089,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**Leveraging Skills from Unlabeled Prior Data for Efficient Online Exploration**|Max Wilcoxson et.al.|[2410.18076](http://arxiv.org/abs/2410.18076)|null|
+|**2024-10-23**|**TP-Eval: Tap Multimodal LLMs' Potential in Evaluation by Customizing Prompts**|Yuxuan Xie et.al.|[2410.18071](http://arxiv.org/abs/2410.18071)|null|
+|**2024-10-23**|**LongRAG: A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering**|Qingfei Zhao et.al.|[2410.18050](http://arxiv.org/abs/2410.18050)|**[link](https://github.com/qingfei1/longrag)**|
+|**2024-10-23**|**Key Algorithms for Keyphrase Generation: Instruction-Based LLMs for Russian Scientific Keyphrases**|Anna Glazkova et.al.|[2410.18040](http://arxiv.org/abs/2410.18040)|null|
+|**2024-10-23**|**POD-Attention: Unlocking Full Prefill-Decode Overlap for Faster LLM Inference**|Aditya K Kamath et.al.|[2410.18038](http://arxiv.org/abs/2410.18038)|null|
+|**2024-10-23**|**MiLoRA: Efficient Mixture of Low-Rank Adaptation for Large Language Models Fine-tuning**|Jingfan Zhang et.al.|[2410.18035](http://arxiv.org/abs/2410.18035)|null|
+|**2024-10-23**|**GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration**|Xin Li et.al.|[2410.18032](http://arxiv.org/abs/2410.18032)|**[link](https://github.com/bupt-gamma/graphteam)**|
+|**2024-10-23**|**MiniFed : Integrating LLM-based Agentic-Workflow for Simulating FOMC Meeting**|Sungil Seok et.al.|[2410.18012](http://arxiv.org/abs/2410.18012)|null|
+|**2024-10-23**|**ExpertFlow: Optimized Expert Activation and Token Allocation for Efficient Mixture-of-Experts Inference**|Xin He et.al.|[2410.17954](http://arxiv.org/abs/2410.17954)|null|
+|**2024-10-23**|**SimRAG: Self-Improving Retrieval-Augmented Generation for Adapting Large Language Models to Specialized Domains**|Ran Xu et.al.|[2410.17952](http://arxiv.org/abs/2410.17952)|null|
+|**2024-10-23**|**Benchmarking Floworks against OpenAI & Anthropic: A Novel Framework for Enhanced LLM Function Calling**|Nirav Bhan et.al.|[2410.17950](http://arxiv.org/abs/2410.17950)|null|
+|**2024-10-23**|**Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models**|He Cao et.al.|[2410.17922](http://arxiv.org/abs/2410.17922)|null|
+|**2024-10-23**|**R-CoT: Reverse Chain-of-Thought Problem Generation for Geometric Reasoning in Large Multimodal Models**|Linger Deng et.al.|[2410.17885](http://arxiv.org/abs/2410.17885)|**[link](https://github.com/dle666/r-cot)**|
+|**2024-10-23**|**AdaRankGrad: Adaptive Gradient-Rank and Moments for Memory-Efficient LLMs Training and Fine-Tuning**|Yehonathan Refael et.al.|[2410.17881](http://arxiv.org/abs/2410.17881)|null|
+|**2024-10-23**|**Understanding Layer Significance in LLM Alignment**|Guangyuan Shi et.al.|[2410.17875](http://arxiv.org/abs/2410.17875)|null|
+|**2024-10-23**|**Is the GPU Half-Empty or Half-Full? Practical Scheduling Techniques for LLMs**|Ferdi Kossmann et.al.|[2410.17840](http://arxiv.org/abs/2410.17840)|null|
+|**2024-10-23**|**RE-tune: Incremental Fine Tuning of Biomedical Vision-Language Models for Multi-label Chest X-ray Classification**|Marco Mistretta et.al.|[2410.17827](http://arxiv.org/abs/2410.17827)|null|
+|**2024-10-23**|**Understanding When Tree of Thoughts Succeeds: Larger Models Excel in Generation, Not Discrimination**|Qiqi Chen et.al.|[2410.17820](http://arxiv.org/abs/2410.17820)|**[link](https://github.com/mainlp/tot-eval)**|
+|**2024-10-23**|**EntityCLIP: Entity-Centric Image-Text Matching via Multimodal Attentive Contrastive Learning**|Yaxiong Wang et.al.|[2410.17810](http://arxiv.org/abs/2410.17810)|null|
+|**2024-10-23**|**An Intelligent Agentic System for Complex Image Restoration Problems**|Kaiwen Zhu et.al.|[2410.17809](http://arxiv.org/abs/2410.17809)|null|
 |**2024-10-22**|**HyperspectralViTs: Fast and Accurate methane detection on-board satellites**|Vít Růžička et.al.|[2410.17248](http://arxiv.org/abs/2410.17248)|null|
 |**2024-10-22**|**Towards Reliable Evaluation of Behavior Steering Interventions in LLMs**|Itamar Pres et.al.|[2410.17245](http://arxiv.org/abs/2410.17245)|null|
 |**2024-10-22**|**SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning**|Yizhou Chi et.al.|[2410.17238](http://arxiv.org/abs/2410.17238)|**[link](https://github.com/geekan/metagpt)**|
@@ -2446,6 +2476,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**Scalable Ranked Preference Optimization for Text-to-Image Generation**|Shyamgopal Karthik et.al.|[2410.18013](http://arxiv.org/abs/2410.18013)|null|
+|**2024-10-23**|**A Wavelet Diffusion GAN for Image Super-Resolution**|Lorenzo Aloisi et.al.|[2410.17966](http://arxiv.org/abs/2410.17966)|null|
+|**2024-10-23**|**TAGE: Trustworthy Attribute Group Editing for Stable Few-shot Image Generation**|Ruicheng Zhang et.al.|[2410.17855](http://arxiv.org/abs/2410.17855)|null|
+|**2024-10-23**|**AdaDiffSR: Adaptive Region-aware Dynamic Acceleration Diffusion Model for Real-World Image Super-Resolution**|Yuanting Fan et.al.|[2410.17752](http://arxiv.org/abs/2410.17752)|null|
+|**2024-10-23**|**Deep Generative Models for 3D Medical Image Synthesis**|Paul Friedrich et.al.|[2410.17664](http://arxiv.org/abs/2410.17664)|null|
+|**2024-10-23**|**How to Continually Adapt Text-to-Image Diffusion Models for Flexible Customization?**|Jiahua Dong et.al.|[2410.17594](http://arxiv.org/abs/2410.17594)|null|
+|**2024-10-22**|**Offline Evaluation of Set-Based Text-to-Image Generation**|Negar Arabzadeh et.al.|[2410.17331](http://arxiv.org/abs/2410.17331)|null|
 |**2024-10-22**|**Altogether: Image Captioning via Re-aligning Alt-text**|Hu Xu et.al.|[2410.17251](http://arxiv.org/abs/2410.17251)|null|
 |**2024-10-22**|**Insights on Disagreement Patterns in Multimodal Safety Perception across Diverse Rater Groups**|Charvi Rastogi et.al.|[2410.17032](http://arxiv.org/abs/2410.17032)|null|
 |**2024-10-22**|**IdenBAT: Disentangled Representation Learning for Identity-Preserved Brain Age Transformation**|Junyeong Maeng et.al.|[2410.16945](http://arxiv.org/abs/2410.16945)|**[link](https://github.com/ku-milab/idenbat)**|
