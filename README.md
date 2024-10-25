@@ -19,9 +19,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**ArterialNet: Reconstructing Arterial Blood Pressure Waveform with Wearable Pulsatile Signals, a Cohort-Aware Approach**|Sicong Huang et.al.|[2410.18895](http://arxiv.org/abs/2410.18895)|null|
+|**2024-10-24**|**End-to-end Training for Recommendation with Language-based User Profiles**|Zhaolin Gao et.al.|[2410.18870](http://arxiv.org/abs/2410.18870)|**[link](https://github.com/zhaolingao/langptune)**|
+|**2024-10-24**|**FedSPD: A Soft-clustering Approach for Personalized Decentralized Federated Learning**|I-Cheng Lin et.al.|[2410.18862](http://arxiv.org/abs/2410.18862)|null|
+|**2024-10-24**|**Expanding AI Awareness Through Everyday Interactions with AI: A Reflective Journal Study**|Ashish Hingle et.al.|[2410.18845](http://arxiv.org/abs/2410.18845)|null|
+|**2024-10-24**|**VoxelKeypointFusion: Generalizable Multi-View Multi-Person Pose Estimation**|Daniel Bermuth et.al.|[2410.18723](http://arxiv.org/abs/2410.18723)|null|
+|**2024-10-24**|**Understanding Players as if They Are Talking to the Game in a Customized Language: A Pilot Study**|Tianze Wang et.al.|[2410.18605](http://arxiv.org/abs/2410.18605)|null|
+|**2024-10-24**|**Difficult for Whom? A Study of Japanese Lexical Complexity**|Adam Nohejl et.al.|[2410.18567](http://arxiv.org/abs/2410.18567)|null|
+|**2024-10-24**|**Large Language Models Reflect the Ideology of their Creators**|Maarten Buyl et.al.|[2410.18417](http://arxiv.org/abs/2410.18417)|**[link](https://github.com/aida-ugent/llm-ideology-analysis)**|
+|**2024-10-24**|**Assessing Alcohol Use Disorder: Insights from Lifestyle, Background, and Family History with Machine Learning Techniques**|Chenlan Wang et.al.|[2410.18354](http://arxiv.org/abs/2410.18354)|null|
+|**2024-10-23**|**When Group Spirit Meets Personal Journeys: Exploring Motivational Dynamics and Design Opportunities in Group Therapy**|Shixian Geng et.al.|[2410.18329](http://arxiv.org/abs/2410.18329)|null|
+|**2024-10-23**|**Kenyan Sign Language (KSL) Dataset: Using Artificial Intelligence (AI) in Bridging Communication Barrier among the Deaf Learners**|Lilian Wanzare et.al.|[2410.18295](http://arxiv.org/abs/2410.18295)|null|
+|**2024-10-23**|**Melody Construction for Persian lyrics using LSTM recurrent neural networks**|Farshad Jafari et.al.|[2410.18203](http://arxiv.org/abs/2410.18203)|null|
+|**2024-10-23**|**Personalized Instance-based Navigation Toward User-Specific Objects in Realistic Environments**|Luca Barsellotti et.al.|[2410.18195](http://arxiv.org/abs/2410.18195)|**[link](https://github.com/aimagelab/pin)**|
 |**2024-10-23**|**Optimizing Travel Itineraries with AI Algorithms in a Microservices Architecture: Balancing Cost, Time, Preferences, and Sustainability**|Biman Barua et.al.|[2410.17943](http://arxiv.org/abs/2410.17943)|null|
 |**2024-10-23**|**Multi-Continental Healthcare Modelling Using Blockchain-Enabled Federated Learning**|Rui Sun et.al.|[2410.17933](http://arxiv.org/abs/2410.17933)|null|
-|**2024-10-23**|**SpeakGer: A meta-data enriched speech corpus of German state and federal parliaments**|Kai-Robin Lange et.al.|[2410.17886](http://arxiv.org/abs/2410.17886)|null|
+|**2024-10-23**|**SpeakGer: A meta-data enriched speech corpus of German state and federal parliaments**|Kai-Robin Lange et.al.|[2410.17886](http://arxiv.org/abs/2410.17886)|**[link](https://github.com/K-RLange/SpeakGer)**|
 |**2024-10-23**|**Interacting Particle Systems on Random Graphs**|F. Capannoli et.al.|[2410.17766](http://arxiv.org/abs/2410.17766)|null|
 |**2024-10-23**|**LMLPA: Language Model Linguistic Personality Assessment**|Jingyao Zheng et.al.|[2410.17632](http://arxiv.org/abs/2410.17632)|null|
 |**2024-10-23**|**How to Continually Adapt Text-to-Image Diffusion Models for Flexible Customization?**|Jiahua Dong et.al.|[2410.17594](http://arxiv.org/abs/2410.17594)|null|
@@ -1089,6 +1102,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Unbounded: A Generative Infinite Game of Character Life Simulation**|Jialu Li et.al.|[2410.18975](http://arxiv.org/abs/2410.18975)|null|
+|**2024-10-24**|**3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation**|Hansheng Chen et.al.|[2410.18974](http://arxiv.org/abs/2410.18974)|**[link](https://github.com/Lakonik/MVEdit)**|
+|**2024-10-24**|**Ferret-UI 2: Mastering Universal User Interface Understanding Across Platforms**|Zhangheng Li et.al.|[2410.18967](http://arxiv.org/abs/2410.18967)|null|
+|**2024-10-24**|**Does Data Contamination Detection Work (Well) for LLMs? A Survey and Evaluation on Detection Assumptions**|Yujuan Fu et.al.|[2410.18966](http://arxiv.org/abs/2410.18966)|null|
+|**2024-10-24**|**On the Crucial Role of Initialization for Matrix Factorization**|Bingcong Li et.al.|[2410.18965](http://arxiv.org/abs/2410.18965)|null|
+|**2024-10-24**|**OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning**|Xiaoqiang Wang et.al.|[2410.18963](http://arxiv.org/abs/2410.18963)|null|
+|**2024-10-24**|**Context is Key: A Benchmark for Forecasting with Essential Textual Information**|Andrew Robert Williams et.al.|[2410.18959](http://arxiv.org/abs/2410.18959)|**[link](https://github.com/servicenow/context-is-key-forecasting)**|
+|**2024-10-24**|**Stable Consistency Tuning: Understanding and Improving Consistency Models**|Fu-Yun Wang et.al.|[2410.18958](http://arxiv.org/abs/2410.18958)|**[link](https://github.com/G-U-N/Stable-Consistency-Tuning)**|
+|**2024-10-24**|**Bridge-Coder: Unlocking LLMs' Potential to Overcome Language Gaps in Low-Resource Code**|Jipeng Zhang et.al.|[2410.18957](http://arxiv.org/abs/2410.18957)|null|
+|**2024-10-24**|**BioMistral-NLU: Towards More Generalizable Medical Language Understanding through Instruction Tuning**|Yujuan Velvin Fu et.al.|[2410.18955](http://arxiv.org/abs/2410.18955)|null|
+|**2024-10-24**|**Dynamic Vocabulary Pruning in Early-Exit LLMs**|Jort Vincenti et.al.|[2410.18952](http://arxiv.org/abs/2410.18952)|**[link](https://github.com/matteonulli/vocabulary_pruning)**|
+|**2024-10-24**|**SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models**|Zonghao Ying et.al.|[2410.18927](http://arxiv.org/abs/2410.18927)|null|
+|**2024-10-24**|**SegLLM: Multi-round Reasoning Segmentation**|XuDong Wang et.al.|[2410.18923](http://arxiv.org/abs/2410.18923)|null|
+|**2024-10-24**|**From Blind Solvers to Logical Thinkers: Benchmarking LLMs' Logical Integrity on Faulty Mathematical Problems**|A M Muntasir Rahman et.al.|[2410.18921](http://arxiv.org/abs/2410.18921)|null|
+|**2024-10-24**|**A Survey on Speech Large Language Models**|Jing Peng et.al.|[2410.18908](http://arxiv.org/abs/2410.18908)|null|
+|**2024-10-24**|**PRISM: A Methodology for Auditing Biases in Large Language Models**|Leif Azzopardi et.al.|[2410.18906](http://arxiv.org/abs/2410.18906)|**[link](https://github.com/cis-phawm/prism)**|
+|**2024-10-24**|**LLMs for Extremely Low-Resource Finno-Ugric Languages**|Taido Purason et.al.|[2410.18902](http://arxiv.org/abs/2410.18902)|null|
+|**2024-10-24**|**Creating and Repairing Robot Programs in Open-World Domains**|Claire Schlesinger et.al.|[2410.18893](http://arxiv.org/abs/2410.18893)|null|
+|**2024-10-24**|**Improving Small-Scale Large Language Models Function Calling for Reasoning Tasks**|Graziano A. Manduzio et.al.|[2410.18890](http://arxiv.org/abs/2410.18890)|null|
+|**2024-10-24**|**Are LLMs Better than Reported? Detecting Label Errors and Mitigating Their Effect on Model Performance**|Omer Nahum et.al.|[2410.18889](http://arxiv.org/abs/2410.18889)|null|
 |**2024-10-23**|**Leveraging Skills from Unlabeled Prior Data for Efficient Online Exploration**|Max Wilcoxson et.al.|[2410.18076](http://arxiv.org/abs/2410.18076)|null|
 |**2024-10-23**|**TP-Eval: Tap Multimodal LLMs' Potential in Evaluation by Customizing Prompts**|Yuxuan Xie et.al.|[2410.18071](http://arxiv.org/abs/2410.18071)|null|
 |**2024-10-23**|**LongRAG: A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering**|Qingfei Zhao et.al.|[2410.18050](http://arxiv.org/abs/2410.18050)|**[link](https://github.com/qingfei1/longrag)**|
@@ -2476,14 +2509,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation**|Hansheng Chen et.al.|[2410.18974](http://arxiv.org/abs/2410.18974)|**[link](https://github.com/Lakonik/MVEdit)**|
+|**2024-10-24**|**Diff-Instruct++: Training One-step Text-to-image Generator Model to Align with Human Preferences**|Weijian Luo et.al.|[2410.18881](http://arxiv.org/abs/2410.18881)|null|
+|**2024-10-24**|**Multi-Scale Diffusion: Enhancing Spatial Layout in High-Resolution Panoramic Image Generation**|Xiaoyu Zhang et.al.|[2410.18830](http://arxiv.org/abs/2410.18830)|null|
+|**2024-10-24**|**Towards Visual Text Design Transfer Across Languages**|Yejin Choi et.al.|[2410.18823](http://arxiv.org/abs/2410.18823)|null|
+|**2024-10-24**|**Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances**|Shilin Lu et.al.|[2410.18775](http://arxiv.org/abs/2410.18775)|**[link](https://github.com/shilin-lu/vine)**|
+|**2024-10-24**|**Ali-AUG: Innovative Approaches to Labeled Data Augmentation using One-Step Diffusion Model**|Ali Hamza et.al.|[2410.18678](http://arxiv.org/abs/2410.18678)|null|
+|**2024-10-24**|**DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation**|Yuang Ai et.al.|[2410.18666](http://arxiv.org/abs/2410.18666)|**[link](https://github.com/shallowdream204/dreamclear)**|
+|**2024-10-24**|**FairQueue: Rethinking Prompt Learning for Fair Text-to-Image Generation**|Christopher T. H Teo et.al.|[2410.18615](http://arxiv.org/abs/2410.18615)|null|
+|**2024-10-24**|**SMITE: Segment Me In TimE**|Amirhossein Alimohammadi et.al.|[2410.18538](http://arxiv.org/abs/2410.18538)|null|
+|**2024-10-24**|**Beyond Color and Lines: Zero-Shot Style-Specific Image Variations with Coordinated Semantics**|Jinghao Hu et.al.|[2410.18537](http://arxiv.org/abs/2410.18537)|null|
+|**2024-10-24**|**FreCaS: Efficient Higher-Resolution Image Generation via Frequency-aware Cascaded Sampling**|Zhengqiang Zhang et.al.|[2410.18410](http://arxiv.org/abs/2410.18410)|**[link](https://github.com/xtudbxk/frecas)**|
+|**2024-10-23**|**Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing**|Dongliang Guo et.al.|[2410.18267](http://arxiv.org/abs/2410.18267)|null|
 |**2024-10-23**|**Scalable Ranked Preference Optimization for Text-to-Image Generation**|Shyamgopal Karthik et.al.|[2410.18013](http://arxiv.org/abs/2410.18013)|null|
 |**2024-10-23**|**A Wavelet Diffusion GAN for Image Super-Resolution**|Lorenzo Aloisi et.al.|[2410.17966](http://arxiv.org/abs/2410.17966)|null|
 |**2024-10-23**|**TAGE: Trustworthy Attribute Group Editing for Stable Few-shot Image Generation**|Ruicheng Zhang et.al.|[2410.17855](http://arxiv.org/abs/2410.17855)|null|
 |**2024-10-23**|**AdaDiffSR: Adaptive Region-aware Dynamic Acceleration Diffusion Model for Real-World Image Super-Resolution**|Yuanting Fan et.al.|[2410.17752](http://arxiv.org/abs/2410.17752)|null|
 |**2024-10-23**|**Deep Generative Models for 3D Medical Image Synthesis**|Paul Friedrich et.al.|[2410.17664](http://arxiv.org/abs/2410.17664)|null|
 |**2024-10-23**|**How to Continually Adapt Text-to-Image Diffusion Models for Flexible Customization?**|Jiahua Dong et.al.|[2410.17594](http://arxiv.org/abs/2410.17594)|null|
-|**2024-10-22**|**Offline Evaluation of Set-Based Text-to-Image Generation**|Negar Arabzadeh et.al.|[2410.17331](http://arxiv.org/abs/2410.17331)|null|
-|**2024-10-22**|**Altogether: Image Captioning via Re-aligning Alt-text**|Hu Xu et.al.|[2410.17251](http://arxiv.org/abs/2410.17251)|null|
+|**2024-10-22**|**Offline Evaluation of Set-Based Text-to-Image Generation**|Negar Arabzadeh et.al.|[2410.17331](http://arxiv.org/abs/2410.17331)|**[link](https://github.com/Narabzad/Set-Based-Text-to-ImageGeneration)**|
+|**2024-10-22**|**Altogether: Image Captioning via Re-aligning Alt-text**|Hu Xu et.al.|[2410.17251](http://arxiv.org/abs/2410.17251)|**[link](https://github.com/facebookresearch/metaclip)**|
 |**2024-10-22**|**Insights on Disagreement Patterns in Multimodal Safety Perception across Diverse Rater Groups**|Charvi Rastogi et.al.|[2410.17032](http://arxiv.org/abs/2410.17032)|null|
 |**2024-10-22**|**IdenBAT: Disentangled Representation Learning for Identity-Preserved Brain Age Transformation**|Junyeong Maeng et.al.|[2410.16945](http://arxiv.org/abs/2410.16945)|**[link](https://github.com/ku-milab/idenbat)**|
 |**2024-10-22**|**DiP-GO: A Diffusion Pruner via Few-step Gradient Optimization**|Haowei Zhu et.al.|[2410.16942](http://arxiv.org/abs/2410.16942)|null|
