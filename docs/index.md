@@ -20,7 +20,7 @@ layout: default
 |**2024-10-24**|**Expanding AI Awareness Through Everyday Interactions with AI: A Reflective Journal Study**|Ashish Hingle et.al.|[2410.18845](http://arxiv.org/abs/2410.18845)|null|
 |**2024-10-24**|**VoxelKeypointFusion: Generalizable Multi-View Multi-Person Pose Estimation**|Daniel Bermuth et.al.|[2410.18723](http://arxiv.org/abs/2410.18723)|null|
 |**2024-10-24**|**Understanding Players as if They Are Talking to the Game in a Customized Language: A Pilot Study**|Tianze Wang et.al.|[2410.18605](http://arxiv.org/abs/2410.18605)|null|
-|**2024-10-24**|**Difficult for Whom? A Study of Japanese Lexical Complexity**|Adam Nohejl et.al.|[2410.18567](http://arxiv.org/abs/2410.18567)|null|
+|**2024-10-24**|**Difficult for Whom? A Study of Japanese Lexical Complexity**|Adam Nohejl et.al.|[2410.18567](http://arxiv.org/abs/2410.18567)|**[link](https://github.com/naist-nlp/multils-japanese)**|
 |**2024-10-24**|**Large Language Models Reflect the Ideology of their Creators**|Maarten Buyl et.al.|[2410.18417](http://arxiv.org/abs/2410.18417)|**[link](https://github.com/aida-ugent/llm-ideology-analysis)**|
 |**2024-10-24**|**Assessing Alcohol Use Disorder: Insights from Lifestyle, Background, and Family History with Machine Learning Techniques**|Chenlan Wang et.al.|[2410.18354](http://arxiv.org/abs/2410.18354)|null|
 |**2024-10-23**|**When Group Spirit Meets Personal Journeys: Exploring Motivational Dynamics and Design Opportunities in Group Therapy**|Shixian Geng et.al.|[2410.18329](http://arxiv.org/abs/2410.18329)|null|
