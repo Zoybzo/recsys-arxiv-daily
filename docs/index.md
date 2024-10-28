@@ -14,6 +14,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**The Potential and Value of AI Chatbot in Personalized Cognitive Training**|Zilong Wang et.al.|[2410.19733](http://arxiv.org/abs/2410.19733)|null|
+|**2024-10-25**|**APRICOT: Active Preference Learning and Constraint-Aware Task Planning with LLMs**|Huaxiaoyue Wang et.al.|[2410.19656](http://arxiv.org/abs/2410.19656)|null|
+|**2024-10-25**|**Mask-Weighted Spatial Likelihood Coding for Speaker-Independent Joint Localization and Mask Estimation**|Jakob Kienegger et.al.|[2410.19595](http://arxiv.org/abs/2410.19595)|null|
+|**2024-10-25**|**Outreach, educational activities and communication of the ALICE collaboration**|Simone Ragoni et.al.|[2410.19507](http://arxiv.org/abs/2410.19507)|null|
+|**2024-10-25**|**x-RAGE: eXtended Reality -- Action & Gesture Events Dataset**|Vivek Parmar et.al.|[2410.19486](http://arxiv.org/abs/2410.19486)|null|
+|**2024-10-25**|**Intelligent Understanding of Large Language Models in Traditional Chinese Medicine Based on Prompt Engineering Framework**|Yirui Chen et.al.|[2410.19451](http://arxiv.org/abs/2410.19451)|null|
+|**2024-10-25**|**Generative Diffusion Models for Sequential Recommendations**|Sharare Zolghadr et.al.|[2410.19429](http://arxiv.org/abs/2410.19429)|null|
+|**2024-10-25**|**Engineering Trustworthy AI: A Developer Guide for Empirical Risk Minimization**|Diana Pfau et.al.|[2410.19361](http://arxiv.org/abs/2410.19361)|null|
+|**2024-10-25**|**Revealing and Reducing Gender Biases in Vision and Language Assistants (VLAs)**|Leander Girrbach et.al.|[2410.19314](http://arxiv.org/abs/2410.19314)|null|
+|**2024-10-25**|**Prompting Continual Person Search**|Pengcheng Zhang et.al.|[2410.19239](http://arxiv.org/abs/2410.19239)|**[link](https://github.com/patrickzad/pops)**|
+|**2024-10-25**|**Designing LLM-Agents with Personalities: A Psychometric Approach**|Muhua Huang et.al.|[2410.19238](http://arxiv.org/abs/2410.19238)|null|
+|**2024-10-25**|**Robot Behavior Personalization from Sparse User Feedback**|Maithili Patel et.al.|[2410.19219](http://arxiv.org/abs/2410.19219)|null|
+|**2024-10-24**|**Binary Classification: Is Boosting stronger than Bagging?**|Dimitris Bertsimas et.al.|[2410.19200](http://arxiv.org/abs/2410.19200)|null|
+|**2024-10-24**|**MAP: Multi-Human-Value Alignment Palette**|Xinran Wang et.al.|[2410.19198](http://arxiv.org/abs/2410.19198)|null|
 |**2024-10-24**|**ArterialNet: Reconstructing Arterial Blood Pressure Waveform with Wearable Pulsatile Signals, a Cohort-Aware Approach**|Sicong Huang et.al.|[2410.18895](http://arxiv.org/abs/2410.18895)|null|
 |**2024-10-24**|**End-to-end Training for Recommendation with Language-based User Profiles**|Zhaolin Gao et.al.|[2410.18870](http://arxiv.org/abs/2410.18870)|**[link](https://github.com/zhaolingao/langptune)**|
 |**2024-10-24**|**FedSPD: A Soft-clustering Approach for Personalized Decentralized Federated Learning**|I-Cheng Lin et.al.|[2410.18862](http://arxiv.org/abs/2410.18862)|null|
@@ -1095,6 +1109,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**Model merging with SVD to tie the Knots**|George Stoica et.al.|[2410.19735](http://arxiv.org/abs/2410.19735)|**[link](https://github.com/gstoica27/knots)**|
+|**2024-10-25**|**The Potential and Value of AI Chatbot in Personalized Cognitive Training**|Zilong Wang et.al.|[2410.19733](http://arxiv.org/abs/2410.19733)|null|
+|**2024-10-25**|**Counting Ability of Large Language Models and Impact of Tokenization**|Xiang Zhang et.al.|[2410.19730](http://arxiv.org/abs/2410.19730)|null|
+|**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727](http://arxiv.org/abs/2410.19727)|null|
+|**2024-10-25**|**2D-DPO: Scaling Direct Preference Optimization with 2-Dimensional Supervision**|Shilong Li et.al.|[2410.19720](http://arxiv.org/abs/2410.19720)|null|
+|**2024-10-25**|**TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning**|Xiangyu Zeng et.al.|[2410.19702](http://arxiv.org/abs/2410.19702)|null|
+|**2024-10-25**|**IPPON: Common Sense Guided Informative Path Planning for Object Goal Navigation**|Kaixian Qu et.al.|[2410.19697](http://arxiv.org/abs/2410.19697)|null|
+|**2024-10-25**|**Less is More: Extreme Gradient Boost Rank-1 Adaption for Efficient Finetuning of LLMs**|Yifei Zhang et.al.|[2410.19694](http://arxiv.org/abs/2410.19694)|null|
+|**2024-10-25**|**AGENT-CQ: Automatic Generation and Evaluation of Clarifying Questions for Conversational Search with LLMs**|Clemencia Siro et.al.|[2410.19692](http://arxiv.org/abs/2410.19692)|null|
+|**2024-10-25**|**Inferring Neural Signed Distance Functions by Overfitting on Single Noisy Point Clouds through Finetuning Data-Driven based Priors**|Chao Chen et.al.|[2410.19680](http://arxiv.org/abs/2410.19680)|null|
+|**2024-10-25**|**APRICOT: Active Preference Learning and Constraint-Aware Task Planning with LLMs**|Huaxiaoyue Wang et.al.|[2410.19656](http://arxiv.org/abs/2410.19656)|null|
+|**2024-10-25**|**CoqPilot, a plugin for LLM-based generation of proofs**|Andrei Kozyrev et.al.|[2410.19605](http://arxiv.org/abs/2410.19605)|**[link](https://github.com/jetbrains-research/coqpilot)**|
+|**2024-10-25**|**Take Caution in Using LLMs as Human Surrogates: Scylla Ex Machina**|Yuan Gao et.al.|[2410.19599](http://arxiv.org/abs/2410.19599)|null|
+|**2024-10-25**|**Diverse Sign Language Translation**|Xin Shen et.al.|[2410.19586](http://arxiv.org/abs/2410.19586)|null|
+|**2024-10-25**|**ChunkRAG: Novel LLM-Chunk Filtering Method for RAG Systems**|Ritvik Aggarwal Ishneet Sukhvinder Singh Ibrahim Allahverdiyev et.al.|[2410.19572](http://arxiv.org/abs/2410.19572)|null|
+|**2024-10-25**|**Brain-like Functional Organization within Large Language Models**|H. Sun et.al.|[2410.19542](http://arxiv.org/abs/2410.19542)|null|
+|**2024-10-25**|**Detection of Human and Machine-Authored Fake News in Urdu**|Muhammad Zain Ali et.al.|[2410.19517](http://arxiv.org/abs/2410.19517)|null|
+|**2024-10-25**|**SWITCH: Studying with Teacher for Knowledge Distillation of Large Language Models**|Jahyun Koo et.al.|[2410.19503](http://arxiv.org/abs/2410.19503)|null|
+|**2024-10-25**|**Introducing MAPO: Momentum-Aided Gradient Descent Prompt Optimization**|Anthony Cui et.al.|[2410.19499](http://arxiv.org/abs/2410.19499)|null|
+|**2024-10-25**|**Graph Linearization Methods for Reasoning on Graphs with Large Language Models**|Christos Xypolopoulos et.al.|[2410.19494](http://arxiv.org/abs/2410.19494)|null|
 |**2024-10-24**|**Unbounded: A Generative Infinite Game of Character Life Simulation**|Jialu Li et.al.|[2410.18975](http://arxiv.org/abs/2410.18975)|null|
 |**2024-10-24**|**3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation**|Hansheng Chen et.al.|[2410.18974](http://arxiv.org/abs/2410.18974)|**[link](https://github.com/Lakonik/MVEdit)**|
 |**2024-10-24**|**Ferret-UI 2: Mastering Universal User Interface Understanding Across Platforms**|Zhangheng Li et.al.|[2410.18967](http://arxiv.org/abs/2410.18967)|null|
@@ -2500,6 +2534,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**KAHANI: Culturally-Nuanced Visual Storytelling Pipeline for Non-Western Cultures**|Hamna et.al.|[2410.19419](http://arxiv.org/abs/2410.19419)|null|
+|**2024-10-25**|**High Resolution Seismic Waveform Generation using Denoising Diffusion**|Andreas Bergmeister et.al.|[2410.19343](http://arxiv.org/abs/2410.19343)|null|
+|**2024-10-25**|**Flow Generator Matching**|Zemin Huang et.al.|[2410.19310](http://arxiv.org/abs/2410.19310)|null|
 |**2024-10-24**|**3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation**|Hansheng Chen et.al.|[2410.18974](http://arxiv.org/abs/2410.18974)|**[link](https://github.com/Lakonik/MVEdit)**|
 |**2024-10-24**|**Diff-Instruct++: Training One-step Text-to-image Generator Model to Align with Human Preferences**|Weijian Luo et.al.|[2410.18881](http://arxiv.org/abs/2410.18881)|null|
 |**2024-10-24**|**Multi-Scale Diffusion: Enhancing Spatial Layout in High-Resolution Panoramic Image Generation**|Xiaoyu Zhang et.al.|[2410.18830](http://arxiv.org/abs/2410.18830)|null|
