@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.29
+## Updated on 2024.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1130,7 +1130,7 @@
 |**2024-07-08**|**CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation**|Xinying Guo et.al.|[2407.06188](http://arxiv.org/abs/2407.06188)|null|
 |**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187](http://arxiv.org/abs/2407.06187)|null|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 ## LLM
 
@@ -1149,7 +1149,7 @@
 |**2024-10-28**|**Lifting the Veil on the Large Language Model Supply Chain: Composition, Risks, and Mitigations**|Kaifeng Huang et.al.|[2410.21218](http://arxiv.org/abs/2410.21218)|null|
 |**2024-10-28**|**HoPE: A Novel Positional Encoding Without Long-Term Decay for Enhanced Context Awareness and Extrapolation**|Yuhan Chen et.al.|[2410.21216](http://arxiv.org/abs/2410.21216)|null|
 |**2024-10-28**|**BongLLaMA: LLaMA for Bangla Language**|Abdullah Khan Zehady et.al.|[2410.21200](http://arxiv.org/abs/2410.21200)|null|
-|**2024-10-28**|**Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction**|Qintong Zhang et.al.|[2410.21169](http://arxiv.org/abs/2410.21169)|null|
+|**2024-10-29**|**Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction**|Qintong Zhang et.al.|[2410.21169](http://arxiv.org/abs/2410.21169)|null|
 |**2024-10-28**|**CURATe: Benchmarking Personalised Alignment of Conversational AI Assistants**|Lize Alberts et.al.|[2410.21159](http://arxiv.org/abs/2410.21159)|null|
 |**2024-10-28**|**M2rc-Eval: Massively Multilingual Repository-level Code Completion Evaluation**|Jiaheng Liu et.al.|[2410.21157](http://arxiv.org/abs/2410.21157)|null|
 |**2024-10-28**|**SciER: An Entity and Relation Extraction Dataset for Datasets, Methods, and Tasks in Scientific Documents**|Qi Zhang et.al.|[2410.21155](http://arxiv.org/abs/2410.21155)|null|
@@ -2577,15 +2577,15 @@
 |**2024-07-09**|**Who is better at math, Jenny or Jingzhen? Uncovering Stereotypes in Large Language Models**|Zara Siddique et.al.|[2407.06917](http://arxiv.org/abs/2407.06917)|null|
 |**2024-07-09**|**Fine-grained large-scale content recommendations for MSX sellers**|Manpreet Singh et.al.|[2407.06910](http://arxiv.org/abs/2407.06910)|null|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 ## Image Genration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-28**|**AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?**|Han Bao et.al.|[2410.21259](http://arxiv.org/abs/2410.21259)|null|
+|**2024-10-29**|**AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?**|Han Bao et.al.|[2410.21259](http://arxiv.org/abs/2410.21259)|null|
 |**2024-10-28**|**Extrapolating Prospective Glaucoma Fundus Images through Diffusion Model in Irregular Longitudinal Sequences**|Zhihao Zhao et.al.|[2410.21130](http://arxiv.org/abs/2410.21130)|null|
-|**2024-10-28**|**Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models**|Wenda Li et.al.|[2410.21088](http://arxiv.org/abs/2410.21088)|null|
+|**2024-10-28**|**Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models**|Wenda Li et.al.|[2410.21088](http://arxiv.org/abs/2410.21088)|**[link](https://github.com/liwd190019/shallow-diffuse)**|
 |**2024-10-28**|**Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**|Vladimir Arkhipkin et.al.|[2410.21061](http://arxiv.org/abs/2410.21061)|null|
 |**2024-10-28**|**Attention Overlap Is Responsible for The Entity Missing Problem in Text-to-image Diffusion Models!**|Arash Marioriyad et.al.|[2410.20972](http://arxiv.org/abs/2410.20972)|null|
 |**2024-10-28**|**Markov spin models for image generation : explicit large deviations with respect to the number of pixels**|Cecile Monthus et.al.|[2410.20906](http://arxiv.org/abs/2410.20906)|null|
@@ -3291,7 +3291,7 @@
 |**2024-07-07**|**Topological Persistence Guided Knowledge Distillation for Wearable Sensor Data**|Eun Som Jeon et.al.|[2407.05315](http://arxiv.org/abs/2407.05315)|null|
 |**2024-07-07**|**An Improved Method for Personalizing Diffusion Models**|Yan Zeng et.al.|[2407.05312](http://arxiv.org/abs/2407.05312)|null|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
