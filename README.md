@@ -19,6 +19,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
+|**2024-10-30**|**ReasoningRec: Bridging Personalized Recommendations and Human-Interpretable Explanations through LLM Reasoning**|Millennium Bismay et.al.|[2410.23180](http://arxiv.org/abs/2410.23180)|**[link](https://github.com/millenniumbismay/reasoningrec)**|
+|**2024-10-30**|**Real-Time Personalization for LLM-based Recommendation with Customized In-Context Learning**|Keqin Bao et.al.|[2410.23136](http://arxiv.org/abs/2410.23136)|**[link](https://github.com/ym689/rec_icl)**|
+|**2024-10-30**|**Emotional RAG: Enhancing Role-Playing Agents through Emotional Retrieval**|Le Huang et.al.|[2410.23041](http://arxiv.org/abs/2410.23041)|null|
+|**2024-10-30**|**An Individual Identity-Driven Framework for Animal Re-Identification**|Yihao Wu et.al.|[2410.22927](http://arxiv.org/abs/2410.22927)|**[link](https://github.com/ywu840/indivaid)**|
+|**2024-10-30**|**A Graph-Based Model for Vehicle-Centric Data Sharing Ecosystem**|Haiyue Yuan et.al.|[2410.22897](http://arxiv.org/abs/2410.22897)|null|
+|**2024-10-30**|**Understanding and Improving Adversarial Collaborative Filtering for Robust Recommendation**|Kaike Zhang et.al.|[2410.22844](http://arxiv.org/abs/2410.22844)|null|
+|**2024-10-30**|**Causality-Enhanced Behavior Sequence Modeling in LLMs for Personalized Recommendation**|Yang Zhang et.al.|[2410.22809](http://arxiv.org/abs/2410.22809)|**[link](https://github.com/itsmeyjt/cft)**|
+|**2024-10-30**|**A Game-Theoretic Approach for Security Control Selection**|Dylan Léveillé et.al.|[2410.22762](http://arxiv.org/abs/2410.22762)|null|
+|**2024-10-30**|**Designing AI Personalities: Enhancing Human-Agent Interaction Through Thoughtful Persona Design**|Nima Zargham et.al.|[2410.22744](http://arxiv.org/abs/2410.22744)|null|
+|**2024-10-30**|**Clustering Computer Mouse Tracking Data with Informed Hierarchical Shrinkage Partition Priors**|Ziyi Song et.al.|[2410.22675](http://arxiv.org/abs/2410.22675)|null|
+|**2024-10-30**|**FT-PrivacyScore: Personalized Privacy Scoring Service for Machine Learning Participation**|Yuechun Gu et.al.|[2410.22651](http://arxiv.org/abs/2410.22651)|**[link](https://github.com/rhincodone/demo_privacy_scoring)**|
+|**2024-10-29**|**Privacy-Preserving Dynamic Assortment Selection**|Young Hyun Cho et.al.|[2410.22488](http://arxiv.org/abs/2410.22488)|null|
+|**2024-10-29**|**FNDEX: Fake News and Doxxing Detection with Explainable AI**|Dorsaf Sallami et.al.|[2410.22390](http://arxiv.org/abs/2410.22390)|null|
 |**2024-10-29**|**Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier**|Kai Wang et.al.|[2410.22317](http://arxiv.org/abs/2410.22317)|**[link](https://github.com/wangkai930418/mc_ti)**|
 |**2024-10-29**|**A Latent Variable Model with Change Points and Its Application to Time Pressure Effects in Educational Assessment**|Gabriel Wallin et.al.|[2410.22300](http://arxiv.org/abs/2410.22300)|null|
 |**2024-10-29**|**Misconceptions, Pragmatism, and Value Tensions: Evaluating Students' Understanding and Perception of Generative AI for Education**|Aditya Johri et.al.|[2410.22289](http://arxiv.org/abs/2410.22289)|null|
@@ -1156,6 +1170,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[2410.23262](http://arxiv.org/abs/2410.23262)|null|
+|**2024-10-30**|**$100K or 100 Days: Trade-offs when Pre-Training with Academic Resources**|Apoorv Khandelwal et.al.|[2410.23261](http://arxiv.org/abs/2410.23261)|**[link](https://github.com/apoorvkh/academic-pretraining)**|
+|**2024-10-30**|**Evaluating Cultural and Social Awareness of LLM Web Agents**|Haoyi Qiu et.al.|[2410.23252](http://arxiv.org/abs/2410.23252)|null|
+|**2024-10-30**|**Carrot and Stick: Eliciting Comparison Data and Beyond**|Yiling Chen et.al.|[2410.23243](http://arxiv.org/abs/2410.23243)|null|
+|**2024-10-30**|**A little less conversation, a little more action, please: Investigating the physical common-sense of LLMs in a 3D embodied environment**|Matteo G. Mecattaf et.al.|[2410.23242](http://arxiv.org/abs/2410.23242)|null|
+|**2024-10-30**|**EMOTION: Expressive Motion Sequence Generation for Humanoid Robots with In-Context Learning**|Peide Huang et.al.|[2410.23234](http://arxiv.org/abs/2410.23234)|null|
+|**2024-10-30**|**Aligning Audio-Visual Joint Representations with an Agentic Workflow**|Shentong Mo et.al.|[2410.23230](http://arxiv.org/abs/2410.23230)|null|
+|**2024-10-30**|**COMAL: A Convergent Meta-Algorithm for Aligning LLMs with General Preferences**|Yixin Liu et.al.|[2410.23223](http://arxiv.org/abs/2410.23223)|**[link](https://github.com/yale-nlp/comal)**|
+|**2024-10-30**|**Grounding by Trying: LLMs with Reinforcement Learning-Enhanced Retrieval**|Sheryl Hsu et.al.|[2410.23214](http://arxiv.org/abs/2410.23214)|null|
+|**2024-10-30**|**ProTransformer: Robustify Transformers via Plug-and-Play Paradigm**|Zhichao Hou et.al.|[2410.23182](http://arxiv.org/abs/2410.23182)|null|
+|**2024-10-30**|**ReasoningRec: Bridging Personalized Recommendations and Human-Interpretable Explanations through LLM Reasoning**|Millennium Bismay et.al.|[2410.23180](http://arxiv.org/abs/2410.23180)|**[link](https://github.com/millenniumbismay/reasoningrec)**|
+|**2024-10-30**|**SciPIP: An LLM-based Scientific Paper Idea Proposer**|Wenxiao Wang et.al.|[2410.23166](http://arxiv.org/abs/2410.23166)|null|
+|**2024-10-30**|**Real-Time Personalization for LLM-based Recommendation with Customized In-Context Learning**|Keqin Bao et.al.|[2410.23136](http://arxiv.org/abs/2410.23136)|**[link](https://github.com/ym689/rec_icl)**|
+|**2024-10-30**|**Why Fine-grained Labels in Pretraining Benefit Generalization?**|Guan Zhe Hong et.al.|[2410.23129](http://arxiv.org/abs/2410.23129)|null|
+|**2024-10-30**|**On Memorization of Large Language Models in Logical Reasoning**|Chulin Xie et.al.|[2410.23123](http://arxiv.org/abs/2410.23123)|null|
+|**2024-10-30**|**Why Gradient Subspace? Identifying and Mitigating LoRA's Bottlenecks in Federated Fine-Tuning of Large Language Models**|Navyansh Mahla et.al.|[2410.23111](http://arxiv.org/abs/2410.23111)|null|
+|**2024-10-30**|**Comparative Analysis of Demonstration Selection Algorithms for LLM In-Context Learning**|Dong Shu et.al.|[2410.23099](http://arxiv.org/abs/2410.23099)|**[link](https://github.com/tizzzzy/demonstration_selection_overview)**|
+|**2024-10-30**|**CORAL: Benchmarking Multi-turn Conversational Retrieval-Augmentation Generation**|Yiruo Cheng et.al.|[2410.23090](http://arxiv.org/abs/2410.23090)|null|
+|**2024-10-30**|**PIP-MM: Pre-Integrating Prompt Information into Visual Encoding via Existing MLLM Structures**|Tianxiang Wu et.al.|[2410.23089](http://arxiv.org/abs/2410.23089)|null|
+|**2024-10-30**|**BUZZ: Beehive-structured Sparse KV Cache with Segmented Heavy Hitters for Efficient LLM Inference**|Junqi Zhao et.al.|[2410.23079](http://arxiv.org/abs/2410.23079)|**[link](https://github.com/junqizhao888/buzz-llm)**|
 |**2024-10-30**|**Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets**|Guangqi Jiang et.al.|[2410.22325](http://arxiv.org/abs/2410.22325)|null|
 |**2024-10-29**|**Enhancing Code Annotation Reliability: Generative AI's Role in Comment Quality Assessment Models**|Seetharam Killivalavan et.al.|[2410.22323](http://arxiv.org/abs/2410.22323)|null|
 |**2024-10-29**|**Online Detecting LLM-Generated Texts via Sequential Hypothesis Testing by Betting**|Can Chen et.al.|[2410.22318](http://arxiv.org/abs/2410.22318)|**[link](https://github.com/canchen-cc/online-llm-detection)**|
@@ -2623,6 +2657,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
+|**2024-10-30**|**Multi-student Diffusion Distillation for Better One-step Generators**|Yanke Song et.al.|[2410.23274](http://arxiv.org/abs/2410.23274)|null|
+|**2024-10-30**|**Public Domain 12M: A Highly Aesthetic Image-Text Dataset with Novel Governance Mechanisms**|Jordan Meyer et.al.|[2410.23144](http://arxiv.org/abs/2410.23144)|null|
+|**2024-10-30**|**Controlling Language and Diffusion Models by Transporting Activations**|Pau Rodriguez et.al.|[2410.23054](http://arxiv.org/abs/2410.23054)|null|
+|**2024-10-30**|**Private Synthetic Text Generation with Diffusion Models**|Sebastian Ochs et.al.|[2410.22971](http://arxiv.org/abs/2410.22971)|null|
+|**2024-10-30**|**An Individual Identity-Driven Framework for Animal Re-Identification**|Yihao Wu et.al.|[2410.22927](http://arxiv.org/abs/2410.22927)|**[link](https://github.com/ywu840/indivaid)**|
+|**2024-10-30**|**HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level and Fidelity-Rich Conditions in Diffusion Models**|Shengkai Zhang et.al.|[2410.22901](http://arxiv.org/abs/2410.22901)|**[link](https://github.com/HelloVision/HelloMeme)**|
+|**2024-10-30**|**Latent Diffusion, Implicit Amplification: Efficient Continuous-Scale Super-Resolution for Remote Sensing Images**|Hanlin Wu et.al.|[2410.22830](http://arxiv.org/abs/2410.22830)|null|
+|**2024-10-30**|**Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models**|Arash Marioriyad et.al.|[2410.22775](http://arxiv.org/abs/2410.22775)|null|
+|**2024-10-30**|**st-DTPM: Spatial-Temporal Guided Diffusion Transformer Probabilistic Model for Delayed Scan PET Image Prediction**|Ran Hong et.al.|[2410.22732](http://arxiv.org/abs/2410.22732)|null|
+|**2024-10-30**|**Identifying Drift, Diffusion, and Causal Structure from Temporal Snapshots**|Vincent Guan et.al.|[2410.22729](http://arxiv.org/abs/2410.22729)|null|
+|**2024-10-30**|**One Prompt to Verify Your Models: Black-Box Text-to-Image Models Verification via Non-Transferable Adversarial Attacks**|Ji Guo et.al.|[2410.22725](http://arxiv.org/abs/2410.22725)|null|
+|**2024-10-30**|**FlowDCN: Exploring DCN-like Architectures for Fast Image Generation with Arbitrary Resolution**|Shuai Wang et.al.|[2410.22655](http://arxiv.org/abs/2410.22655)|null|
+|**2024-10-30**|**Consistency Diffusion Bridge Models**|Guande He et.al.|[2410.22637](http://arxiv.org/abs/2410.22637)|null|
+|**2024-10-29**|**GRADE: Quantifying Sample Diversity in Text-to-Image Models**|Royi Rassin et.al.|[2410.22592](http://arxiv.org/abs/2410.22592)|null|
+|**2024-10-29**|**FairSkin: Fair Diffusion for Skin Disease Image Generation**|Ruichen Zhang et.al.|[2410.22551](http://arxiv.org/abs/2410.22551)|null|
+|**2024-10-29**|**Discrete Modeling via Boundary Conditional Diffusion Processes**|Yuxuan Gu et.al.|[2410.22380](http://arxiv.org/abs/2410.22380)|null|
+|**2024-10-29**|**Rare-to-Frequent: Unlocking Compositional Generation Power of Diffusion Models on Rare Concepts with LLM Guidance**|Dongmin Park et.al.|[2410.22376](http://arxiv.org/abs/2410.22376)|**[link](https://github.com/krafton-ai/rare2frequent)**|
 |**2024-10-29**|**Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier**|Kai Wang et.al.|[2410.22317](http://arxiv.org/abs/2410.22317)|**[link](https://github.com/wangkai930418/mc_ti)**|
 |**2024-10-30**|**IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models**|Hang Guo et.al.|[2410.21759](http://arxiv.org/abs/2410.21759)|null|
 |**2024-10-29**|**Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation**|Ruihao Xia et.al.|[2410.21708](http://arxiv.org/abs/2410.21708)|**[link](https://github.com/xiarho/madm)**|
