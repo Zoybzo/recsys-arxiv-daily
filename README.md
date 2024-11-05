@@ -19,6 +19,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Simulation of Nanorobots with Artificial Intelligence and Reinforcement Learning for Advanced Cancer Cell Detection and Tracking**|Shahab Kavousinejad et.al.|[2411.02345](http://arxiv.org/abs/2411.02345)|**[link](https://github.com/shahab-k93/cancer-and-smart-nanorobot)**|
+|**2024-11-04**|**Can Personalized Medicine Coexist with Health Equity? Examining the Cost Barrier and Ethical Implications**|Kishi Kobe Yee Francisco et.al.|[2411.02307](http://arxiv.org/abs/2411.02307)|null|
+|**2024-11-04**|**CRMArena: Understanding the Capacity of LLM Agents to Perform Professional CRM Tasks in Realistic Environments**|Kung-Hsiang Huang et.al.|[2411.02305](http://arxiv.org/abs/2411.02305)|**[link](https://github.com/salesforceairesearch/crmarena)**|
+|**2024-11-04**|**Federated GNNs for EEG-Based Stroke Assessment**|Andrea Protani et.al.|[2411.02286](http://arxiv.org/abs/2411.02286)|null|
+|**2024-11-04**|**Predicting the Temperature-Dependent CMC of Surfactant Mixtures with Graph Neural Networks**|Christoforos Brozos et.al.|[2411.02224](http://arxiv.org/abs/2411.02224)|null|
+|**2024-11-04**|**Uncertainty quantification and multi-stage variable selection for personalized treatment regimes**|Jiefeng Bi et.al.|[2411.02123](http://arxiv.org/abs/2411.02123)|null|
+|**2024-11-04**|**FedMoE-DA: Federated Mixture of Experts via Domain Aware Fine-grained Aggregation**|Ziwei Zhan et.al.|[2411.02115](http://arxiv.org/abs/2411.02115)|null|
+|**2024-11-04**|**Amortized Bayesian Experimental Design for Decision-Making**|Daolang Huang et.al.|[2411.02064](http://arxiv.org/abs/2411.02064)|null|
+|**2024-11-04**|**Predicting and understanding shooting performance in professional biathlon: A Bayesian approach**|Manuele Leonelli et.al.|[2411.02000](http://arxiv.org/abs/2411.02000)|null|
+|**2024-11-04**|**Reshaping UAV-Enabled Communications with Omnidirectional Multi-Rotor Aerial Vehicles**|Daniel Bonilla Licea et.al.|[2411.01985](http://arxiv.org/abs/2411.01985)|null|
+|**2024-11-04**|**RoboCrowd: Scaling Robot Data Collection through Crowdsourcing**|Suvir Mirchandani et.al.|[2411.01915](http://arxiv.org/abs/2411.01915)|null|
+|**2024-11-04**|**Efficient Active Imitation Learning with Random Network Distillation**|Emilien Biré et.al.|[2411.01894](http://arxiv.org/abs/2411.01894)|null|
+|**2024-11-04**|**Auditing Political Exposure Bias: Algorithmic Amplification on Twitter/X Approaching the 2024 U.S. Presidential Election**|Jinyi Ye et.al.|[2411.01852](http://arxiv.org/abs/2411.01852)|null|
+|**2024-11-04**|**DeMod: A Holistic Tool with Explainable Detection and Personalized Modification for Toxicity Censorship**|Yaqiong Li et.al.|[2411.01844](http://arxiv.org/abs/2411.01844)|null|
+|**2024-11-04**|**Dissertation: On the Theoretical Foundation of Model Comparison and Evaluation for Recommender System**|Dong Li et.al.|[2411.01843](http://arxiv.org/abs/2411.01843)|null|
+|**2024-11-04**|**Leveraging Label Semantics and Meta-Label Refinement for Multi-Label Question Classification**|Shi Dong et.al.|[2411.01841](http://arxiv.org/abs/2411.01841)|null|
+|**2024-11-04**|**FedReMa: Improving Personalized Federated Learning via Leveraging the Most Relevant Clients**|Han Liang et.al.|[2411.01825](http://arxiv.org/abs/2411.01825)|null|
+|**2024-11-04**|**TabSec: A Collaborative Framework for Novel Insider Threat Detection**|Zilin Huang et.al.|[2411.01779](http://arxiv.org/abs/2411.01779)|null|
+|**2024-11-03**|**Co-clustering for Federated Recommender System**|Xinrui He et.al.|[2411.01690](http://arxiv.org/abs/2411.01690)|null|
+|**2024-11-03**|**High-Fidelity Virtual Try-on with Large-Scale Unpaired Learning**|Han Yang et.al.|[2411.01593](http://arxiv.org/abs/2411.01593)|null|
 |**2024-10-31**|**URAvatar: Universal Relightable Gaussian Codec Avatars**|Junxuan Li et.al.|[2410.24223](http://arxiv.org/abs/2410.24223)|null|
 |**2024-10-31**|**A Sagittal Planar Ankle-Foot Prosthesis with Powered Plantarflexion and Socket Alignment**|Mark A. Price et.al.|[2410.24196](http://arxiv.org/abs/2410.24196)|null|
 |**2024-10-31**|**Bayesian hierarchical models with calibrated mixtures of g-priors for assessing treatment effect moderation in meta-analysis**|Qiao Wang et.al.|[2410.24194](http://arxiv.org/abs/2410.24194)|null|
@@ -1184,6 +1204,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Prompting with Phonemes: Enhancing LLM Multilinguality for non-Latin Script Languages**|Hoang Nguyen et.al.|[2411.02398](http://arxiv.org/abs/2411.02398)|null|
+|**2024-11-04**|**Training-free Regional Prompting for Diffusion Transformers**|Anthony Chen et.al.|[2411.02395](http://arxiv.org/abs/2411.02395)|**[link](https://github.com/antonioo-c/regional-prompting-flux)**|
+|**2024-11-04**|**AutoVFX: Physically Realistic Video Editing from Natural Language Instructions**|Hao-Yu Hsu et.al.|[2411.02394](http://arxiv.org/abs/2411.02394)|null|
+|**2024-11-04**|**Adaptive Length Image Tokenization via Recurrent Allocation**|Shivam Duggal et.al.|[2411.02393](http://arxiv.org/abs/2411.02393)|**[link](https://github.com/shivamduggal4/adaptive-length-tokenizer)**|
+|**2024-11-04**|**Improving Scientific Hypothesis Generation with Knowledge Grounded Large Language Models**|Guangzhi Xiong et.al.|[2411.02382](http://arxiv.org/abs/2411.02382)|null|
+|**2024-11-04**|**Addressing Uncertainty in LLMs to Enhance Reliability in Generative AI**|Ramneet Kaur et.al.|[2411.02381](http://arxiv.org/abs/2411.02381)|null|
+|**2024-11-04**|**Learning General-Purpose Biomedical Volume Representations using Randomized Synthesis**|Neel Dey et.al.|[2411.02372](http://arxiv.org/abs/2411.02372)|**[link](https://github.com/neel-dey/anatomix)**|
+|**2024-11-04**|**DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution**|Yang Yue et.al.|[2411.02359](http://arxiv.org/abs/2411.02359)|**[link](https://github.com/yueyang130/deer-vla)**|
+|**2024-11-04**|**"Give Me BF16 or Give Me Death"? Accuracy-Performance Trade-Offs in LLM Quantization**|Eldar Kurtic et.al.|[2411.02355](http://arxiv.org/abs/2411.02355)|null|
+|**2024-11-04**|**Social-RAG: Retrieving from Group Interactions to Socially Ground Proactive AI Generation to Group Preferences**|Ruotong Wang et.al.|[2411.02353](http://arxiv.org/abs/2411.02353)|null|
+|**2024-11-04**|**Can Large Language Models generalize analogy solving like people can?**|Claire E. Stevenson et.al.|[2411.02348](http://arxiv.org/abs/2411.02348)|null|
+|**2024-11-04**|**WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning**|Zehan Qi et.al.|[2411.02337](http://arxiv.org/abs/2411.02337)|null|
+|**2024-11-04**|**Sparsing Law: Towards Large Language Models with Greater Activation Sparsity**|Yuqi Luo et.al.|[2411.02335](http://arxiv.org/abs/2411.02335)|null|
+|**2024-11-04**|**Disrupting Test Development with AI Assistants**|Vijay Joshi et.al.|[2411.02328](http://arxiv.org/abs/2411.02328)|null|
+|**2024-11-04**|**PPLLaVA: Varied Video Sequence Understanding With Prompt Guidance**|Ruyang Liu et.al.|[2411.02327](http://arxiv.org/abs/2411.02327)|**[link](https://github.com/farewellthree/ppllava)**|
+|**2024-11-04**|**An Empirical Study on the Code Refactoring Capability of Large Language Models**|Jonathan Cordeiro et.al.|[2411.02320](http://arxiv.org/abs/2411.02320)|null|
+|**2024-11-04**|**Evaluating the Ability of Large Language Models to Generate Verifiable Specifications in VeriFast**|Marilyn Rego et.al.|[2411.02318](http://arxiv.org/abs/2411.02318)|null|
+|**2024-11-04**|**Defining and Evaluating Physical Safety for Large Language Models**|Yung-Chen Tang et.al.|[2411.02317](http://arxiv.org/abs/2411.02317)|null|
+|**2024-11-04**|**Evaluating Creative Short Story Generation in Humans and Large Language Models**|Mete Ismayilzada et.al.|[2411.02316](http://arxiv.org/abs/2411.02316)|**[link](https://github.com/mismayil/creative-story-gen)**|
+|**2024-11-04**|**MdEval: Massively Multilingual Code Debugging**|Shukai Liu et.al.|[2411.02310](http://arxiv.org/abs/2411.02310)|null|
 |**2024-10-31**|**URAvatar: Universal Relightable Gaussian Codec Avatars**|Junxuan Li et.al.|[2410.24223](http://arxiv.org/abs/2410.24223)|null|
 |**2024-11-01**|**SelfCodeAlign: Self-Alignment for Code Generation**|Yuxiang Wei et.al.|[2410.24198](http://arxiv.org/abs/2410.24198)|**[link](https://github.com/bigcode-project/selfcodealign)**|
 |**2024-10-31**|**Hidden Persuaders: LLMs' Political Leaning and Their Influence on Voters**|Yujin Potter et.al.|[2410.24190](http://arxiv.org/abs/2410.24190)|null|
@@ -2691,6 +2731,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Training-free Regional Prompting for Diffusion Transformers**|Anthony Chen et.al.|[2411.02395](http://arxiv.org/abs/2411.02395)|**[link](https://github.com/antonioo-c/regional-prompting-flux)**|
+|**2024-11-04**|**Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation**|Xianghui Yang et.al.|[2411.02293](http://arxiv.org/abs/2411.02293)|null|
+|**2024-11-04**|**Digi2Real: Bridging the Realism Gap in Synthetic Data Face Recognition via Foundation Models**|Anjith George et.al.|[2411.02188](http://arxiv.org/abs/2411.02188)|null|
+|**2024-11-04**|**Touch-to-Touch Translation -- Learning the Mapping Between Heterogeneous Tactile Sensing Technologies**|Francesco Grella et.al.|[2411.02187](http://arxiv.org/abs/2411.02187)|null|
+|**2024-11-04**|**Model Integrity when Unlearning with T2I Diffusion Models**|Andrea Schioppa et.al.|[2411.02068](http://arxiv.org/abs/2411.02068)|null|
+|**2024-11-04**|**DiffuMask-Editor: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing to Improve Segmentation Ability**|Bo Gao et.al.|[2411.01819](http://arxiv.org/abs/2411.01819)|null|
+|**2024-11-03**|**DreamPolish: Domain Score Distillation With Progressive Geometry Generation**|Yean Cheng et.al.|[2411.01602](http://arxiv.org/abs/2411.01602)|null|
+|**2024-11-03**|**Towards Small Object Editing: A Benchmark Dataset and A Training-Free Approach**|Qihe Pan et.al.|[2411.01545](http://arxiv.org/abs/2411.01545)|null|
+|**2024-11-03**|**DPCL-Diff: The Temporal Knowledge Graph Reasoning based on Graph Node Diffusion Model with Dual-Domain Periodic Contrastive Learning**|Yukun Cao et.al.|[2411.01477](http://arxiv.org/abs/2411.01477)|null|
+|**2024-11-02**|**Guided Synthesis of Labeled Brain MRI Data Using Latent Diffusion Models for Segmentation of Enlarged Ventricles**|Tim Ruschke et.al.|[2411.01351](http://arxiv.org/abs/2411.01351)|null|
+|**2024-11-02**|**Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models**|Wonguk Cho et.al.|[2411.01179](http://arxiv.org/abs/2411.01179)|null|
+|**2024-11-01**|**Evaluation Metric for Quality Control and Generative Models in Histopathology Images**|Pranav Jeevan et.al.|[2411.01034](http://arxiv.org/abs/2411.01034)|null|
+|**2024-11-01**|**From Fake Perfects to Conversational Imperfects: Exploring Image-Generative AI as a Boundary Object for Participatory Design of Public Spaces**|Jose A. Guridi et.al.|[2411.00949](http://arxiv.org/abs/2411.00949)|null|
+|**2024-11-01**|**Randomized Autoregressive Visual Generation**|Qihang Yu et.al.|[2411.00776](http://arxiv.org/abs/2411.00776)|**[link](https://github.com/bytedance/1d-tokenizer)**|
+|**2024-11-01**|**Generative AI-based Pipeline Architecture for Increasing Training Efficiency in Intelligent Weed Control Systems**|Sourav Modak et.al.|[2411.00548](http://arxiv.org/abs/2411.00548)|null|
+|**2024-11-01**|**NCST: Neural-based Color Style Transfer for Video Retouching**|Xintao Jiang et.al.|[2411.00335](http://arxiv.org/abs/2411.00335)|null|
+|**2024-10-31**|**Understanding the Limits of Vision Language Models Through the Lens of the Binding Problem**|Declan Campbell et.al.|[2411.00238](http://arxiv.org/abs/2411.00238)|null|
+|**2024-10-31**|**Denoising study of Fluoroscopic Images in real time tumor tracking System based on Statistical model of noise**|Yongxuan Yan et.al.|[2411.00199](http://arxiv.org/abs/2411.00199)|null|
+|**2024-10-31**|**Clinical Evaluation of Medical Image Synthesis: A Case Study in Wireless Capsule Endoscopy**|Panagiota Gatoula et.al.|[2411.00178](http://arxiv.org/abs/2411.00178)|null|
 |**2024-11-01**|**In-Context LoRA for Diffusion Transformers**|Lianghua Huang et.al.|[2410.23775](http://arxiv.org/abs/2410.23775)|**[link](https://github.com/ali-vilab/In-Context-LoRA)**|
 |**2024-10-31**|**Language-guided Hierarchical Fine-grained Image Forgery Detection and Localization**|Xiao Guo et.al.|[2410.23556](http://arxiv.org/abs/2410.23556)|null|
 |**2024-10-31**|**Novel View Acoustic Parameter Estimation**|Ricardo Falcon-Perez et.al.|[2410.23523](http://arxiv.org/abs/2410.23523)|null|
