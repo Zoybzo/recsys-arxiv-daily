@@ -14,6 +14,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**A Survey of AI-Related Cyber Security Risks and Countermeasures in Mobility-as-a-Service**|Kai-Fung Chu et.al.|[2411.05681](http://arxiv.org/abs/2411.05681)|null|
+|**2024-11-08**|**The influence of persona and conversational task on social interactions with a LLM-controlled embodied conversational agent**|Leon O. H. Kroczek et.al.|[2411.05653](http://arxiv.org/abs/2411.05653)|null|
+|**2024-11-08**|**From Resource Control to Digital Trust with User-Managed Access**|Wouter Termont et.al.|[2411.05622](http://arxiv.org/abs/2411.05622)|null|
+|**2024-11-08**|**EUREKHA: Enhancing User Representation for Key Hackers Identification in Underground Forums**|Abdoul Nasser Hassane Amadou et.al.|[2411.05479](http://arxiv.org/abs/2411.05479)|**[link](https://github.com/jumbo110/eurekha)**|
+|**2024-11-08**|**UKTF: Unified Knowledge Tracing Framework for Subjective and Objective Assessments**|Zhifeng Wang et.al.|[2411.05325](http://arxiv.org/abs/2411.05325)|null|
+|**2024-11-07**|**Algorithmic Autonomy in Data-Driven AI**|Ge Wang et.al.|[2411.05210](http://arxiv.org/abs/2411.05210)|null|
+|**2024-11-07**|**Alopex: A Computational Framework for Enabling On-Device Function Calls with LLMs**|Yide Ran et.al.|[2411.05209](http://arxiv.org/abs/2411.05209)|null|
+|**2024-11-07**|**Automatic Authoring of Physical and Perceptual/Affective Motion Effects for Virtual Reality**|Jiwan Lee et.al.|[2411.05162](http://arxiv.org/abs/2411.05162)|null|
+|**2024-11-07**|**DynaPain: Moving Flame Beetle with Dynamic Pain Illusion Adapting Apparent Movement to Thermal Grill Illusion**|Souta Mizuno et.al.|[2411.05155](http://arxiv.org/abs/2411.05155)|null|
+|**2024-11-07**|**Inclusion in Assistive Haircare Robotics: Practical and Ethical Considerations in Hair Manipulation**|Uksang Yoo et.al.|[2411.05137](http://arxiv.org/abs/2411.05137)|null|
+|**2024-11-07**|**Presenting the Sense of Effort through Vibration Based on Force Estimated by Inverse Dynamics in Videos**|Ryoma Akai et.al.|[2411.05105](http://arxiv.org/abs/2411.05105)|null|
+|**2024-11-07**|**Integrating Large Language Models for Genetic Variant Classification**|Youssef Boulaimen et.al.|[2411.05055](http://arxiv.org/abs/2411.05055)|null|
 |**2024-11-07**|**Uncovering Hidden Subspaces in Video Diffusion Models Using Re-Identification**|Mischa Dombrowski et.al.|[2411.04956](http://arxiv.org/abs/2411.04956)|null|
 |**2024-11-07**|**Conversations and Deliberations: Non-Standard Cosmological Epochs and Expansion Histories**|Brian Batell et.al.|[2411.04780](http://arxiv.org/abs/2411.04780)|null|
 |**2024-11-07**|**On the Extent, Correlates, and Consequences of Reporting Bias in Survey Wages**|Marco Caliendo et.al.|[2411.04751](http://arxiv.org/abs/2411.04751)|null|
@@ -1237,6 +1249,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Recycled Attention: Efficient inference for long-context language models**|Fangyuan Xu et.al.|[2411.05787](http://arxiv.org/abs/2411.05787)|null|
+|**2024-11-08**|**Using Language Models to Disambiguate Lexical Choices in Translation**|Josh Barua et.al.|[2411.05781](http://arxiv.org/abs/2411.05781)|null|
+|**2024-11-08**|**LLMs as Method Actors: A Model for Prompt Engineering and Architecture**|Colin Doyle et.al.|[2411.05778](http://arxiv.org/abs/2411.05778)|null|
+|**2024-11-08**|**Quantitative Assessment of Intersectional Empathetic Bias and Understanding**|Vojtech Formanek et.al.|[2411.05777](http://arxiv.org/abs/2411.05777)|null|
+|**2024-11-08**|**Fact or Fiction? Can LLMs be Reliable Annotators for Political Truths?**|Veronica Chatrath et.al.|[2411.05775](http://arxiv.org/abs/2411.05775)|null|
+|**2024-11-08**|**FinDVer: Explainable Claim Verification over Long and Hybrid-Content Financial Documents**|Yilun Zhao et.al.|[2411.05764](http://arxiv.org/abs/2411.05764)|null|
+|**2024-11-08**|**Multi-hop Evidence Pursuit Meets the Web: Team Papelo at FEVER 2024**|Christopher Malon et.al.|[2411.05762](http://arxiv.org/abs/2411.05762)|null|
+|**2024-11-08**|**Asterisk*: Keep it Simple**|Andrew Semenov et.al.|[2411.05691](http://arxiv.org/abs/2411.05691)|null|
+|**2024-11-08**|**Tell What You Hear From What You See -- Video to Audio Generation Through Text**|Xiulong Liu et.al.|[2411.05679](http://arxiv.org/abs/2411.05679)|null|
+|**2024-11-08**|**Unmasking the Limits of Large Language Models: A Systematic Evaluation of Masked Text Processing Ability through MskQA and MskCal**|Fuka Matsuzaki et.al.|[2411.05665](http://arxiv.org/abs/2411.05665)|**[link](https://github.com/isfhub/maskcode)**|
+|**2024-11-08**|**Online-LoRA: Task-free Online Continual Learning via Low Rank Adaptation**|Xiwen Wei et.al.|[2411.05663](http://arxiv.org/abs/2411.05663)|**[link](https://github.com/christina200/online-lora-official)**|
+|**2024-11-08**|**The influence of persona and conversational task on social interactions with a LLM-controlled embodied conversational agent**|Leon O. H. Kroczek et.al.|[2411.05653](http://arxiv.org/abs/2411.05653)|null|
+|**2024-11-08**|**LightVA: Lightweight Visual Analytics with LLM Agent-Based Task Planning and Execution**|Yuheng Zhao et.al.|[2411.05651](http://arxiv.org/abs/2411.05651)|null|
+|**2024-11-08**|**Evaluating Large Language Model Capability in Vietnamese Fact-Checking Data Generation**|Long Truong To et.al.|[2411.05641](http://arxiv.org/abs/2411.05641)|null|
+|**2024-11-08**|**Assessing Open-Source Large Language Models on Argumentation Mining Subtasks**|Mohammad Yeghaneh Abkenar et.al.|[2411.05639](http://arxiv.org/abs/2411.05639)|null|
+|**2024-11-08**|**A Two-Step Concept-Based Approach for Enhanced Interpretability and Trust in Skin Lesion Diagnosis**|Cristiano Patrício et.al.|[2411.05609](http://arxiv.org/abs/2411.05609)|null|
+|**2024-11-08**|**Evaluating and Adapting Large Language Models to Represent Folktales in Low-Resource Languages**|JA Meaney et.al.|[2411.05593](http://arxiv.org/abs/2411.05593)|null|
+|**2024-11-08**|**Exploring Relationships Between Cryptocurrency News Outlets and Influencers' Twitter Activity and Market Prices**|Meysam Alizadeh et.al.|[2411.05577](http://arxiv.org/abs/2411.05577)|null|
+|**2024-11-08**|**Why These Documents? Explainable Generative Retrieval with Hierarchical Category Paths**|Sangam Lee et.al.|[2411.05572](http://arxiv.org/abs/2411.05572)|null|
+|**2024-11-08**|**AcceLLM: Accelerating LLM Inference using Redundancy for Load Balancing and Data Locality**|Ilias Bournias et.al.|[2411.05555](http://arxiv.org/abs/2411.05555)|null|
 |**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007](http://arxiv.org/abs/2411.05007)|**[link](https://github.com/mit-han-lab/deepcompressor)**|
 |**2024-11-07**|**Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?**|Jonathan Roberts et.al.|[2411.05000](http://arxiv.org/abs/2411.05000)|null|
 |**2024-11-07**|**DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation**|Peiqi Liu et.al.|[2411.04999](http://arxiv.org/abs/2411.04999)|null|
@@ -2822,6 +2854,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Image2Text2Image: A Novel Framework for Label-Free Evaluation of Image-to-Text Generation with Text-to-Image Diffusion Models**|Jia-Hong Huang et.al.|[2411.05706](http://arxiv.org/abs/2411.05706)|null|
+|**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557](http://arxiv.org/abs/2411.05557)|null|
+|**2024-11-08**|**Towards Lifelong Few-Shot Customization of Text-to-Image Diffusion**|Nan Song et.al.|[2411.05544](http://arxiv.org/abs/2411.05544)|null|
+|**2024-11-08**|**Improving image synthesis with diffusion-negative sampling**|Alakh Desai et.al.|[2411.05473](http://arxiv.org/abs/2411.05473)|null|
+|**2024-11-07**|**Precision or Recall? An Analysis of Image Captions for Training Text-to-Image Generation Model**|Sheng Cheng et.al.|[2411.05079](http://arxiv.org/abs/2411.05079)|**[link](https://github.com/shengcheng/captions4t2i)**|
 |**2024-11-07**|**Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models**|Weixin Liang et.al.|[2411.04996](http://arxiv.org/abs/2411.04996)|null|
 |**2024-11-07**|**AsCAN: Asymmetric Convolution-Attention Networks for Efficient Recognition and Generation**|Anil Kag et.al.|[2411.04967](http://arxiv.org/abs/2411.04967)|null|
 |**2024-11-07**|**Taming Rectified Flow for Inversion and Editing**|Jiangshan Wang et.al.|[2411.04746](http://arxiv.org/abs/2411.04746)|**[link](https://github.com/wangjiangshan0725/rf-solver-edit)**|
