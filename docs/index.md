@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RecSys
@@ -25,7 +25,7 @@ layout: default
 |**2024-11-09**|**Analyzing the Evolution of Graphs and Texts**|Xingzhi Guo et.al.|[2411.06295](http://arxiv.org/abs/2411.06295)|null|
 |**2024-11-09**|**IDU-Detector: A Synergistic Framework for Robust Masquerader Attack Detection**|Zilin Huang et.al.|[2411.06172](http://arxiv.org/abs/2411.06172)|null|
 |**2024-11-09**|**Escalating LLM-based Code Translation Benchmarking into the Class-level Era**|Pengyu Xue et.al.|[2411.06145](http://arxiv.org/abs/2411.06145)|null|
-|**2024-11-09**|**Deep Nonparametric Conditional Independence Tests for Images**|Marco Simnacher et.al.|[2411.06140](http://arxiv.org/abs/2411.06140)|null|
+|**2024-11-09**|**Deep Nonparametric Conditional Independence Tests for Images**|Marco Simnacher et.al.|[2411.06140](http://arxiv.org/abs/2411.06140)|**[link](https://github.com/msimnach/dncitpaper)**|
 |**2024-11-09**|**Personalize to generalize: Towards a universal medical multi-modality generalization through personalization**|Zhaorui Tan et.al.|[2411.06106](http://arxiv.org/abs/2411.06106)|null|
 |**2024-11-09**|**Snippet-based Conversational Recommender System**|Haibo Sun et.al.|[2411.06064](http://arxiv.org/abs/2411.06064)|null|
 |**2024-11-09**|**Personalized News Recommendation System via LLM Embedding and Co-Occurrence Patterns**|Zheng Li et.al.|[2411.06046](http://arxiv.org/abs/2411.06046)|null|
@@ -1279,7 +1279,7 @@ layout: default
 |**2024-11-11**|**DLCR: A Generative Data Expansion Framework via Diffusion for Clothes-Changing Person Re-ID**|Nyle Siddiqui et.al.|[2411.07205](http://arxiv.org/abs/2411.07205)|**[link](https://github.com/croitorualin/dlcr)**|
 |**2024-11-11**|**The Super Weight in Large Language Models**|Mengxia Yu et.al.|[2411.07191](http://arxiv.org/abs/2411.07191)|**[link](https://github.com/mengxiayu/llmsuperweight)**|
 |**2024-11-11**|**NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics**|David Robinson et.al.|[2411.07186](http://arxiv.org/abs/2411.07186)|null|
-|**2024-11-11**|**Continual Memorization of Factoids in Large Language Models**|Howard Chen et.al.|[2411.07175](http://arxiv.org/abs/2411.07175)|null|
+|**2024-11-11**|**Continual Memorization of Factoids in Large Language Models**|Howard Chen et.al.|[2411.07175](http://arxiv.org/abs/2411.07175)|**[link](https://github.com/princeton-nlp/continual-factoid-memorization)**|
 |**2024-11-11**|**A Domain-Agnostic Neurosymbolic Approach for Big Social Data Analysis: Evaluating Mental Health Sentiment on Social Media during COVID-19**|Vedant Khandelwal et.al.|[2411.07163](http://arxiv.org/abs/2411.07163)|null|
 |**2024-11-11**|**Greenback Bears and Fiscal Hawks: Finance is a Jungle and Text Embeddings Must Adapt**|Peter Anderson et.al.|[2411.07142](http://arxiv.org/abs/2411.07142)|null|
 |**2024-11-11**|**Chinese SimpleQA: A Chinese Factuality Evaluation for Large Language Models**|Yancheng He et.al.|[2411.07140](http://arxiv.org/abs/2411.07140)|null|
@@ -1287,7 +1287,7 @@ layout: default
 |**2024-11-11**|**Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis**|Taihang Hu et.al.|[2411.07132](http://arxiv.org/abs/2411.07132)|**[link](https://github.com/hutaihang/tome)**|
 |**2024-11-11**|**Benchmarking LLMs' Judgments with No Gold Standard**|Shengwei Xu et.al.|[2411.07127](http://arxiv.org/abs/2411.07127)|**[link](https://github.com/yx-lu/benchmarking-llms--judgments-with-no-gold-standard)**|
 |**2024-11-11**|**Edify Image: High-Quality Image Generation with Pixel Space Laplacian Diffusion Models**|NVIDIA et.al.|[2411.07126](http://arxiv.org/abs/2411.07126)|null|
-|**2024-11-11**|**SCAR: Sparse Conditioned Autoencoders for Concept Detection and Steering in LLMs**|Ruben Härle et.al.|[2411.07122](http://arxiv.org/abs/2411.07122)|null|
+|**2024-11-11**|**SCAR: Sparse Conditioned Autoencoders for Concept Detection and Steering in LLMs**|Ruben Härle et.al.|[2411.07122](http://arxiv.org/abs/2411.07122)|**[link](https://github.com/ml-research/SCAR)**|
 |**2024-11-11**|**ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation**|Xue Jiang et.al.|[2411.07112](http://arxiv.org/abs/2411.07112)|null|
 |**2024-11-08**|**Recycled Attention: Efficient inference for long-context language models**|Fangyuan Xu et.al.|[2411.05787](http://arxiv.org/abs/2411.05787)|null|
 |**2024-11-08**|**Using Language Models to Disambiguate Lexical Choices in Translation**|Josh Barua et.al.|[2411.05781](http://arxiv.org/abs/2411.05781)|null|
