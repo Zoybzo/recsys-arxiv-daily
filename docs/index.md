@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RecSys
@@ -19,10 +19,10 @@ layout: default
 |**2024-11-14**|**MARM: Unlocking the Future of Recommendation Systems through Memory Augmentation and Scalable Complexity**|Xiao Lv et.al.|[2411.09425](http://arxiv.org/abs/2411.09425)|null|
 |**2024-11-14**|**Personalized Help for Optimizing Low-Skilled Users' Strategy**|Feng Gu et.al.|[2411.09109](http://arxiv.org/abs/2411.09109)|null|
 |**2024-11-13**|**A multidimensional measurement of photorealistic avatar quality of experience**|Ross Cutler et.al.|[2411.09066](http://arxiv.org/abs/2411.09066)|**[link](https://github.com/microsoft/p.910)**|
-|**2024-11-13**|**Language-Model Prior Overcomes Cold-Start Items**|Shiyu Wang et.al.|[2411.09065](http://arxiv.org/abs/2411.09065)|null|
+|**2024-11-13**|**Language-Model Prior Overcomes Cold-Start Items**|Shiyu Wang et.al.|[2411.09065](http://arxiv.org/abs/2411.09065)|**[link](https://github.com/awslabs/language-model-prior-4-item-cold-start)**|
 |**2024-11-13**|**Virtual teaching assistant for undergraduate students using natural language processing & deep learning**|Sadman Jashim Sakib et.al.|[2411.09001](http://arxiv.org/abs/2411.09001)|null|
 |**2024-11-13**|**Isotropic Correlation Models for the Cross-Section of Equity Returns**|Graham L. Giller et.al.|[2411.08864](http://arxiv.org/abs/2411.08864)|null|
-|**2024-11-13**|**Recommender systems and reinforcement learning for building control and occupant interaction: A text-mining driven review of scientific literature**|Wenhao Zhang et.al.|[2411.08734](http://arxiv.org/abs/2411.08734)|null|
+|**2024-11-13**|**Recommender systems and reinforcement learning for building control and occupant interaction: A text-mining driven review of scientific literature**|Wenhao Zhang et.al.|[2411.08734](http://arxiv.org/abs/2411.08734)|**[link](https://github.com/buds-lab/recommender-sys-for-buildings-textmining-review)**|
 |**2024-11-13**|**FedSub: Introducing class-aware Subnetworks Fusion to Enhance Personalized Federated Learning in Ubiquitous Systems**|Mattia Giovanni Campana et.al.|[2411.08699](http://arxiv.org/abs/2411.08699)|null|
 |**2024-11-13**|**Joint Model Caching and Resource Allocation in Generative AI-Enabled Wireless Edge Networks**|Zhang Liu et.al.|[2411.08672](http://arxiv.org/abs/2411.08672)|null|
 |**2024-11-13**|**An Information Theoretic Approach to Operationalize Right to Data Protection**|Abhinav Java et.al.|[2411.08506](http://arxiv.org/abs/2411.08506)|null|
