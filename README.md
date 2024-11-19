@@ -19,6 +19,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**UniHands: Unifying Various Wild-Collected Keypoints for Personalized Hand Reconstruction**|Menghe Zhang et.al.|[2411.11845](http://arxiv.org/abs/2411.11845)|null|
+|**2024-11-18**|**Theoretical Foundations of Conformal Prediction**|Anastasios N. Angelopoulos et.al.|[2411.11824](http://arxiv.org/abs/2411.11824)|null|
+|**2024-11-18**|**Freezing of Gait Detection Using Gramian Angular Fields and Federated Learning from Wearable Sensors**|Shovito Barua Soumma et.al.|[2411.11764](http://arxiv.org/abs/2411.11764)|null|
+|**2024-11-18**|**MC-LLaVA: Multi-Concept Personalized Vision-Language Model**|Ruichuan An et.al.|[2411.11706](http://arxiv.org/abs/2411.11706)|null|
+|**2024-11-18**|**Conceptwm: A Diffusion Model Watermark for Concept Protection**|Liangqi Lei et.al.|[2411.11688](http://arxiv.org/abs/2411.11688)|null|
+|**2024-11-18**|**No-regret Exploration in Shuffle Private Reinforcement Learning**|Shaojie Bai et.al.|[2411.11647](http://arxiv.org/abs/2411.11647)|null|
+|**2024-11-18**|**FERT: Real-Time Facial Expression Recognition with Short-Range FMCW Radar**|Sabri Mustafa Kahya et.al.|[2411.11619](http://arxiv.org/abs/2411.11619)|null|
+|**2024-11-18**|**Preempting Text Sanitization Utility in Resource-Constrained Privacy-Preserving LLM Interactions**|Robin Carpentier et.al.|[2411.11521](http://arxiv.org/abs/2411.11521)|null|
+|**2024-11-18**|**A Pre-Trained Graph-Based Model for Adaptive Sequencing of Educational Documents**|Jean Vassoyan et.al.|[2411.11520](http://arxiv.org/abs/2411.11520)|null|
+|**2024-11-18**|**SignEye: Traffic Sign Interpretation from Vehicle First-Person View**|Chuang Yang et.al.|[2411.11507](http://arxiv.org/abs/2411.11507)|null|
+|**2024-11-18**|**Quantifying Preferences of Vision-Language Models via Value Decomposition in Social Media Contexts**|Jingxuan Li et.al.|[2411.11479](http://arxiv.org/abs/2411.11479)|null|
+|**2024-11-18**|**Generalizable Person Re-identification via Balancing Alignment and Uniformity**|Yoonki Cho et.al.|[2411.11471](http://arxiv.org/abs/2411.11471)|**[link](https://github.com/yoonkicho/bau)**|
+|**2024-11-18**|**Membership Inference Attack against Long-Context Large Language Models**|Zixiong Wang et.al.|[2411.11424](http://arxiv.org/abs/2411.11424)|null|
+|**2024-11-18**|**Toward Personalized Federated Node Classification in One-shot Communication**|Guochen Yan et.al.|[2411.11304](http://arxiv.org/abs/2411.11304)|null|
+|**2024-11-18**|**Towards Personalized Brain-Computer Interface Application Based on Endogenous EEG Paradigms**|Heon-Gyu Kwak et.al.|[2411.11302](http://arxiv.org/abs/2411.11302)|null|
+|**2024-11-17**|**Careless Whisper: Exploiting Stealthy End-to-End Leakage in Mobile Instant Messengers**|Gabriel K. Gegenhuber et.al.|[2411.11194](http://arxiv.org/abs/2411.11194)|null|
+|**2024-11-17**|**Person Segmentation and Action Classification for Multi-Channel Hemisphere Field of View LiDAR Sensors**|Svetlana Seliunina et.al.|[2411.11151](http://arxiv.org/abs/2411.11151)|null|
+|**2024-11-17**|**Non-Invasive Glucose Level Monitoring from PPG using a Hybrid CNN-GRU Deep Learning Network**|Abdelrhman Y. Soliman et.al.|[2411.11094](http://arxiv.org/abs/2411.11094)|null|
+|**2024-11-17**|**Skeleton-Guided Spatial-Temporal Feature Learning for Video-Based Visible-Infrared Person Re-Identification**|Wenjia Jiang et.al.|[2411.11069](http://arxiv.org/abs/2411.11069)|null|
+|**2024-11-17**|**Framework for developing and evaluating ethical collaboration between expert and machine**|Ayan Banerjee et.al.|[2411.10983](http://arxiv.org/abs/2411.10983)|null|
 |**2024-11-15**|**Generalized Conditional Functional Principal Component Analysis**|Yu Lu et.al.|[2411.10312](http://arxiv.org/abs/2411.10312)|null|
 |**2024-11-15**|**Self-interacting CBO: Existence, uniqueness, and long-time convergence**|Hui Huang et.al.|[2411.10295](http://arxiv.org/abs/2411.10295)|null|
 |**2024-11-15**|**Generative AI in Multimodal User Interfaces: Trends, Challenges, and Cross-Platform Adaptability**|J. Bieniek et.al.|[2411.10234](http://arxiv.org/abs/2411.10234)|null|
@@ -1322,6 +1342,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**Generative World Explorer**|Taiming Lu et.al.|[2411.11844](http://arxiv.org/abs/2411.11844)|null|
+|**2024-11-18**|**Bi-Mamba: Towards Accurate 1-Bit State Space Models**|Shengkun Tang et.al.|[2411.11843](http://arxiv.org/abs/2411.11843)|null|
+|**2024-11-18**|**Tackling prediction tasks in relational databases with LLMs**|Marek Wydmuch et.al.|[2411.11829](http://arxiv.org/abs/2411.11829)|null|
+|**2024-11-18**|**LightFFDNets: Lightweight Convolutional Neural Networks for Rapid Facial Forgery Detection**|Günel Jabbarlı et.al.|[2411.11826](http://arxiv.org/abs/2411.11826)|null|
+|**2024-11-18**|**Exploring adversarial robustness of JPEG AI: methodology, comparison and new methods**|Egor Kovalev et.al.|[2411.11795](http://arxiv.org/abs/2411.11795)|null|
+|**2024-11-18**|**LLM-IE: A Python Package for Generative Information Extraction with Large Language Models**|Enshuo Hsu et.al.|[2411.11779](http://arxiv.org/abs/2411.11779)|null|
+|**2024-11-18**|**sMoRe: Enhancing Object Manipulation and Organization in Mixed Reality Spaces with LLMs and Generative AI**|Yunhao Xing et.al.|[2411.11752](http://arxiv.org/abs/2411.11752)|null|
+|**2024-11-18**|**BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration**|Yuzong Chen et.al.|[2411.11745](http://arxiv.org/abs/2411.11745)|null|
+|**2024-11-18**|**Moral Persuasion in Large Language Models: Evaluating Susceptibility and Ethical Alignment**|Allison Huang et.al.|[2411.11731](http://arxiv.org/abs/2411.11731)|null|
+|**2024-11-18**|**Semantic-Geometric-Physical-Driven Robot Manipulation Skill Transfer via Skill Library and Tactile Representation**|Mingchao Qi et.al.|[2411.11714](http://arxiv.org/abs/2411.11714)|**[link](https://github.com/mingchaoqi/skill_transfer)**|
+|**2024-11-18**|**FedCoLLM: A Parameter-Efficient Federated Co-tuning Framework for Large and Small Language Models**|Tao Fan et.al.|[2411.11707](http://arxiv.org/abs/2411.11707)|null|
+|**2024-11-18**|**Technical Report: Enhancing LLM Reasoning with Reward-guided Tree Search**|Jinhao Jiang et.al.|[2411.11694](http://arxiv.org/abs/2411.11694)|null|
+|**2024-11-18**|**TrojanRobot: Backdoor Attacks Against Robotic Manipulation in the Physical World**|Xianlong Wang et.al.|[2411.11683](http://arxiv.org/abs/2411.11683)|null|
+|**2024-11-18**|**PSPO*: An Effective Process-supervised Policy Optimization for Reasoning Alignment**|Jiawei Li et.al.|[2411.11681](http://arxiv.org/abs/2411.11681)|null|
+|**2024-11-18**|**Artificial Scientific Discovery**|Antonio Norelli et.al.|[2411.11672](http://arxiv.org/abs/2411.11672)|null|
+|**2024-11-18**|**Dissecting Misalignment of Multimodal Large Language Models via Influence Function**|Lijie Hu et.al.|[2411.11667](http://arxiv.org/abs/2411.11667)|null|
+|**2024-11-18**|**TSINR: Capturing Temporal Continuity via Implicit Neural Representations for Time Series Anomaly Detection**|Mengxuan Li et.al.|[2411.11641](http://arxiv.org/abs/2411.11641)|null|
+|**2024-11-18**|**Exploring LLMs for Verifying Technical System Specifications Against Requirements**|Lasse M. Reinpold et.al.|[2411.11582](http://arxiv.org/abs/2411.11582)|null|
+|**2024-11-18**|**OASIS: Open Agents Social Interaction Simulations on One Million Agents**|Ziyi Yang et.al.|[2411.11581](http://arxiv.org/abs/2411.11581)|null|
+|**2024-11-18**|**Topology-aware Preemptive Scheduling for Co-located LLM Workloads**|Ping Zhang et.al.|[2411.11560](http://arxiv.org/abs/2411.11560)|null|
 |**2024-11-15**|**VeriGraph: Scene Graphs for Execution Verifiable Robot Planning**|Daniel Ekpo et.al.|[2411.10446](http://arxiv.org/abs/2411.10446)|null|
 |**2024-11-15**|**Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization**|Weiyun Wang et.al.|[2411.10442](http://arxiv.org/abs/2411.10442)|null|
 |**2024-11-15**|**LLaVA-o1: Let Vision Language Models Reason Step-by-Step**|Guowei Xu et.al.|[2411.10440](http://arxiv.org/abs/2411.10440)|null|
@@ -3029,7 +3069,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-15**|**M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation**|Sucheng Ren et.al.|[2411.10433](http://arxiv.org/abs/2411.10433)|null|
+|**2024-11-18**|**Conceptwm: A Diffusion Model Watermark for Concept Protection**|Liangqi Lei et.al.|[2411.11688](http://arxiv.org/abs/2411.11688)|null|
+|**2024-11-18**|**A Modular Open Source Framework for Genomic Variant Calling**|Ankita Vaishnobi Bisoi et.al.|[2411.11513](http://arxiv.org/abs/2411.11513)|null|
+|**2024-11-18**|**MVLight: Relightable Text-to-3D Generation via Light-conditioned Multi-View Diffusion**|Dongseok Shim et.al.|[2411.11475](http://arxiv.org/abs/2411.11475)|null|
+|**2024-11-18**|**MEMO-Bench: A Multiple Benchmark for Text-to-Image and Multimodal Large Language Models on Human Emotion Analysis**|Yingjie Zhou et.al.|[2411.11235](http://arxiv.org/abs/2411.11235)|null|
+|**2024-11-18**|**BeautyBank: Encoding Facial Makeup in Latent Space**|Qianwen Lu et.al.|[2411.11231](http://arxiv.org/abs/2411.11231)|null|
+|**2024-11-17**|**Enhanced Anime Image Generation Using USE-CMHSA-GAN**|J. Lu et.al.|[2411.11179](http://arxiv.org/abs/2411.11179)|null|
+|**2024-11-17**|**Oscillation Inversion: Understand the structure of Large Flow Model through the Lens of Inversion Method**|Yan Zheng et.al.|[2411.11135](http://arxiv.org/abs/2411.11135)|null|
+|**2024-11-17**|**Time Step Generating: A Universal Synthesized Deepfake Image Detector**|Ziyue Zeng et.al.|[2411.11016](http://arxiv.org/abs/2411.11016)|null|
+|**2024-11-17**|**SageAttention2 Technical Report: Accurate 4 Bit Attention for Plug-and-play Inference Acceleration**|Jintao Zhang et.al.|[2411.10958](http://arxiv.org/abs/2411.10958)|**[link](https://github.com/thu-ml/SageAttention)**|
+|**2024-11-16**|**Generating Compositional Scenes via Text-to-image RGBA Instance Generation**|Alessandro Fontanella et.al.|[2411.10913](http://arxiv.org/abs/2411.10913)|null|
+|**2024-11-16**|**MetricGold: Leveraging Text-To-Image Latent Diffusion Models for Metric Depth Estimation**|Ansh Shah et.al.|[2411.10886](http://arxiv.org/abs/2411.10886)|null|
+|**2024-11-16**|**Test-time Conditional Text-to-Image Synthesis Using Diffusion Models**|Tripti Shukla et.al.|[2411.10800](http://arxiv.org/abs/2411.10800)|null|
+|**2024-11-16**|**C-DiffSET: Leveraging Latent Diffusion for SAR-to-EO Image Translation with Confidence-Guided Reliable Object Generation**|Jeonghyeok Do et.al.|[2411.10788](http://arxiv.org/abs/2411.10788)|null|
+|**2024-11-16**|**Bag of Design Choices for Inference of High-Resolution Masked Generative Transformer**|Shitong Shao et.al.|[2411.10781](http://arxiv.org/abs/2411.10781)|null|
+|**2024-11-16**|**TDSM:Triplet Diffusion for Skeleton-Text Matching in Zero-Shot Action Recognition**|Jeonghyeok Do et.al.|[2411.10745](http://arxiv.org/abs/2411.10745)|null|
+|**2024-11-16**|**MaskMedPaint: Masked Medical Image Inpainting with Diffusion Models for Mitigation of Spurious Correlations**|Qixuan Jin et.al.|[2411.10686](http://arxiv.org/abs/2411.10686)|null|
+|**2024-11-15**|**SmoothCache: A Universal Inference Acceleration Technique for Diffusion Transformers**|Joseph Liu et.al.|[2411.10510](http://arxiv.org/abs/2411.10510)|**[link](https://github.com/roblox/smoothcache)**|
+|**2024-11-15**|**M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation**|Sucheng Ren et.al.|[2411.10433](http://arxiv.org/abs/2411.10433)|**[link](https://github.com/oliverrensu/mvar)**|
 |**2024-11-15**|**Mechanisms of Generative Image-to-Image Translation Networks**|Guangzong Chen et.al.|[2411.10368](http://arxiv.org/abs/2411.10368)|null|
 |**2024-11-15**|**Safe Text-to-Image Generation: Simply Sanitize the Prompt Embedding**|Huming Qiu et.al.|[2411.10329](http://arxiv.org/abs/2411.10329)|null|
 |**2024-11-15**|**Modification Takes Courage: Seamless Image Stitching via Reference-Driven Inpainting**|Ziqi Xie et.al.|[2411.10309](http://arxiv.org/abs/2411.10309)|**[link](https://github.com/yayoyo66/rdistitcher)**|
