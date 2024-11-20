@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.19
+## Updated on 2024.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RecSys
@@ -3067,7 +3067,7 @@ layout: default
 |**2024-11-18**|**BeautyBank: Encoding Facial Makeup in Latent Space**|Qianwen Lu et.al.|[2411.11231](http://arxiv.org/abs/2411.11231)|null|
 |**2024-11-17**|**Enhanced Anime Image Generation Using USE-CMHSA-GAN**|J. Lu et.al.|[2411.11179](http://arxiv.org/abs/2411.11179)|null|
 |**2024-11-17**|**Oscillation Inversion: Understand the structure of Large Flow Model through the Lens of Inversion Method**|Yan Zheng et.al.|[2411.11135](http://arxiv.org/abs/2411.11135)|null|
-|**2024-11-17**|**Time Step Generating: A Universal Synthesized Deepfake Image Detector**|Ziyue Zeng et.al.|[2411.11016](http://arxiv.org/abs/2411.11016)|null|
+|**2024-11-17**|**Time Step Generating: A Universal Synthesized Deepfake Image Detector**|Ziyue Zeng et.al.|[2411.11016](http://arxiv.org/abs/2411.11016)|**[link](https://github.com/NuayHL/TimeStepGenerating)**|
 |**2024-11-17**|**SageAttention2 Technical Report: Accurate 4 Bit Attention for Plug-and-play Inference Acceleration**|Jintao Zhang et.al.|[2411.10958](http://arxiv.org/abs/2411.10958)|**[link](https://github.com/thu-ml/SageAttention)**|
 |**2024-11-16**|**Generating Compositional Scenes via Text-to-image RGBA Instance Generation**|Alessandro Fontanella et.al.|[2411.10913](http://arxiv.org/abs/2411.10913)|null|
 |**2024-11-16**|**MetricGold: Leveraging Text-To-Image Latent Diffusion Models for Metric Depth Estimation**|Ansh Shah et.al.|[2411.10886](http://arxiv.org/abs/2411.10886)|null|
