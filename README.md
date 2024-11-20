@@ -19,9 +19,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**Identifying patterns of proprioception and target matching acuity in healthy humans**|Jacob Carducci et.al.|[2411.12664](http://arxiv.org/abs/2411.12664)|null|
+|**2024-11-19**|**Locomotion Mode Transitions: Tackling System- and User-Specific Variability in Lower-Limb Exoskeletons**|Andrea Dal Prete et.al.|[2411.12573](http://arxiv.org/abs/2411.12573)|null|
+|**2024-11-19**|**Refuting the Metaphysics of Wolfram and Tegmark**|Joseph Natal et.al.|[2411.12562](http://arxiv.org/abs/2411.12562)|null|
+|**2024-11-19**|**Virtual Reality for Action Evaluation**|Mario De Lucas Garcia et.al.|[2411.12542](http://arxiv.org/abs/2411.12542)|null|
+|**2024-11-19**|**Combinational Backdoor Attack against Customized Text-to-Image Models**|Wenbo Jiang et.al.|[2411.12389](http://arxiv.org/abs/2411.12389)|null|
+|**2024-11-19**|**CLIP Unreasonable Potential in Single-Shot Face Recognition**|Nhan T. Luu et.al.|[2411.12319](http://arxiv.org/abs/2411.12319)|null|
+|**2024-11-19**|**Consistency Regularization for Complementary Clothing Recommendations**|Shuiying Liao et.al.|[2411.12295](http://arxiv.org/abs/2411.12295)|null|
+|**2024-11-19**|**Enhancing UX Research Activities Using GenAI -- Potential Applications and Challenges**|Stefan Graser et.al.|[2411.12289](http://arxiv.org/abs/2411.12289)|null|
+|**2024-11-19**|**Construction of the UXAR-CT -- a User eXperience Questionnaire for Augmented Reality in Corporate Training**|Stefan Graser et.al.|[2411.12288](http://arxiv.org/abs/2411.12288)|null|
+|**2024-11-19**|**Zero-Shot Crate Digging: DJ Tool Retrieval Using Speech Activity, Music Structure And CLAP Embeddings**|Iroro Orife et.al.|[2411.12209](http://arxiv.org/abs/2411.12209)|null|
+|**2024-11-18**|**Medical Video Generation for Disease Progression Simulation**|Xu Cao et.al.|[2411.11943](http://arxiv.org/abs/2411.11943)|null|
 |**2024-11-18**|**UniHands: Unifying Various Wild-Collected Keypoints for Personalized Hand Reconstruction**|Menghe Zhang et.al.|[2411.11845](http://arxiv.org/abs/2411.11845)|null|
 |**2024-11-18**|**Theoretical Foundations of Conformal Prediction**|Anastasios N. Angelopoulos et.al.|[2411.11824](http://arxiv.org/abs/2411.11824)|null|
-|**2024-11-18**|**Freezing of Gait Detection Using Gramian Angular Fields and Federated Learning from Wearable Sensors**|Shovito Barua Soumma et.al.|[2411.11764](http://arxiv.org/abs/2411.11764)|null|
+|**2024-11-19**|**Freezing of Gait Detection Using Gramian Angular Fields and Federated Learning from Wearable Sensors**|Shovito Barua Soumma et.al.|[2411.11764](http://arxiv.org/abs/2411.11764)|null|
 |**2024-11-18**|**MC-LLaVA: Multi-Concept Personalized Vision-Language Model**|Ruichuan An et.al.|[2411.11706](http://arxiv.org/abs/2411.11706)|null|
 |**2024-11-18**|**Conceptwm: A Diffusion Model Watermark for Concept Protection**|Liangqi Lei et.al.|[2411.11688](http://arxiv.org/abs/2411.11688)|null|
 |**2024-11-18**|**No-regret Exploration in Shuffle Private Reinforcement Learning**|Shaojie Bai et.al.|[2411.11647](http://arxiv.org/abs/2411.11647)|null|
@@ -1342,6 +1353,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models**|Salma Kharrat et.al.|[2411.12736](http://arxiv.org/abs/2411.12736)|null|
+|**2024-11-19**|**Information Theory of Meaningful Communication**|Doron Sivan et.al.|[2411.12728](http://arxiv.org/abs/2411.12728)|null|
+|**2024-11-19**|**Enhancing Multi-Class Disease Classification: Neoplasms, Cardiovascular, Nervous System, and Digestive Disorders Using Advanced LLMs**|Ahmed Akib Jawad Karim et.al.|[2411.12712](http://arxiv.org/abs/2411.12712)|null|
+|**2024-11-19**|**Strengthening Fake News Detection: Leveraging SVM and Sophisticated Text Vectorization Techniques. Defying BERT?**|Ahmed Akib Jawad Karim et.al.|[2411.12703](http://arxiv.org/abs/2411.12703)|null|
+|**2024-11-19**|**When Backdoors Speak: Understanding LLM Backdoor Attacks Through Model-Generated Explanations**|Huaizhi Ge et.al.|[2411.12701](http://arxiv.org/abs/2411.12701)|null|
+|**2024-11-19**|**SparseInfer: Training-free Prediction of Activation Sparsity for Fast LLM Inference**|Jiho Shin et.al.|[2411.12692](http://arxiv.org/abs/2411.12692)|null|
+|**2024-11-19**|**Enhanced Sign Language Translation between American Sign Language (ASL) and Indian Sign Language (ISL) Using LLMs**|Malay Kumar et.al.|[2411.12685](http://arxiv.org/abs/2411.12685)|null|
+|**2024-11-19**|**Neurosymbolic Graph Enrichment for Grounded World Models**|Stefano De Giorgis et.al.|[2411.12671](http://arxiv.org/abs/2411.12671)|null|
+|**2024-11-19**|**DLBacktrace: A Model Agnostic Explainability for any Deep Learning Models**|Vinay Kumar Sankarapu et.al.|[2411.12643](http://arxiv.org/abs/2411.12643)|**[link](https://github.com/aryaxai/dlbacktrace)**|
+|**2024-11-19**|**Improving Controllability and Editability for Pretrained Text-to-Music Generation Models**|Yixiao Zhang et.al.|[2411.12641](http://arxiv.org/abs/2411.12641)|null|
+|**2024-11-19**|**A Multimodal Approach Combining Structural and Cross-domain Textual Guidance for Weakly Supervised OCT Segmentation**|Jiaqi Yang et.al.|[2411.12615](http://arxiv.org/abs/2411.12615)|null|
+|**2024-11-19**|**AdaCM $^2$ : On Understanding Extremely Long-Term Video with Adaptive Cross-Modality Memory Reduction**|Yuanbin Man et.al.|[2411.12593](http://arxiv.org/abs/2411.12593)|null|
+|**2024-11-19**|**Whisper Finetuning on Nepali Language**|Sanjay Rijal et.al.|[2411.12587](http://arxiv.org/abs/2411.12587)|null|
+|**2024-11-19**|**Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models**|Laura Ruis et.al.|[2411.12580](http://arxiv.org/abs/2411.12580)|null|
+|**2024-11-19**|**Large Language Models for Combinatorial Optimization of Design Structure Matrix**|Shuo Jiang et.al.|[2411.12571](http://arxiv.org/abs/2411.12571)|null|
+|**2024-11-19**|**Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues**|Riccardo Grazzi et.al.|[2411.12537](http://arxiv.org/abs/2411.12537)|null|
+|**2024-11-19**|**Enhancing Reasoning Capabilities of LLMs via Principled Synthetic Logic Corpus**|Terufumi Morishita et.al.|[2411.12498](http://arxiv.org/abs/2411.12498)|null|
+|**2024-11-19**|**AI Flow at the Network Edge**|Jiawei Shao et.al.|[2411.12469](http://arxiv.org/abs/2411.12469)|null|
+|**2024-11-19**|**Guide-to-Explain for Controllable Summarization**|Sangwon Ryu et.al.|[2411.12460](http://arxiv.org/abs/2411.12460)|null|
+|**2024-11-19**|**\textsc{Neon}: News Entity-Interaction Extraction for Enhanced Question Answering**|Sneha Singhania et.al.|[2411.12449](http://arxiv.org/abs/2411.12449)|null|
 |**2024-11-18**|**Generative World Explorer**|Taiming Lu et.al.|[2411.11844](http://arxiv.org/abs/2411.11844)|null|
 |**2024-11-18**|**Bi-Mamba: Towards Accurate 1-Bit State Space Models**|Shengkun Tang et.al.|[2411.11843](http://arxiv.org/abs/2411.11843)|null|
 |**2024-11-18**|**Tackling prediction tasks in relational databases with LLMs**|Marek Wydmuch et.al.|[2411.11829](http://arxiv.org/abs/2411.11829)|null|
@@ -3069,6 +3100,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**Combinational Backdoor Attack against Customized Text-to-Image Models**|Wenbo Jiang et.al.|[2411.12389](http://arxiv.org/abs/2411.12389)|null|
+|**2024-11-19**|**Constant Rate Schedule: Constant-Rate Distributional Change for Efficient Training and Sampling in Diffusion Models**|Shuntaro Okada et.al.|[2411.12188](http://arxiv.org/abs/2411.12188)|null|
+|**2024-11-19**|**Enhancing Low Dose Computed Tomography Images Using Consistency Training Techniques**|Mahmut S. Gokmen et.al.|[2411.12181](http://arxiv.org/abs/2411.12181)|null|
+|**2024-11-18**|**Zoomed In, Diffused Out: Towards Local Degradation-Aware Multi-Diffusion for Extreme Image Super-Resolution**|Brian B. Moser et.al.|[2411.12072](http://arxiv.org/abs/2411.12072)|null|
+|**2024-11-18**|**Machine Learning Evaluation Metric Discrepancies across Programming Languages and Their Components: Need for Standardization**|Mohammad R. Salmanpour et.al.|[2411.12032](http://arxiv.org/abs/2411.12032)|null|
+|**2024-11-18**|**FLAME: Frozen Large Language Models Enable Data-Efficient Language-Image Pre-training**|Anjia Cao et.al.|[2411.11927](http://arxiv.org/abs/2411.11927)|null|
+|**2024-11-18**|**Continuous Speculative Decoding for Autoregressive Image Generation**|Zili Wang et.al.|[2411.11925](http://arxiv.org/abs/2411.11925)|**[link](https://github.com/markxcloud/cspd)**|
+|**2024-11-18**|**From Words to Structured Visuals: A Benchmark and Framework for Text-to-Diagram Generation and Editing**|Jingxuan Wei et.al.|[2411.11916](http://arxiv.org/abs/2411.11916)|null|
 |**2024-11-18**|**Conceptwm: A Diffusion Model Watermark for Concept Protection**|Liangqi Lei et.al.|[2411.11688](http://arxiv.org/abs/2411.11688)|null|
 |**2024-11-18**|**A Modular Open Source Framework for Genomic Variant Calling**|Ankita Vaishnobi Bisoi et.al.|[2411.11513](http://arxiv.org/abs/2411.11513)|null|
 |**2024-11-18**|**MVLight: Relightable Text-to-3D Generation via Light-conditioned Multi-View Diffusion**|Dongseok Shim et.al.|[2411.11475](http://arxiv.org/abs/2411.11475)|null|
