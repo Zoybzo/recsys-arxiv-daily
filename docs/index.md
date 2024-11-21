@@ -14,12 +14,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**Understanding the Personal Networks of People Experiencing Homelessness in King County, WA with aggregate Relational Data**|Zack Almquist et.al.|[2411.13517](http://arxiv.org/abs/2411.13517)|null|
+|**2024-11-20**|**On the Way to LLM Personalization: Learning to Remember User Conversations**|Lucie Charlotte Magister et.al.|[2411.13405](http://arxiv.org/abs/2411.13405)|null|
+|**2024-11-20**|**Topological comparison of flexible and semiflexible chains in polymer melts with $θ$ -chains**|Maurice P. Schmitt et.al.|[2411.13357](http://arxiv.org/abs/2411.13357)|null|
+|**2024-11-20**|**Teaching VLMs to Localize Specific Objects from In-context Examples**|Sivan Doveh et.al.|[2411.13317](http://arxiv.org/abs/2411.13317)|**[link](https://github.com/sivandoveh/iploc)**|
+|**2024-11-20**|**A Stopping Game on Zero-Sum Sequences**|Adrian Dumitrescu et.al.|[2411.13206](http://arxiv.org/abs/2411.13206)|null|
+|**2024-11-20**|**Using ChatGPT-4 for the Identification of Common UX Factors within a Pool of Measurement Items from Established UX Questionnaires**|Stefan Graser et.al.|[2411.13118](http://arxiv.org/abs/2411.13118)|null|
+|**2024-11-20**|**On-device Content-based Recommendation with Single-shot Embedding Pruning: A Cooperative Game Perspective**|Hung Vinh Tran et.al.|[2411.13052](http://arxiv.org/abs/2411.13052)|null|
+|**2024-11-20**|**"It was 80% me, 20% AI": Seeking Authenticity in Co-Writing with Large Language Models**|Angel Hsing-Chi Hwang et.al.|[2411.13032](http://arxiv.org/abs/2411.13032)|null|
+|**2024-11-19**|**Trojan Cleansing with Neural Collapse**|Xihe Gu et.al.|[2411.12914](http://arxiv.org/abs/2411.12914)|null|
+|**2024-11-19**|**DIETS: Diabetic Insulin Management System in Everyday Life**|Hanyu Zeng et.al.|[2411.12812](http://arxiv.org/abs/2411.12812)|null|
+|**2024-11-19**|**Lucia: A Temporal Computing Platform for Contextual Intelligence**|Weizhe Lin et.al.|[2411.12778](http://arxiv.org/abs/2411.12778)|null|
+|**2024-11-19**|**User Experience Evaluation of Augmented Reality: A Systematic Literature Review**|Stefan Graser et.al.|[2411.12777](http://arxiv.org/abs/2411.12777)|null|
 |**2024-11-19**|**Identifying patterns of proprioception and target matching acuity in healthy humans**|Jacob Carducci et.al.|[2411.12664](http://arxiv.org/abs/2411.12664)|null|
-|**2024-11-19**|**Locomotion Mode Transitions: Tackling System- and User-Specific Variability in Lower-Limb Exoskeletons**|Andrea Dal Prete et.al.|[2411.12573](http://arxiv.org/abs/2411.12573)|null|
-|**2024-11-19**|**Refuting the Metaphysics of Wolfram and Tegmark**|Joseph Natal et.al.|[2411.12562](http://arxiv.org/abs/2411.12562)|null|
+|**2024-11-20**|**Locomotion Mode Transitions: Tackling System- and User-Specific Variability in Lower-Limb Exoskeletons**|Andrea Dal Prete et.al.|[2411.12573](http://arxiv.org/abs/2411.12573)|null|
+|**2024-11-20**|**Refuting the Metaphysics of Wolfram and Tegmark**|Joseph Natal et.al.|[2411.12562](http://arxiv.org/abs/2411.12562)|null|
 |**2024-11-19**|**Virtual Reality for Action Evaluation**|Mario De Lucas Garcia et.al.|[2411.12542](http://arxiv.org/abs/2411.12542)|null|
 |**2024-11-19**|**Combinational Backdoor Attack against Customized Text-to-Image Models**|Wenbo Jiang et.al.|[2411.12389](http://arxiv.org/abs/2411.12389)|null|
-|**2024-11-19**|**CLIP Unreasonable Potential in Single-Shot Face Recognition**|Nhan T. Luu et.al.|[2411.12319](http://arxiv.org/abs/2411.12319)|null|
+|**2024-11-20**|**CLIP Unreasonable Potential in Single-Shot Face Recognition**|Nhan T. Luu et.al.|[2411.12319](http://arxiv.org/abs/2411.12319)|null|
 |**2024-11-19**|**Consistency Regularization for Complementary Clothing Recommendations**|Shuiying Liao et.al.|[2411.12295](http://arxiv.org/abs/2411.12295)|null|
 |**2024-11-19**|**Enhancing UX Research Activities Using GenAI -- Potential Applications and Challenges**|Stefan Graser et.al.|[2411.12289](http://arxiv.org/abs/2411.12289)|null|
 |**2024-11-19**|**Construction of the UXAR-CT -- a User eXperience Questionnaire for Augmented Reality in Corporate Training**|Stefan Graser et.al.|[2411.12288](http://arxiv.org/abs/2411.12288)|null|
@@ -1346,6 +1358,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution**|Shoaib Meraj Sami et.al.|[2411.13548](http://arxiv.org/abs/2411.13548)|null|
+|**2024-11-20**|**SpecTool: A Benchmark for Characterizing Errors in Tool-Use LLMs**|Shirley Kokane et.al.|[2411.13547](http://arxiv.org/abs/2411.13547)|null|
+|**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543](http://arxiv.org/abs/2411.13543)|null|
+|**2024-11-20**|**Metacognition for Unknown Situations and Environments (MUSE)**|Rodolfo Valiente et.al.|[2411.13537](http://arxiv.org/abs/2411.13537)|null|
+|**2024-11-20**|**Predictive Insights into LGBTQ+ Minority Stress: A Transductive Exploration of Social Media Discourse**|S. Chapagain et.al.|[2411.13534](http://arxiv.org/abs/2411.13534)|null|
+|**2024-11-20**|**Advancing Complex Medical Communication in Arabic with Sporo AraSum: Surpassing Existing Large Language Models**|Chanseo Lee et.al.|[2411.13518](http://arxiv.org/abs/2411.13518)|null|
+|**2024-11-20**|**Disentangling Memory and Reasoning Ability in Large Language Models**|Mingyu Jin et.al.|[2411.13504](http://arxiv.org/abs/2411.13504)|**[link](https://github.com/mingyuj666/disentangling-memory-and-reasoning)**|
+|**2024-11-20**|**Utilizing Large Language Models to Synthesize Product Desirability Datasets**|John D. Hastings et.al.|[2411.13485](http://arxiv.org/abs/2411.13485)|null|
+|**2024-11-20**|**PatentEdits: Framing Patent Novelty as Textual Entailment**|Ryan Lee et.al.|[2411.13477](http://arxiv.org/abs/2411.13477)|null|
+|**2024-11-20**|**When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training**|Haonan Wang et.al.|[2411.13476](http://arxiv.org/abs/2411.13476)|**[link](https://github.com/haonan3/anchorcontext)**|
+|**2024-11-20**|**SoK: A Systems Perspective on Compound AI Threats and Countermeasures**|Sarbartha Banerjee et.al.|[2411.13459](http://arxiv.org/abs/2411.13459)|null|
+|**2024-11-20**|**AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations**|Gaurav Verma et.al.|[2411.13451](http://arxiv.org/abs/2411.13451)|null|
+|**2024-11-20**|**WaterPark: A Robustness Assessment of Language Model Watermarking**|Jiacheng Liang et.al.|[2411.13425](http://arxiv.org/abs/2411.13425)|null|
+|**2024-11-20**|**Unleashing the Power of Large Language Models for Group POI Recommendations**|Jing Long et.al.|[2411.13415](http://arxiv.org/abs/2411.13415)|null|
+|**2024-11-20**|**A Survey On Enhancing Reinforcement Learning in Complex Environments: Insights from Human and LLM Feedback**|Alireza Rashidi Laleh et.al.|[2411.13410](http://arxiv.org/abs/2411.13410)|null|
+|**2024-11-20**|**Unification of Balti and trans-border sister dialects in the essence of LLMs and AI Technology**|Muhammad Sharif et.al.|[2411.13409](http://arxiv.org/abs/2411.13409)|null|
+|**2024-11-20**|**On the Way to LLM Personalization: Learning to Remember User Conversations**|Lucie Charlotte Magister et.al.|[2411.13405](http://arxiv.org/abs/2411.13405)|null|
+|**2024-11-20**|**Adversarial Diffusion Compression for Real-World Image Super-Resolution**|Bin Chen et.al.|[2411.13383](http://arxiv.org/abs/2411.13383)|null|
+|**2024-11-20**|**Fact-Level Confidence Calibration and Self-Correction**|Yige Yuan et.al.|[2411.13343](http://arxiv.org/abs/2411.13343)|null|
+|**2024-11-20**|**Fine-tuning Myoelectric Control through Reinforcement Learning in a Game Environment**|Kilian Freitag et.al.|[2411.13327](http://arxiv.org/abs/2411.13327)|null|
 |**2024-11-19**|**ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models**|Salma Kharrat et.al.|[2411.12736](http://arxiv.org/abs/2411.12736)|**[link](https://github.com/salmakh1/ACING)**|
 |**2024-11-19**|**Information Theory of Meaningful Communication**|Doron Sivan et.al.|[2411.12728](http://arxiv.org/abs/2411.12728)|null|
 |**2024-11-19**|**Enhancing Multi-Class Disease Classification: Neoplasms, Cardiovascular, Nervous System, and Digestive Disorders Using Advanced LLMs**|Ahmed Akib Jawad Karim et.al.|[2411.12712](http://arxiv.org/abs/2411.12712)|null|
@@ -3091,6 +3123,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**AI-generated Image Detection: Passive or Watermark?**|Moyang Guo et.al.|[2411.13553](http://arxiv.org/abs/2411.13553)|null|
+|**2024-11-20**|**REDUCIO! Generating 1024 $\times$ 1024 Video within 16 Seconds using Extremely Compressed Motion Latents**|Rui Tian et.al.|[2411.13552](http://arxiv.org/abs/2411.13552)|**[link](https://github.com/microsoft/reducio-vae)**|
+|**2024-11-20**|**VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models**|Ziqi Huang et.al.|[2411.13503](http://arxiv.org/abs/2411.13503)|**[link](https://github.com/vchitect/vbench)**|
+|**2024-11-20**|**From Prompt Engineering to Prompt Craft**|Joseph Lindley et.al.|[2411.13422](http://arxiv.org/abs/2411.13422)|null|
+|**2024-11-20**|**'Weather' in the LSST Camera: Investigating Patterns in Differenced Flat Images**|John Banovetz et.al.|[2411.13386](http://arxiv.org/abs/2411.13386)|null|
+|**2024-11-20**|**RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation**|Christoph Reinders et.al.|[2411.13150](http://arxiv.org/abs/2411.13150)|null|
+|**2024-11-20**|**CopyrightMeter: Revisiting Copyright Protection in Text-to-image Models**|Naen Xu et.al.|[2411.13144](http://arxiv.org/abs/2411.13144)|null|
+|**2024-11-19**|**From Text to Pose to Image: Improving Diffusion Model Control and Quality**|Clément Bonnett et.al.|[2411.12872](http://arxiv.org/abs/2411.12872)|**[link](https://github.com/clement-bonnet/text-to-pose)**|
+|**2024-11-19**|**Stylecodes: Encoding Stylistic Information For Image Generation**|Ciara Rowles et.al.|[2411.12811](http://arxiv.org/abs/2411.12811)|**[link](https://github.com/ciarastrawberry/stylecodes)**|
+|**2024-11-18**|**Decoupling Training-Free Guided Diffusion by ADMM**|Youyuan Zhang et.al.|[2411.12773](http://arxiv.org/abs/2411.12773)|null|
 |**2024-11-19**|**Combinational Backdoor Attack against Customized Text-to-Image Models**|Wenbo Jiang et.al.|[2411.12389](http://arxiv.org/abs/2411.12389)|null|
 |**2024-11-19**|**Constant Rate Schedule: Constant-Rate Distributional Change for Efficient Training and Sampling in Diffusion Models**|Shuntaro Okada et.al.|[2411.12188](http://arxiv.org/abs/2411.12188)|null|
 |**2024-11-19**|**Enhancing Low Dose Computed Tomography Images Using Consistency Training Techniques**|Mahmut S. Gokmen et.al.|[2411.12181](http://arxiv.org/abs/2411.12181)|null|
