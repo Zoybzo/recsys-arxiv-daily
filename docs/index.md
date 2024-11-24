@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.23
+## Updated on 2024.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RecSys
@@ -1375,7 +1375,7 @@ layout: default
 |**2024-11-21**|**Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models**|Yuhao Dong et.al.|[2411.14432](http://arxiv.org/abs/2411.14432)|**[link](https://github.com/dongyh20/insight-v)**|
 |**2024-11-21**|**Beyond Training: Dynamic Token Merging for Zero-Shot Video Understanding**|Yiming Zhang et.al.|[2411.14401](http://arxiv.org/abs/2411.14401)|null|
 |**2024-11-21**|**Lightweight Safety Guardrails Using Fine-tuned BERT Embeddings**|Aaron Zheng et.al.|[2411.14398](http://arxiv.org/abs/2411.14398)|null|
-|**2024-11-21**|**Convolutional Vision Transformer for Cosmology Parameter Inference**|Yash Gondhalekar et.al.|[2411.14392](http://arxiv.org/abs/2411.14392)|null|
+|**2024-11-21**|**Convolutional Vision Transformer for Cosmology Parameter Inference**|Yash Gondhalekar et.al.|[2411.14392](http://arxiv.org/abs/2411.14392)|**[link](https://github.com/yash-10/cvt-cosmo-inference)**|
 |**2024-11-21**|**Contrasting local and global modeling with machine learning and satellite data: A case study estimating tree canopy height in African savannas**|Esther Rolf et.al.|[2411.14354](http://arxiv.org/abs/2411.14354)|null|
 |**2024-11-21**|**UnifiedCrawl: Aggregated Common Crawl for Affordable Adaptation of LLMs on Low-Resource Languages**|Bethel Melesse Tessema et.al.|[2411.14343](http://arxiv.org/abs/2411.14343)|**[link](https://github.com/bethelmelesse/unifiedcrawl)**|
 |**2024-11-21**|**Velocitune: A Velocity-based Dynamic Domain Reweighting Method for Continual Pre-training**|Zheheng Luo et.al.|[2411.14318](http://arxiv.org/abs/2411.14318)|null|
@@ -3165,7 +3165,7 @@ layout: default
 |**2024-11-21**|**Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion**|Jinhong He et.al.|[2411.13961](http://arxiv.org/abs/2411.13961)|**[link](https://github.com/hejh8/joint-wavelet-and-fourier-priors-guided-diffusion)**|
 |**2024-11-21**|**iHQGAN: A Lightweight Invertible Hybrid Quantum-Classical Generative Adversarial Network for Unsupervised Image-to-Image Translation**|Xue Yang et.al.|[2411.13920](http://arxiv.org/abs/2411.13920)|null|
 |**2024-11-21**|**Dealing with Synthetic Data Contamination in Online Continual Learning**|Maorong Wang et.al.|[2411.13852](http://arxiv.org/abs/2411.13852)|**[link](https://github.com/maorong-wang/esrm)**|
-|**2024-11-21**|**Detecting Human Artifacts from Text-to-Image Models**|Kaihong Wang et.al.|[2411.13842](http://arxiv.org/abs/2411.13842)|null|
+|**2024-11-21**|**Detecting Human Artifacts from Text-to-Image Models**|Kaihong Wang et.al.|[2411.13842](http://arxiv.org/abs/2411.13842)|**[link](https://github.com/wangkaihong/hadm)**|
 |**2024-11-21**|**GalaxyEdit: Large-Scale Image Editing Dataset with Enhanced Diffusion Adapter**|Aniruddha Bala et.al.|[2411.13794](http://arxiv.org/abs/2411.13794)|null|
 |**2024-11-21**|**Edge-Cloud Routing for Text-to-Image Model with Token-Level Multi-Metric Prediction**|Zewei Xin et.al.|[2411.13787](http://arxiv.org/abs/2411.13787)|null|
 |**2024-11-20**|**AI-generated Image Detection: Passive or Watermark?**|Moyang Guo et.al.|[2411.13553](http://arxiv.org/abs/2411.13553)|null|
