@@ -14,6 +14,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**PRIMUS: Pretraining IMU Encoders with Multimodal Self-Supervision**|Arnav M. Das et.al.|[2411.15127](http://arxiv.org/abs/2411.15127)|null|
+|**2024-11-22**|**Towards Speaker Identification with Minimal Dataset and Constrained Resources using 1D-Convolution Neural Network**|Irfan Nafiz Shahan et.al.|[2411.15082](http://arxiv.org/abs/2411.15082)|**[link](https://github.com/irfannafiz/recme)**|
+|**2024-11-22**|**One to rule them all: natural language to bind communication, perception and action**|Simone Colombani et.al.|[2411.15033](http://arxiv.org/abs/2411.15033)|null|
+|**2024-11-22**|**On the Linear Speedup of Personalized Federated Reinforcement Learning with Shared Representations**|Guojun Xiong et.al.|[2411.15014](http://arxiv.org/abs/2411.15014)|null|
+|**2024-11-22**|**Multi-granularity Interest Retrieval and Refinement Network for Long-Term User Behavior Modeling in CTR Prediction**|Xiang Xu et.al.|[2411.15005](http://arxiv.org/abs/2411.15005)|**[link](https://github.com/psycho-demon/mirrn)**|
+|**2024-11-22**|**SwissADT: An Audio Description Translation System for Swiss Languages**|Lukas Fischer et.al.|[2411.14967](http://arxiv.org/abs/2411.14967)|null|
+|**2024-11-22**|**Completeness of Energy Eigenfunctions for the Reflectionless Potential in Quantum Mechanics**|F. Erman et.al.|[2411.14941](http://arxiv.org/abs/2411.14941)|null|
+|**2024-11-22**|**Purrfessor: A Fine-tuned Multimodal LLaVA Diet Health Chatbot**|Linqi Lu et.al.|[2411.14925](http://arxiv.org/abs/2411.14925)|null|
+|**2024-11-22**|**Predictive Modeling For Real-Time Personalized Health Monitoring in Muscular Dystrophy Management**|Mohammed Akkaoui et.al.|[2411.14923](http://arxiv.org/abs/2411.14923)|null|
+|**2024-11-22**|**Style-Friendly SNR Sampler for Style-Driven Generation**|Jooyoung Choi et.al.|[2411.14793](http://arxiv.org/abs/2411.14793)|null|
+|**2024-11-22**|**IRLab@iKAT24: Learned Sparse Retrieval with Multi-aspect LLM Query Generation for Conversational Search**|Simon Lupart et.al.|[2411.14739](http://arxiv.org/abs/2411.14739)|null|
+|**2024-11-22**|**Optimal Energy Dispatch of Grid-Connected Electric Vehicle Considering Lithium Battery Electrochemical Model**|Yuanbo Chen et.al.|[2411.14700](http://arxiv.org/abs/2411.14700)|null|
+|**2024-11-22**|**Anti-Forgetting Adaptation for Unsupervised Person Re-identification**|Hao Chen et.al.|[2411.14695](http://arxiv.org/abs/2411.14695)|null|
+|**2024-11-22**|**A Data-Driven Pool Strategy for Price-Makers Under Imperfect Information**|Kedi Zheng et.al.|[2411.14694](http://arxiv.org/abs/2411.14694)|null|
+|**2024-11-21**|**Exploiting Boosting in Hyperdimensional Computing for Enhanced Reliability in Healthcare**|SungHeon Jeong et.al.|[2411.14612](http://arxiv.org/abs/2411.14612)|null|
+|**2024-11-21**|**SRSA: A Cost-Efficient Strategy-Router Search Agent for Real-world Human-Machine Interactions**|Yaqi Wang et.al.|[2411.14574](http://arxiv.org/abs/2411.14574)|null|
+|**2024-11-21**|**Privacy-Preserving Video Anomaly Detection: A Survey**|Jing Liu et.al.|[2411.14565](http://arxiv.org/abs/2411.14565)|null|
+|**2024-11-21**|**MyTimeMachine: Personalized Facial Age Transformation**|Luchao Qi et.al.|[2411.14521](http://arxiv.org/abs/2411.14521)|null|
 |**2024-11-21**|**Generative Outpainting To Enhance the Memorability of Short-Form Videos**|Alan Byju et.al.|[2411.14213](http://arxiv.org/abs/2411.14213)|null|
 |**2024-11-21**|**Is this Generated Person Existed in Real-world? Fine-grained Detecting and Calibrating Abnormal Human-body**|Zeqing Wang et.al.|[2411.14205](http://arxiv.org/abs/2411.14205)|null|
 |**2024-11-21**|**RestorerID: Towards Tuning-Free Face Restoration with ID Preservation**|Jiacheng Ying et.al.|[2411.14125](http://arxiv.org/abs/2411.14125)|**[link](https://github.com/yingjiacheng/restorerid)**|
@@ -1372,6 +1390,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**WildLMa: Long Horizon Loco-Manipulation in the Wild**|Ri-Zhao Qiu et.al.|[2411.15131](http://arxiv.org/abs/2411.15131)|null|
+|**2024-11-22**|**Measuring Bullshit in the Language Games played by ChatGPT**|Alessandro Trevisan et.al.|[2411.15129](http://arxiv.org/abs/2411.15129)|null|
+|**2024-11-22**|**PRIMUS: Pretraining IMU Encoders with Multimodal Self-Supervision**|Arnav M. Das et.al.|[2411.15127](http://arxiv.org/abs/2411.15127)|null|
+|**2024-11-22**|**TÜLU 3: Pushing Frontiers in Open Language Model Post-Training**|Nathan Lambert et.al.|[2411.15124](http://arxiv.org/abs/2411.15124)|null|
+|**2024-11-22**|**AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution**|Fengyuan Liu et.al.|[2411.15102](http://arxiv.org/abs/2411.15102)|**[link](https://github.com/r-three/AttriBoT)**|
+|**2024-11-22**|**XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models**|Yixin Dong et.al.|[2411.15100](http://arxiv.org/abs/2411.15100)|null|
+|**2024-11-22**|**Context-Aware Multimodal Pretraining**|Karsten Roth et.al.|[2411.15099](http://arxiv.org/abs/2411.15099)|null|
+|**2024-11-22**|**mR $^2$ AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA**|Tao Zhang et.al.|[2411.15041](http://arxiv.org/abs/2411.15041)|null|
+|**2024-11-22**|**One to rule them all: natural language to bind communication, perception and action**|Simone Colombani et.al.|[2411.15033](http://arxiv.org/abs/2411.15033)|null|
+|**2024-11-22**|**Time is on my sight: scene graph filtering for dynamic environment perception in an LLM-driven robot**|Simone Colombani et.al.|[2411.15027](http://arxiv.org/abs/2411.15027)|null|
+|**2024-11-22**|**DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models**|Keda Tao et.al.|[2411.15024](http://arxiv.org/abs/2411.15024)|null|
+|**2024-11-22**|**FTA generation using GenAI with an Autonomy sensor Usecase**|Sneha Sudhir Shetiya et.al.|[2411.15007](http://arxiv.org/abs/2411.15007)|null|
+|**2024-11-22**|**ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data**|Junhong Shen et.al.|[2411.15004](http://arxiv.org/abs/2411.15004)|**[link](https://github.com/colonylabs/ScribeAgent)**|
+|**2024-11-22**|**Generative AI may backfire for counterspeech**|Dominik Bär et.al.|[2411.14986](http://arxiv.org/abs/2411.14986)|null|
+|**2024-11-22**|**Leveraging LLMs for Legacy Code Modernization: Challenges and Opportunities for LLM-Generated Documentation**|Colin Diggs et.al.|[2411.14971](http://arxiv.org/abs/2411.14971)|null|
+|**2024-11-22**|**SwissADT: An Audio Description Translation System for Swiss Languages**|Lukas Fischer et.al.|[2411.14967](http://arxiv.org/abs/2411.14967)|null|
+|**2024-11-22**|**LLM for Barcodes: Generating Diverse Synthetic Data for Identity Documents**|Hitesh Laxmichand Patel et.al.|[2411.14962](http://arxiv.org/abs/2411.14962)|null|
+|**2024-11-22**|**Design-o-meter: Towards Evaluating and Refining Graphic Designs**|Sahil Goyal et.al.|[2411.14959](http://arxiv.org/abs/2411.14959)|null|
+|**2024-11-22**|**Geminio: Language-Guided Gradient Inversion Attacks in Federated Learning**|Junjie Shan et.al.|[2411.14937](http://arxiv.org/abs/2411.14937)|**[link](https://github.com/HKU-TASR/Geminio)**|
+|**2024-11-22**|**GOT4Rec: Graph of Thoughts for Sequential Recommendation**|Zewen Long et.al.|[2411.14922](http://arxiv.org/abs/2411.14922)|null|
 |**2024-11-21**|**Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models**|Yuhao Dong et.al.|[2411.14432](http://arxiv.org/abs/2411.14432)|**[link](https://github.com/dongyh20/insight-v)**|
 |**2024-11-21**|**Beyond Training: Dynamic Token Merging for Zero-Shot Video Understanding**|Yiming Zhang et.al.|[2411.14401](http://arxiv.org/abs/2411.14401)|null|
 |**2024-11-21**|**Lightweight Safety Guardrails Using Fine-tuned BERT Embeddings**|Aaron Zheng et.al.|[2411.14398](http://arxiv.org/abs/2411.14398)|null|
@@ -3157,13 +3195,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Efficient Pruning of Text-to-Image Models: Insights from Pruning Stable Diffusion**|Samarth N Ramesh et.al.|[2411.15113](http://arxiv.org/abs/2411.15113)|null|
+|**2024-11-22**|**OminiControl: Minimal and Universal Control for Diffusion Transformer**|Zhenxiong Tan et.al.|[2411.15098](http://arxiv.org/abs/2411.15098)|**[link](https://github.com/Yuanshi9815/OminiControl)**|
+|**2024-11-22**|**Leapfrog Latent Consistency Model (LLCM) for Medical Images Generation**|Lakshmikar R. Polamreddy et.al.|[2411.15084](http://arxiv.org/abs/2411.15084)|**[link](https://github.com/lskdsjy/leapfroglcm)**|
+|**2024-11-22**|**Empowering Clients: Transformation of Design Processes Due to Generative AI**|Johannes Schneider et.al.|[2411.15061](http://arxiv.org/abs/2411.15061)|null|
+|**2024-11-22**|**HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads**|Yu Xu et.al.|[2411.15034](http://arxiv.org/abs/2411.15034)|null|
+|**2024-11-22**|**Prioritize Denoising Steps on Diffusion Model Preference Alignment via Explicit Denoised Distribution Estimation**|Dingyuan Shi et.al.|[2411.14871](http://arxiv.org/abs/2411.14871)|null|
+|**2024-11-22**|**Latent Schrodinger Bridge: Prompting Latent Diffusion for Fast Unpaired Image-to-Image Translation**|Jeongsol Kim et.al.|[2411.14863](http://arxiv.org/abs/2411.14863)|null|
+|**2024-11-22**|**Unsupervised Multi-view UAV Image Geo-localization via Iterative Rendering**|Haoyuan Li et.al.|[2411.14816](http://arxiv.org/abs/2411.14816)|null|
+|**2024-11-22**|**High-Resolution Image Synthesis via Next-Token Prediction**|Dengsheng Chen et.al.|[2411.14808](http://arxiv.org/abs/2411.14808)|null|
+|**2024-11-22**|**FairAdapter: Detecting AI-generated Images with Improved Fairness**|Feng Ding et.al.|[2411.14755](http://arxiv.org/abs/2411.14755)|**[link](https://github.com/appledogdog/fairnessdetection)**|
+|**2024-11-22**|**Anti-Forgetting Adaptation for Unsupervised Person Re-identification**|Hao Chen et.al.|[2411.14695](http://arxiv.org/abs/2411.14695)|null|
+|**2024-11-22**|**Cross Group Attention and Group-wise Rolling for Multimodal Medical Image Synthesis**|Tao Song et.al.|[2411.14684](http://arxiv.org/abs/2411.14684)|null|
+|**2024-11-22**|**TrojanEdit: Backdooring Text-Based Image Editing Models**|Ji Guo et.al.|[2411.14681](http://arxiv.org/abs/2411.14681)|null|
 |**2024-11-21**|**Is this Generated Person Existed in Real-world? Fine-grained Detecting and Calibrating Abnormal Human-body**|Zeqing Wang et.al.|[2411.14205](http://arxiv.org/abs/2411.14205)|null|
 |**2024-11-21**|**ComfyGI: Automatic Improvement of Image Generation Workflows**|Dominik Sobania et.al.|[2411.14193](http://arxiv.org/abs/2411.14193)|null|
 |**2024-11-21**|**MMGenBench: Evaluating the Limits of LMMs from the Text-to-Image Generation Perspective**|Hailang Huang et.al.|[2411.14062](http://arxiv.org/abs/2411.14062)|**[link](https://github.com/lerogo/mmgenbench)**|
 |**2024-11-21**|**Safety Without Semantic Disruptions: Editing-free Safe Image Generation via Context-preserving Dual Latent Reconstruction**|Jordan Vice et.al.|[2411.13982](http://arxiv.org/abs/2411.13982)|null|
 |**2024-11-21**|**On the Fairness, Diversity and Reliability of Text-to-Image Generative Models**|Jordan Vice et.al.|[2411.13981](http://arxiv.org/abs/2411.13981)|null|
 |**2024-11-21**|**Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion**|Jinhong He et.al.|[2411.13961](http://arxiv.org/abs/2411.13961)|**[link](https://github.com/hejh8/joint-wavelet-and-fourier-priors-guided-diffusion)**|
-|**2024-11-21**|**iHQGAN: A Lightweight Invertible Hybrid Quantum-Classical Generative Adversarial Network for Unsupervised Image-to-Image Translation**|Xue Yang et.al.|[2411.13920](http://arxiv.org/abs/2411.13920)|null|
+|**2024-11-21**|**iHQGAN: A Lightweight Invertible Hybrid Quantum-Classical Generative Adversarial Network for Unsupervised Image-to-Image Translation**|Xue Yang et.al.|[2411.13920](http://arxiv.org/abs/2411.13920)|**[link](https://github.com/yxSMU/iHQGAN)**|
 |**2024-11-21**|**Dealing with Synthetic Data Contamination in Online Continual Learning**|Maorong Wang et.al.|[2411.13852](http://arxiv.org/abs/2411.13852)|**[link](https://github.com/maorong-wang/esrm)**|
 |**2024-11-21**|**Detecting Human Artifacts from Text-to-Image Models**|Kaihong Wang et.al.|[2411.13842](http://arxiv.org/abs/2411.13842)|**[link](https://github.com/wangkaihong/hadm)**|
 |**2024-11-21**|**GalaxyEdit: Large-Scale Image Editing Dataset with Enhanced Diffusion Adapter**|Aniruddha Bala et.al.|[2411.13794](http://arxiv.org/abs/2411.13794)|null|
