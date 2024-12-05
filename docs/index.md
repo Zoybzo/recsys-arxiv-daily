@@ -14,6 +14,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control**|Ruili Feng et.al.|[2412.03568](http://arxiv.org/abs/2412.03568)|null|
+|**2024-12-04**|**Imagine360: Immersive 360 Video Generation from Perspective Anchor**|Jing Tan et.al.|[2412.03552](http://arxiv.org/abs/2412.03552)|null|
+|**2024-12-04**|**Adaptive Personalized Over-the-Air Federated Learning with Reflecting Intelligent Surfaces**|Jiayu Mao et.al.|[2412.03514](http://arxiv.org/abs/2412.03514)|null|
+|**2024-12-04**|**A Bidirectional Siamese Recurrent Neural Network for Accurate Gait Recognition Using Body Landmarks**|Proma Hossain Progga et.al.|[2412.03498](http://arxiv.org/abs/2412.03498)|null|
+|**2024-12-04**|**AI-Driven Day-to-Day Route Choice**|Leizhen Wang et.al.|[2412.03338](http://arxiv.org/abs/2412.03338)|null|
+|**2024-12-04**|**DMP_AI: An AI-Aided K-12 System for Teaching and Learning in Diverse Schools**|Zhen-Qun Yang et.al.|[2412.03292](http://arxiv.org/abs/2412.03292)|null|
+|**2024-12-04**|**PatchDPO: Patch-level DPO for Finetuning-free Personalized Image Generation**|Qihan Huang et.al.|[2412.03177](http://arxiv.org/abs/2412.03177)|**[link](https://github.com/hqhqaq/patchdpo)**|
+|**2024-12-04**|**Automatic detection of diseases in Spanish clinical notes combining medical language models and ontologies**|Leon-Paul Schaub Torre et.al.|[2412.03176](http://arxiv.org/abs/2412.03176)|null|
+|**2024-12-04**|**ObjectFinder: Open-Vocabulary Assistive System for Interactive Object Search by Blind People**|Ruiping Liu et.al.|[2412.03118](http://arxiv.org/abs/2412.03118)|null|
+|**2024-12-04**|**A new Time-decay Radiomics Integrated Network (TRINet) for short-term breast cancer risk prediction**|Hong Hui Yeoh et.al.|[2412.03081](http://arxiv.org/abs/2412.03081)|null|
+|**2024-12-04**|**PEMF-VVTO: Point-Enhanced Video Virtual Try-on via Mask-free Paradigm**|Tianyu Chang et.al.|[2412.03021](http://arxiv.org/abs/2412.03021)|null|
+|**2024-12-04**|**CLAS: A Machine Learning Enhanced Framework for Exploring Large 3D Design Datasets**|XiuYu Zhang et.al.|[2412.02996](http://arxiv.org/abs/2412.02996)|null|
+|**2024-12-04**|**Advancing Conversational Psychotherapy: Integrating Privacy, Dual-Memory, and Domain Expertise with Large Language Models**|XiuYu Zhang et.al.|[2412.02987](http://arxiv.org/abs/2412.02987)|null|
+|**2024-12-03**|**A personalized model and optimization strategy for estimating blood glucose concentrations from sweat measurements**|Xiaoyu Yin et.al.|[2412.02870](http://arxiv.org/abs/2412.02870)|null|
 |**2024-12-03**|**Continual Learning of Personalized Generative Face Models with Experience Replay**|Annie N. Wang et.al.|[2412.02627](http://arxiv.org/abs/2412.02627)|null|
 |**2024-12-03**|**Medical Multimodal Foundation Models in Clinical Diagnosis and Treatment: Applications, Challenges, and Future Directions**|Kai Sun et.al.|[2412.02621](http://arxiv.org/abs/2412.02621)|null|
 |**2024-12-03**|**TimeWalker: Personalized Neural Space for Lifelong Head Avatars**|Dongwei Pan et.al.|[2412.02421](http://arxiv.org/abs/2412.02421)|null|
@@ -1479,6 +1493,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents**|Xinyi Mou et.al.|[2412.03563](http://arxiv.org/abs/2412.03563)|null|
+|**2024-12-04**|**SPICE: Smart Projection Interface for Cooking Enhancement**|Vera Prohaska et.al.|[2412.03551](http://arxiv.org/abs/2412.03551)|null|
+|**2024-12-04**|**Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**|Mahtab Bigverdi et.al.|[2412.03548](http://arxiv.org/abs/2412.03548)|null|
+|**2024-12-04**|**Evaluating Gender Bias Transfer between Pre-trained and Prompt-Adapted Language Models**|Natalie Mackraz et.al.|[2412.03537](http://arxiv.org/abs/2412.03537)|null|
+|**2024-12-04**|**A Review on Scientific Knowledge Extraction using Large Language Models in Biomedical Sciences**|Gabriel Lino Garcia et.al.|[2412.03531](http://arxiv.org/abs/2412.03531)|null|
+|**2024-12-04**|**FANAL -- Financial Activity News Alerting Language Modeling Framework**|Urjitkumar Patel et.al.|[2412.03527](http://arxiv.org/abs/2412.03527)|null|
+|**2024-12-04**|**You're (Not) My Type -- Can LLMs Generate Feedback of Specific Types for Introductory Programming Tasks?**|Dominic Lohr et.al.|[2412.03516](http://arxiv.org/abs/2412.03516)|null|
+|**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
+|**2024-12-04**|**From Words to Workflows: Automating Business Processes**|Laura Minkova et.al.|[2412.03446](http://arxiv.org/abs/2412.03446)|null|
+|**2024-12-04**|**Benchmarking Pretrained Attention-based Models for Real-Time Recognition in Robot-Assisted Esophagectomy**|Ronald L. P. D. de Jong et.al.|[2412.03401](http://arxiv.org/abs/2412.03401)|null|
+|**2024-12-04**|**RedStone: Curating General, Code, Math, and QA Data for Large Language Models**|Yaoyao Chang et.al.|[2412.03398](http://arxiv.org/abs/2412.03398)|null|
+|**2024-12-04**|**SGSST: Scaling Gaussian Splatting StyleTransfer**|Bruno Galerne et.al.|[2412.03371](http://arxiv.org/abs/2412.03371)|null|
+|**2024-12-04**|**WiS Platform: Enhancing Evaluation of LLM-Based Multi-Agent Systems Through Game-Based Analysis**|Chengwei Hu et.al.|[2412.03359](http://arxiv.org/abs/2412.03359)|null|
+|**2024-12-04**|**DIVE: Taming DINO for Subject-Driven Video Editing**|Yi Huang et.al.|[2412.03347](http://arxiv.org/abs/2412.03347)|null|
+|**2024-12-04**|**Improving Linguistic Diversity of Large Language Models with Possibility Exploration Fine-Tuning**|Long Mai et.al.|[2412.03343](http://arxiv.org/abs/2412.03343)|**[link](https://github.com/mailong25/peft_diversity)**|
+|**2024-12-04**|**AI-Driven Day-to-Day Route Choice**|Leizhen Wang et.al.|[2412.03338](http://arxiv.org/abs/2412.03338)|null|
+|**2024-12-04**|**Comparison between tensor methods and neural networks in electronic structure calculations**|Mathias Dus et.al.|[2412.03319](http://arxiv.org/abs/2412.03319)|null|
+|**2024-12-04**|**AntLM: Bridging Causal and Masked Language Models**|Xinru Yu et.al.|[2412.03275](http://arxiv.org/abs/2412.03275)|null|
+|**2024-12-04**|**Intent-driven In-context Learning for Few-shot Dialogue State Tracking**|Zihao Yi et.al.|[2412.03270](http://arxiv.org/abs/2412.03270)|null|
+|**2024-12-04**|**RFSR: Improving ISR Diffusion Models via Reward Feedback Learning**|Xiaopeng Sun et.al.|[2412.03268](http://arxiv.org/abs/2412.03268)|**[link](https://github.com/sxpro/rfsr)**|
 |**2024-12-03**|**T-REG: Preference Optimization with Token-Level Reward Regularization**|Wenxuan Zhou et.al.|[2412.02685](http://arxiv.org/abs/2412.02685)|null|
 |**2024-12-03**|**AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction**|Lingteng Qiu et.al.|[2412.02684](http://arxiv.org/abs/2412.02684)|null|
 |**2024-12-03**|**Mind the Gap: Examining the Self-Improvement Capabilities of Large Language Models**|Yuda Song et.al.|[2412.02674](http://arxiv.org/abs/2412.02674)|null|
@@ -3384,9 +3418,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation**|Zehuan Huang et.al.|[2412.03558](http://arxiv.org/abs/2412.03558)|null|
+|**2024-12-04**|**Distillation of Diffusion Features for Semantic Correspondence**|Frank Fundel et.al.|[2412.03512](http://arxiv.org/abs/2412.03512)|null|
+|**2024-12-04**|**Flow Matching with General Discrete Paths: A Kinetic-Optimal Perspective**|Neta Shaul et.al.|[2412.03487](http://arxiv.org/abs/2412.03487)|null|
+|**2024-12-04**|**Skel3D: Skeleton Guided Novel View Synthesis**|Aron Fóthi et.al.|[2412.03407](http://arxiv.org/abs/2412.03407)|null|
+|**2024-12-04**|**Implicit Priors Editing in Stable Diffusion via Targeted Token Adjustment**|Feng He et.al.|[2412.03400](http://arxiv.org/abs/2412.03400)|null|
+|**2024-12-04**|**DIVE: Taming DINO for Subject-Driven Video Editing**|Yi Huang et.al.|[2412.03347](http://arxiv.org/abs/2412.03347)|null|
+|**2024-12-04**|**Integrating Generative AI into Art Therapy: A Technical Showcase**|Yannis Valentin Schmutz et.al.|[2412.03287](http://arxiv.org/abs/2412.03287)|**[link](https://github.com/bfh-ami/sds24)**|
+|**2024-12-04**|**DynamicControl: Adaptive Condition Selection for Improved Text-to-Image Generation**|Qingdong He et.al.|[2412.03255](http://arxiv.org/abs/2412.03255)|null|
+|**2024-12-04**|**Towards Understanding and Quantifying Uncertainty for Text-to-Image Generation**|Gianni Franchi et.al.|[2412.03178](http://arxiv.org/abs/2412.03178)|null|
+|**2024-12-04**|**PatchDPO: Patch-level DPO for Finetuning-free Personalized Image Generation**|Qihan Huang et.al.|[2412.03177](http://arxiv.org/abs/2412.03177)|**[link](https://github.com/hqhqaq/patchdpo)**|
+|**2024-12-04**|**Generalized Diffusion Model with Adjusted Offset Noise**|Takuro Kutsuna et.al.|[2412.03134](http://arxiv.org/abs/2412.03134)|null|
+|**2024-12-04**|**TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation**|Liao Qu et.al.|[2412.03069](http://arxiv.org/abs/2412.03069)|null|
+|**2024-12-04**|**MRNet: Multifaceted Resilient Networks for Medical Image-to-Image Translation**|Hyojeong Lee et.al.|[2412.03039](http://arxiv.org/abs/2412.03039)|null|
+|**2024-12-04**|**Partially Conditioned Patch Parallelism for Accelerated Diffusion Model Inference**|XiuYu Zhang et.al.|[2412.02962](http://arxiv.org/abs/2412.02962)|null|
+|**2024-12-04**|**Semantic Segmentation Prior for Diffusion-Based Real-World Super-Resolution**|Jiahua Xiao et.al.|[2412.02960](http://arxiv.org/abs/2412.02960)|null|
+|**2024-12-04**|**Panoptic Diffusion Models: co-generation of images and segmentation maps**|Yinghan Long et.al.|[2412.02929](http://arxiv.org/abs/2412.02929)|null|
+|**2024-12-03**|**ShapeWords: Guiding Text-to-Image Synthesis with 3D Shape-Aware Prompts**|Dmitry Petrov et.al.|[2412.02912](http://arxiv.org/abs/2412.02912)|null|
 |**2024-12-03**|**Taming Scalable Visual Tokenizer for Autoregressive Image Generation**|Fengyuan Shi et.al.|[2412.02692](http://arxiv.org/abs/2412.02692)|null|
 |**2024-12-03**|**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**|Kefan Chen et.al.|[2412.02690](http://arxiv.org/abs/2412.02690)|null|
-|**2024-12-03**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687](http://arxiv.org/abs/2412.02687)|null|
+|**2024-12-04**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687](http://arxiv.org/abs/2412.02687)|null|
 |**2024-12-03**|**Sharp-It: A Multi-view to Multi-view Diffusion Model for 3D Synthesis and Manipulation**|Yiftach Edelstein et.al.|[2412.02631](http://arxiv.org/abs/2412.02631)|null|
 |**2024-12-03**|**WEM-GAN: Wavelet transform based facial expression manipulation**|Dongya Sun et.al.|[2412.02530](http://arxiv.org/abs/2412.02530)|null|
 |**2024-12-03**|**ScImage: How Good Are Multimodal Large Language Models at Scientific Text-to-Image Generation?**|Leixin Zhang et.al.|[2412.02368](http://arxiv.org/abs/2412.02368)|null|
