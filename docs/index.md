@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.06
+## Updated on 2024.12.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RecSys
@@ -3467,7 +3467,7 @@ layout: default
 |**2024-12-05**|**AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models**|Xinghui Li et.al.|[2412.04146](http://arxiv.org/abs/2412.04146)|null|
 |**2024-12-05**|**Text Change Detection in Multilingual Documents Using Image Comparison**|Doyoung Park et.al.|[2412.04137](http://arxiv.org/abs/2412.04137)|null|
 |**2024-12-05**|**BodyMetric: Evaluating the Realism of HumanBodies in Text-to-Image Generation**|Nefeli Andreou et.al.|[2412.04086](http://arxiv.org/abs/2412.04086)|null|
-|**2024-12-05**|**ZipAR: Accelerating Autoregressive Image Generation through Spatial Locality**|Yefei He et.al.|[2412.04062](http://arxiv.org/abs/2412.04062)|null|
+|**2024-12-05**|**ZipAR: Accelerating Autoregressive Image Generation through Spatial Locality**|Yefei He et.al.|[2412.04062](http://arxiv.org/abs/2412.04062)|**[link](https://github.com/ThisisBillhe/ZipAR)**|
 |**2024-12-05**|**Blind Underwater Image Restoration using Co-Operational Regressor Networks**|Ozer Can Devecioglu et.al.|[2412.03995](http://arxiv.org/abs/2412.03995)|null|
 |**2024-12-05**|**Local Curvature Smoothing with Stein's Identity for Efficient Score Matching**|Genki Osada et.al.|[2412.03962](http://arxiv.org/abs/2412.03962)|null|
 |**2024-12-05**|**A Framework For Image Synthesis Using Supervised Contrastive Learning**|Yibin Liu et.al.|[2412.03957](http://arxiv.org/abs/2412.03957)|null|
