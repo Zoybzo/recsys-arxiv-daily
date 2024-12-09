@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.08
+## Updated on 2024.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RecSys
@@ -21,7 +21,7 @@ layout: default
 |**2024-12-05**|**Physics-informed Deep Learning for Muscle Force Prediction with Unlabeled sEMG Signals**|Shuhao Ma et.al.|[2412.04213](http://arxiv.org/abs/2412.04213)|null|
 |**2024-12-05**|**AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models**|Xinghui Li et.al.|[2412.04146](http://arxiv.org/abs/2412.04146)|null|
 |**2024-12-05**|**D-LORD for Motion Stylization**|Meenakshi Gupta et.al.|[2412.04097](http://arxiv.org/abs/2412.04097)|null|
-|**2024-12-05**|**Federated Learning in Mobile Networks: A Comprehensive Case Study on Traffic Forecasting**|Nikolaos Pavlidis et.al.|[2412.04081](http://arxiv.org/abs/2412.04081)|null|
+|**2024-12-05**|**Federated Learning in Mobile Networks: A Comprehensive Case Study on Traffic Forecasting**|Nikolaos Pavlidis et.al.|[2412.04081](http://arxiv.org/abs/2412.04081)|**[link](https://github.com/vperifan/federated-time-series-forecasting)**|
 |**2024-12-05**|**Hostility Detection in UK Politics: A Dataset on Online Abuse Targeting MPs**|Mugdha Pandya et.al.|[2412.04046](http://arxiv.org/abs/2412.04046)|null|
 |**2024-12-05**|**A Model of the Sidewalk Salsa**|Olger Siebinga et.al.|[2412.04023](http://arxiv.org/abs/2412.04023)|null|
 |**2024-12-05**|**Electronic Health Records-Based Data-Driven Diabetes Knowledge Unveiling and Risk Prognosis**|Huadong Pang et.al.|[2412.03961](http://arxiv.org/abs/2412.03961)|null|
@@ -1526,7 +1526,7 @@ layout: default
 |**2024-12-05**|**Discriminative Fine-tuning of LVLMs**|Yassine Ouali et.al.|[2412.04378](http://arxiv.org/abs/2412.04378)|null|
 |**2024-12-05**|**Challenges in Trustworthy Human Evaluation of Chatbots**|Wenting Zhao et.al.|[2412.04363](http://arxiv.org/abs/2412.04363)|null|
 |**2024-12-05**|**RMD: A Simple Baseline for More General Human Motion Generation via Training-free Retrieval-Augmented Motion Diffuse**|Zhouyingcheng Liao et.al.|[2412.04343](http://arxiv.org/abs/2412.04343)|null|
-|**2024-12-05**|**Retrieval-Augmented Machine Translation with Unstructured Knowledge**|Jiaan Wang et.al.|[2412.04342](http://arxiv.org/abs/2412.04342)|null|
+|**2024-12-05**|**Retrieval-Augmented Machine Translation with Unstructured Knowledge**|Jiaan Wang et.al.|[2412.04342](http://arxiv.org/abs/2412.04342)|**[link](https://github.com/krystalan/RAGtrans)**|
 |**2024-12-05**|**Liquid: Language Models are Scalable Multi-modal Generators**|Junfeng Wu et.al.|[2412.04332](http://arxiv.org/abs/2412.04332)|null|
 |**2024-12-05**|**The Hyperfitting Phenomenon: Sharpening and Stabilizing LLMs for Open-Ended Text Generation**|Fredrik Carlsson et.al.|[2412.04318](http://arxiv.org/abs/2412.04318)|null|
 |**2024-12-05**|**FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression**|Bo Tong et.al.|[2412.04317](http://arxiv.org/abs/2412.04317)|**[link](https://github.com/codefanw/flashsloth)**|
@@ -3472,7 +3472,7 @@ layout: default
 |**2024-12-05**|**Local Curvature Smoothing with Stein's Identity for Efficient Score Matching**|Genki Osada et.al.|[2412.03962](http://arxiv.org/abs/2412.03962)|null|
 |**2024-12-05**|**A Framework For Image Synthesis Using Supervised Contrastive Learning**|Yibin Liu et.al.|[2412.03957](http://arxiv.org/abs/2412.03957)|null|
 |**2024-12-05**|**A Noise is Worth Diffusion Guidance**|Donghoon Ahn et.al.|[2412.03895](http://arxiv.org/abs/2412.03895)|null|
-|**2024-12-05**|**Safeguarding Text-to-Image Generation via Inference-Time Prompt-Noise Optimization**|Jiangweizhi Peng et.al.|[2412.03876](http://arxiv.org/abs/2412.03876)|null|
+|**2024-12-05**|**Safeguarding Text-to-Image Generation via Inference-Time Prompt-Noise Optimization**|Jiangweizhi Peng et.al.|[2412.03876](http://arxiv.org/abs/2412.03876)|**[link](https://github.com/JonP07/Diffusion-PNO)**|
 |**2024-12-05**|**CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative Layout-to-Image Generation**|Hui Zhang et.al.|[2412.03859](http://arxiv.org/abs/2412.03859)|null|
 |**2024-12-05**|**CLIP-FSAC++: Few-Shot Anomaly Classification with Anomaly Descriptor Based on CLIP**|Zuo Zuo et.al.|[2412.03829](http://arxiv.org/abs/2412.03829)|null|
 |**2024-12-04**|**Multi-view Image Diffusion via Coordinate Noise and Fourier Attention**|Justin Theiss et.al.|[2412.03756](http://arxiv.org/abs/2412.03756)|null|
