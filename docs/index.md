@@ -14,6 +14,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**Constructing projective modules**|Aravind Asok et.al.|[2412.05250](http://arxiv.org/abs/2412.05250)|null|
+|**2024-12-06**|**AI's assigned gender affects human-AI cooperation**|Sepideh Bazazi et.al.|[2412.05214](http://arxiv.org/abs/2412.05214)|null|
+|**2024-12-06**|**LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation**|Donald Shenaj et.al.|[2412.05148](http://arxiv.org/abs/2412.05148)|null|
+|**2024-12-06**|**Improving analytical color and texture similarity estimation methods for dataset-agnostic person reidentification**|Nikita Gabdullin et.al.|[2412.05076](http://arxiv.org/abs/2412.05076)|null|
+|**2024-12-06**|**Information Flows for Athletes' Health and Performance Data**|Brad Stenger et.al.|[2412.05055](http://arxiv.org/abs/2412.05055)|null|
+|**2024-12-06**|**ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration**|Chi-Wei Hsiao et.al.|[2412.05043](http://arxiv.org/abs/2412.05043)|null|
+|**2024-12-06**|**Prompt Transfer for Dual-Aspect Cross Domain Cognitive Diagnosis**|Fei Liu et.al.|[2412.05004](http://arxiv.org/abs/2412.05004)|**[link](https://github.com/publisher-promptcd/promptcd)**|
+|**2024-12-06**|**A Federated Approach to Few-Shot Hate Speech Detection for Marginalized Communities**|Haotian Ye et.al.|[2412.04942](http://arxiv.org/abs/2412.04942)|null|
+|**2024-12-06**|**Large Language Models for Ingredient Substitution in Food Recipes using Supervised Fine-tuning and Direct Preference Optimization**|Thevin Senath et.al.|[2412.04922](http://arxiv.org/abs/2412.04922)|null|
+|**2024-12-06**|**PERCY: A Multimodal Dataset and Conversational System for Personalized and Emotionally Aware Human-Robot Interaction**|Mohammed Althubyani et.al.|[2412.04908](http://arxiv.org/abs/2412.04908)|null|
+|**2024-12-06**|**SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models**|Zilan Wang et.al.|[2412.04852](http://arxiv.org/abs/2412.04852)|null|
+|**2024-12-06**|**Employee Well-being in the Age of AI: Perceptions, Concerns, Behaviors, and Outcomes**|Soheila Sadeghi et.al.|[2412.04796](http://arxiv.org/abs/2412.04796)|null|
+|**2024-12-06**|**Multi-class heart disease Detection, Classification, and Prediction using Machine Learning Models**|Mahfuzul Haque et.al.|[2412.04792](http://arxiv.org/abs/2412.04792)|null|
+|**2024-12-06**|**KNN-MMD: Cross Domain Wi-Fi Sensing Based on Local Distribution Alignment**|Zijian Zhao et.al.|[2412.04783](http://arxiv.org/abs/2412.04783)|null|
+|**2024-12-06**|**Low-Rank Expectile Representations of a Data Matrix, with Application to Diurnal Heart Rates**|Shuge Ouyang et.al.|[2412.04765](http://arxiv.org/abs/2412.04765)|**[link](https://github.com/haytham918/low-rank-expectile)**|
+|**2024-12-06**|**Mix-Modality Person Re-Identification: A New and Practical Paradigm**|Wei Liu et.al.|[2412.04719](http://arxiv.org/abs/2412.04719)|null|
+|**2024-12-05**|**Show, Don't Tell: Uncovering Implicit Character Portrayal using LLMs**|Brandon Jaipersaud et.al.|[2412.04576](http://arxiv.org/abs/2412.04576)|null|
 |**2024-12-05**|**UnZipLoRA: Separating Content and Style from a Single Image**|Chang Liu et.al.|[2412.04465](http://arxiv.org/abs/2412.04465)|null|
 |**2024-12-05**|**EgoPlan-Bench2: A Benchmark for Multimodal Large Language Model Planning in Real-World Scenarios**|Lu Qiu et.al.|[2412.04447](http://arxiv.org/abs/2412.04447)|null|
 |**2024-12-05**|**PBDyG: Position Based Dynamic Gaussians for Motion-Aware Clothed Human Avatars**|Shota Sasaki et.al.|[2412.04433](http://arxiv.org/abs/2412.04433)|null|
@@ -1513,6 +1530,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**SimC3D: A Simple Contrastive 3D Pretraining Framework Using RGB Images**|Jiahua Dong et.al.|[2412.05274](http://arxiv.org/abs/2412.05274)|null|
+|**2024-12-06**|**Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling**|Zhe Chen et.al.|[2412.05271](http://arxiv.org/abs/2412.05271)|null|
+|**2024-12-06**|**APOLLO: SGD-like Memory, AdamW-level Performance**|Hanqing Zhu et.al.|[2412.05270](http://arxiv.org/abs/2412.05270)|null|
+|**2024-12-06**|**Enhancing FKG.in: automating Indian food composition analysis**|Saransh Kumar Gupta et.al.|[2412.05248](http://arxiv.org/abs/2412.05248)|null|
+|**2024-12-06**|**CompCap: Improving Multimodal Large Language Models with Composite Captions**|Xiaohui Chen et.al.|[2412.05243](http://arxiv.org/abs/2412.05243)|null|
+|**2024-12-06**|**MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale**|Jarvis Guo et.al.|[2412.05237](http://arxiv.org/abs/2412.05237)|null|
+|**2024-12-06**|**LIAR: Leveraging Alignment (Best-of-N) to Jailbreak LLMs in Seconds**|James Beetham et.al.|[2412.05232](http://arxiv.org/abs/2412.05232)|null|
+|**2024-12-06**|**BEExformer: A Fast Inferencing Transformer Architecture via Binarization with Multiple Early Exits**|Wazib Ansar et.al.|[2412.05225](http://arxiv.org/abs/2412.05225)|null|
+|**2024-12-06**|**100% Hallucination Elimination Using Acurai**|Michael C. Wood et.al.|[2412.05223](http://arxiv.org/abs/2412.05223)|null|
+|**2024-12-06**|**Evaluating and Aligning CodeLLMs on Human Preference**|Jian Yang et.al.|[2412.05210](http://arxiv.org/abs/2412.05210)|null|
+|**2024-12-06**|**A Survey of Large Language Model-Based Generative AI for Text-to-SQL: Benchmarks, Applications, Use Cases, and Challenges**|Aditi Singh et.al.|[2412.05208](http://arxiv.org/abs/2412.05208)|null|
+|**2024-12-06**|**ConQRet: Benchmarking Fine-Grained Evaluation of Retrieval Augmented Argumentation with LLM Judges**|Kaustubh D. Dhole et.al.|[2412.05206](http://arxiv.org/abs/2412.05206)|**[link](https://github.com/emory-irlab/conqret-rag)**|
+|**2024-12-06**|**Are Frontier Large Language Models Suitable for Q&A in Science Centres?**|Jacob Watson et.al.|[2412.05200](http://arxiv.org/abs/2412.05200)|null|
+|**2024-12-06**|**SurgBox: Agent-Driven Operating Room Sandbox with Surgery Copilot**|Jinlin Wu et.al.|[2412.05187](http://arxiv.org/abs/2412.05187)|**[link](https://github.com/franciszchen/surgbox)**|
+|**2024-12-06**|**LinVT: Empower Your Image-level Large Language Model to Understand Videos**|Lishuai Gao et.al.|[2412.05185](http://arxiv.org/abs/2412.05185)|**[link](https://github.com/gls0425/linvt)**|
+|**2024-12-06**|**QueEn: A Large Language Model for Quechua-English Translation**|Junhao Chen et.al.|[2412.05184](http://arxiv.org/abs/2412.05184)|null|
+|**2024-12-06**|**A text-to-tabular approach to generate synthetic patient data using LLMs**|Margaux Tornqvist et.al.|[2412.05153](http://arxiv.org/abs/2412.05153)|null|
+|**2024-12-06**|**BIAS: A Body-based Interpretable Active Speaker Approach**|Tiago Roxo et.al.|[2412.05150](http://arxiv.org/abs/2412.05150)|**[link](https://github.com/tiago-roxo/bias)**|
+|**2024-12-06**|**Findings of the Second BabyLM Challenge: Sample-Efficient Pretraining on Developmentally Plausible Corpora**|Michael Y. Hu et.al.|[2412.05149](http://arxiv.org/abs/2412.05149)|null|
+|**2024-12-06**|**LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation**|Donald Shenaj et.al.|[2412.05148](http://arxiv.org/abs/2412.05148)|null|
 |**2024-12-05**|**Four-Plane Factorized Video Autoencoders**|Mohammed Suhail et.al.|[2412.04452](http://arxiv.org/abs/2412.04452)|null|
 |**2024-12-05**|**p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay**|Jun Zhang et.al.|[2412.04449](http://arxiv.org/abs/2412.04449)|**[link](https://github.com/mcg-nju/p-mod)**|
 |**2024-12-05**|**EgoPlan-Bench2: A Benchmark for Multimodal Large Language Model Planning in Real-World Scenarios**|Lu Qiu et.al.|[2412.04447](http://arxiv.org/abs/2412.04447)|null|
@@ -3458,6 +3495,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation**|Donald Shenaj et.al.|[2412.05148](http://arxiv.org/abs/2412.05148)|null|
+|**2024-12-06**|**The Silent Prompt: Initial Noise as Implicit Guidance for Goal-Driven Image Generation**|Ruoyu Wang et.al.|[2412.05101](http://arxiv.org/abs/2412.05101)|null|
+|**2024-12-06**|**SLayR: Scene Layout Generation with Rectified Flow**|Cameron Braunstein et.al.|[2412.05003](http://arxiv.org/abs/2412.05003)|null|
+|**2024-12-06**|**Noise Matters: Diffusion Model-based Urban Mobility Generation with Collaborative Noise Priors**|Yuheng Zhang et.al.|[2412.05000](http://arxiv.org/abs/2412.05000)|null|
+|**2024-12-06**|**Continuous Video Process: Modeling Videos as Continuous Multi-Dimensional Processes for Video Prediction**|Gaurav Shrivastava et.al.|[2412.04929](http://arxiv.org/abs/2412.04929)|null|
+|**2024-12-06**|**SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models**|Zilan Wang et.al.|[2412.04852](http://arxiv.org/abs/2412.04852)|null|
+|**2024-12-06**|**Customized Generation Reimagined: Fidelity and Editability Harmonized**|Jian Jin et.al.|[2412.04831](http://arxiv.org/abs/2412.04831)|null|
+|**2024-12-06**|**DAug: Diffusion-based Channel Augmentation for Radiology Image Retrieval and Classification**|Ying Jin et.al.|[2412.04828](http://arxiv.org/abs/2412.04828)|null|
+|**2024-12-06**|**Parametric-ControlNet: Multimodal Control in Foundation Models for Precise Engineering Design Synthesis**|Rui Zhou et.al.|[2412.04707](http://arxiv.org/abs/2412.04707)|null|
+|**2024-12-06**|**Unsupervised Segmentation by Diffusing, Walking and Cutting**|Daniela Ivanova et.al.|[2412.04678](http://arxiv.org/abs/2412.04678)|null|
+|**2024-12-05**|**Hidden in the Noise: Two-Stage Robust Watermarking for Images**|Kasra Arabi et.al.|[2412.04653](http://arxiv.org/abs/2412.04653)|null|
+|**2024-12-05**|**One Communication Round is All It Needs for Federated Fine-Tuning Foundation Models**|Ziyao Wang et.al.|[2412.04650](http://arxiv.org/abs/2412.04650)|null|
 |**2024-12-05**|**LayerFusion: Harmonized Multi-Layer Text-to-Image Generation with Generative Priors**|Yusuf Dalva et.al.|[2412.04460](http://arxiv.org/abs/2412.04460)|null|
 |**2024-12-05**|**Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis**|Jian Han et.al.|[2412.04431](http://arxiv.org/abs/2412.04431)|**[link](https://github.com/FoundationVision/Infinity)**|
 |**2024-12-05**|**The Hyperfitting Phenomenon: Sharpening and Stabilizing LLMs for Open-Ended Text Generation**|Fredrik Carlsson et.al.|[2412.04318](http://arxiv.org/abs/2412.04318)|null|
