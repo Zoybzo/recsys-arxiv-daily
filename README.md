@@ -19,6 +19,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**LoRACLR: Contrastive Adaptation for Customization of Diffusion Models**|Enis Simsar et.al.|[2412.09622](http://arxiv.org/abs/2412.09622)|null|
+|**2024-12-12**|**EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via Multimodal LLM**|Zhuofan Zong et.al.|[2412.09618](http://arxiv.org/abs/2412.09618)|null|
+|**2024-12-12**|**Gaze-LLE: Gaze Target Estimation via Large-Scale Learned Encoders**|Fiona Ryan et.al.|[2412.09586](http://arxiv.org/abs/2412.09586)|**[link](https://github.com/fkryan/gazelle)**|
+|**2024-12-12**|**Assessing the Role of Volumetric Brain Information in Multiple Sclerosis Progression**|Andy A. Shen et.al.|[2412.09497](http://arxiv.org/abs/2412.09497)|null|
+|**2024-12-12**|**UFO: Enhancing Diffusion-Based Video Generation with a Uniform Frame Organizer**|Delong Liu et.al.|[2412.09389](http://arxiv.org/abs/2412.09389)|**[link](https://github.com/delong-liu-bupt/ufo)**|
+|**2024-12-12**|**A Systematic Review of Knowledge Tracing and Large Language Models in Education: Opportunities, Issues, and Future Research**|Yongwan Cho et.al.|[2412.09248](http://arxiv.org/abs/2412.09248)|null|
+|**2024-12-12**|**DASK: Distribution Rehearsing via Adaptive Style Kernel Learning for Exemplar-Free Lifelong Person Re-Identification**|Kunlun Xu et.al.|[2412.09224](http://arxiv.org/abs/2412.09224)|null|
+|**2024-12-12**|**CSSDH: An Ontology for Social Determinants of Health to Operational Continuity of Care Data Interoperability**|Subhashis Das et.al.|[2412.09223](http://arxiv.org/abs/2412.09223)|null|
+|**2024-12-12**|**Pinpoint Counterfactuals: Reducing social bias in foundation models via localized counterfactual generation**|Kirill Sirotkin et.al.|[2412.09160](http://arxiv.org/abs/2412.09160)|null|
+|**2024-12-12**|**Motif Guided Graph Transformer with Combinatorial Skeleton Prototype Learning for Skeleton-Based Person Re-Identification**|Haocong Rao et.al.|[2412.09044](http://arxiv.org/abs/2412.09044)|**[link](https://github.com/kali-hac/mocos)**|
+|**2024-12-12**|**Dynamic prediction of an event using multiple longitudinal markers: a model averaging approach**|Reza Hashemi et.al.|[2412.08857](http://arxiv.org/abs/2412.08857)|null|
+|**2024-12-12**|**MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation**|Zheyuan Zhang et.al.|[2412.08847](http://arxiv.org/abs/2412.08847)|null|
+|**2024-12-11**|**Test-Time Alignment via Hypothesis Reweighting**|Yoonho Lee et.al.|[2412.08812](http://arxiv.org/abs/2412.08812)|null|
+|**2024-12-11**|**Data Analysis on Speeding Behavior: The Impact of Auditory Warnings and Demographic Factors**|Christian Bank Lauridsen et.al.|[2412.08745](http://arxiv.org/abs/2412.08745)|**[link](https://github.com/2rius/safer-driving)**|
+|**2024-12-11**|**Emotional Vietnamese Speech-Based Depression Diagnosis Using Dynamic Attention Mechanism**|Quang-Anh N. D. et.al.|[2412.08683](http://arxiv.org/abs/2412.08683)|**[link](https://github.com/fiyud/Emotional-Vietnamese-Speech-Based-Depression-Diagnosis-Using-Dynamic-Attention-Mechanism)**|
 |**2024-12-11**|**BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation**|Shengze Wang et.al.|[2412.08640](http://arxiv.org/abs/2412.08640)|null|
 |**2024-12-11**|**Image Retrieval Methods in the Dissimilarity Space**|Madhu Kiran et.al.|[2412.08618](http://arxiv.org/abs/2412.08618)|null|
 |**2024-12-11**|**Preference Discerning with LLM-Enhanced Generative Retrieval**|Fabian Paischer et.al.|[2412.08604](http://arxiv.org/abs/2412.08604)|null|
@@ -1591,6 +1606,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation**|Weiqi Li et.al.|[2412.09623](http://arxiv.org/abs/2412.09623)|null|
+|**2024-12-12**|**EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via Multimodal LLM**|Zhuofan Zong et.al.|[2412.09618](http://arxiv.org/abs/2412.09618)|null|
+|**2024-12-12**|**Olympus: A Universal Task Router for Computer Vision Tasks**|Yuanze Lin et.al.|[2412.09612](http://arxiv.org/abs/2412.09612)|null|
+|**2024-12-12**|**SynerGen-VL: Towards Synergistic Image Understanding and Generation with Vision Experts and Token Folding**|Hao Li et.al.|[2412.09604](http://arxiv.org/abs/2412.09604)|null|
+|**2024-12-12**|**Do Multimodal Large Language Models See Like Humans?**|Jiaying Lin et.al.|[2412.09603](http://arxiv.org/abs/2412.09603)|null|
+|**2024-12-12**|**TimeRefine: Temporal Grounding with Time Refining Video LLM**|Xizi Wang et.al.|[2412.09601](http://arxiv.org/abs/2412.09601)|null|
+|**2024-12-12**|**InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions**|Pan Zhang et.al.|[2412.09596](http://arxiv.org/abs/2412.09596)|**[link](https://github.com/internlm/internlm-xcomposer)**|
+|**2024-12-12**|**OpenNER 1.0: Standardized Open-Access Named Entity Recognition Datasets in 50+ Languages**|Chester Palen-Michel et.al.|[2412.09587](http://arxiv.org/abs/2412.09587)|null|
+|**2024-12-12**|**OLA-VLM: Elevating Visual Perception in Multimodal LLMs with Auxiliary Embedding Distillation**|Jitesh Jain et.al.|[2412.09585](http://arxiv.org/abs/2412.09585)|**[link](https://github.com/shi-labs/ola-vlm)**|
+|**2024-12-12**|**Neptune: The Long Orbit to Benchmarking Long Video Understanding**|Arsha Nagrani et.al.|[2412.09582](http://arxiv.org/abs/2412.09582)|**[link](https://github.com/google-deepmind/neptune)**|
+|**2024-12-12**|**DiverseAgentEntropy: Quantifying Black-Box LLM Uncertainty through Diverse Perspectives and Multi-Agent Interaction**|Yu Feng et.al.|[2412.09572](http://arxiv.org/abs/2412.09572)|null|
+|**2024-12-12**|**JuStRank: Benchmarking LLM Judges for System Ranking**|Ariel Gera et.al.|[2412.09569](http://arxiv.org/abs/2412.09569)|null|
+|**2024-12-12**|**Obfuscated Activations Bypass LLM Latent-Space Defenses**|Luke Bailey et.al.|[2412.09565](http://arxiv.org/abs/2412.09565)|null|
+|**2024-12-12**|**Does Representation Matter? Exploring Intermediate Layers in Large Language Models**|Oscar Skean et.al.|[2412.09563](http://arxiv.org/abs/2412.09563)|null|
+|**2024-12-12**|**Foundational Large Language Models for Materials Research**|Vaibhav Mishra et.al.|[2412.09560](http://arxiv.org/abs/2412.09560)|null|
+|**2024-12-12**|**Exemplar Masking for Multimodal Incremental Learning**|Yi-Lun Lee et.al.|[2412.09549](http://arxiv.org/abs/2412.09549)|**[link](https://github.com/yilunlee/exemplar_masking_mcil)**|
+|**2024-12-12**|**Can Modern LLMs Act as Agent Cores in Radiology~Environments?**|Qiaoyu Zheng et.al.|[2412.09529](http://arxiv.org/abs/2412.09529)|null|
+|**2024-12-12**|**Vision Transformers for Efficient Indoor Pathloss Radio Map Prediction**|Edvard Ghukasyan et.al.|[2412.09507](http://arxiv.org/abs/2412.09507)|null|
+|**2024-12-12**|**Lyra: An Efficient and Speech-Centric Framework for Omni-Cognition**|Zhisheng Zhong et.al.|[2412.09501](http://arxiv.org/abs/2412.09501)|null|
+|**2024-12-12**|**The Impact of Copyrighted Material on Large Language Models: A Norwegian Perspective**|Javier de la Rosa et.al.|[2412.09460](http://arxiv.org/abs/2412.09460)|null|
 |**2024-12-11**|**GPD-1: Generative Pre-training for Driving**|Zixun Xie et.al.|[2412.08643](http://arxiv.org/abs/2412.08643)|**[link](https://github.com/wzzheng/gpd)**|
 |**2024-12-11**|**Generative Semantic Communication: Architectures, Technologies, and Applications**|Jinke Ren et.al.|[2412.08642](http://arxiv.org/abs/2412.08642)|null|
 |**2024-12-11**|**Fast Prompt Alignment for Text-to-Image Generation**|Khalil Mrini et.al.|[2412.08639](http://arxiv.org/abs/2412.08639)|**[link](https://github.com/tiktok/fast_prompt_alignment)**|
@@ -3618,6 +3653,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**Illusion3D: 3D Multiview Illusion with 2D Diffusion Priors**|Yue Feng et.al.|[2412.09625](http://arxiv.org/abs/2412.09625)|null|
+|**2024-12-12**|**LoRACLR: Contrastive Adaptation for Customization of Diffusion Models**|Enis Simsar et.al.|[2412.09622](http://arxiv.org/abs/2412.09622)|null|
+|**2024-12-12**|**SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training**|Dongting Hu et.al.|[2412.09619](http://arxiv.org/abs/2412.09619)|null|
+|**2024-12-12**|**EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via Multimodal LLM**|Zhuofan Zong et.al.|[2412.09618](http://arxiv.org/abs/2412.09618)|null|
+|**2024-12-12**|**Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge Graph-Based RAG**|Kavana Venkatesh et.al.|[2412.09614](http://arxiv.org/abs/2412.09614)|null|
+|**2024-12-12**|**FluxSpace: Disentangled Semantic Editing in Rectified Flow Transformers**|Yusuf Dalva et.al.|[2412.09611](http://arxiv.org/abs/2412.09611)|null|
+|**2024-12-12**|**Spectral Image Tokenizer**|Carlos Esteves et.al.|[2412.09607](http://arxiv.org/abs/2412.09607)|null|
+|**2024-12-12**|**Are Conditional Latent Diffusion Models Effective for Image Restoration?**|Yunchen Yuan et.al.|[2412.09324](http://arxiv.org/abs/2412.09324)|null|
+|**2024-12-12**|**RAD: Region-Aware Diffusion Models for Image Inpainting**|Sora Kim et.al.|[2412.09191](http://arxiv.org/abs/2412.09191)|null|
+|**2024-12-12**|**DECOR:Decomposition and Projection of Text Embeddings for Text-to-Image Customization**|Geonhui Jang et.al.|[2412.09169](http://arxiv.org/abs/2412.09169)|null|
+|**2024-12-12**|**LVMark: Robust Watermark for latent video diffusion models**|MinHyuk Jang et.al.|[2412.09122](http://arxiv.org/abs/2412.09122)|null|
+|**2024-12-12**|**Go With the Flow: Fast Diffusion for Gaussian Mixture Models**|George Rapakoulias et.al.|[2412.09059](http://arxiv.org/abs/2412.09059)|null|
+|**2024-12-12**|**ViUniT: Visual Unit Tests for More Robust Visual Programming**|Artemis Panagopoulou et.al.|[2412.08859](http://arxiv.org/abs/2412.08859)|null|
+|**2024-12-11**|**$\texttt{UFig v1}$ : The ultra-fast image generator**|Silvan Fischbacher et.al.|[2412.08716](http://arxiv.org/abs/2412.08716)|null|
 |**2024-12-11**|**ObjectMate: A Recurrence Prior for Object Insertion and Subject-Driven Generation**|Daniel Winter et.al.|[2412.08645](http://arxiv.org/abs/2412.08645)|null|
 |**2024-12-11**|**Fast Prompt Alignment for Text-to-Image Generation**|Khalil Mrini et.al.|[2412.08639](http://arxiv.org/abs/2412.08639)|**[link](https://github.com/tiktok/fast_prompt_alignment)**|
 |**2024-12-11**|**Multimodal Latent Language Modeling with Next-Token Diffusion**|Yutao Sun et.al.|[2412.08635](http://arxiv.org/abs/2412.08635)|null|
