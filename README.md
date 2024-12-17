@@ -19,6 +19,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**The lack of asymmetry of the Maxwell centroids, and of ocular dominance, in persons with dyslexia**|Albert Le Floch et.al.|[2412.12053](http://arxiv.org/abs/2412.12053)|null|
+|**2024-12-16**|**How Private are Language Models in Abstractive Summarization?**|Anthony Hughes et.al.|[2412.12040](http://arxiv.org/abs/2412.12040)|null|
+|**2024-12-16**|**Deep-learning-based identification of individual motion characteristics from upper-limb trajectories towards disorder stage evaluation**|Tim Sziburis et.al.|[2412.12016](http://arxiv.org/abs/2412.12016)|null|
+|**2024-12-16**|**Advancing Comprehensive Aesthetic Insight with Multi-Scale Text-Guided Self-Supervised Learning**|Yuti Liu et.al.|[2412.11952](http://arxiv.org/abs/2412.11952)|null|
+|**2024-12-16**|**Learning Human-Aware Robot Policies for Adaptive Assistance**|Jason Qin et.al.|[2412.11913](http://arxiv.org/abs/2412.11913)|null|
+|**2024-12-16**|**Uncovering Student Engagement Patterns in Moodle with Interpretable Machine Learning**|Laura J. Johnston et.al.|[2412.11826](http://arxiv.org/abs/2412.11826)|null|
+|**2024-12-16**|**Personalized LLM for Generating Customized Responses to the Same Query from Different Users**|Hang Zeng et.al.|[2412.11736](http://arxiv.org/abs/2412.11736)|**[link](https://github.com/nidryen-zh/questionerawareresponder)**|
+|**2024-12-16**|**Transferable Adversarial Face Attack with Text Controlled Attribute**|Wenyun Li et.al.|[2412.11735](http://arxiv.org/abs/2412.11735)|null|
+|**2024-12-16**|**UA-PDFL: A Personalized Approach for Decentralized Federated Learning**|Hangyu Zhu et.al.|[2412.11674](http://arxiv.org/abs/2412.11674)|null|
+|**2024-12-16**|**Private Yet Social: How LLM Chatbots Support and Challenge Eating Disorder Recovery**|Ryuhaerang Choi et.al.|[2412.11656](http://arxiv.org/abs/2412.11656)|null|
+|**2024-12-16**|**StrandHead: Text to Strand-Disentangled 3D Head Avatars Using Hair Geometric Priors**|Xiaokun Sun et.al.|[2412.11586](http://arxiv.org/abs/2412.11586)|**[link](https://github.com/XiaokunSun/StrandHead)**|
+|**2024-12-16**|**Enhancing Healthcare Recommendation Systems with a Multimodal LLMs-based MOE Architecture**|Jingyu Xu et.al.|[2412.11557](http://arxiv.org/abs/2412.11557)|null|
+|**2024-12-16**|**IGR: Improving Diffusion Model for Garment Restoration from Person Image**|Le Shen et.al.|[2412.11513](http://arxiv.org/abs/2412.11513)|null|
+|**2024-12-16**|**Noise-Resilient Homomorphic Encryption: A Framework for Secure Data Processing in Health care Domain**|B. Shuriya et.al.|[2412.11474](http://arxiv.org/abs/2412.11474)|null|
+|**2024-12-16**|**Nearly Zero-Cost Protection Against Mimicry by Personalized Diffusion Models**|Namhyuk Ahn et.al.|[2412.11423](http://arxiv.org/abs/2412.11423)|null|
+|**2024-12-15**|**Spatial Cross-Recurrence Quantification Analysis for Multi-Platform Contact Tracing and Epidemiology Research**|K. J. Patten et.al.|[2412.11326](http://arxiv.org/abs/2412.11326)|null|
+|**2024-12-15**|**Beyond Discrete Personas: Personality Modeling Through Journal Intensive Conversations**|Sayantan Pal et.al.|[2412.11250](http://arxiv.org/abs/2412.11250)|null|
+|**2024-12-15**|**SpearBot: Leveraging Large Language Models in a Generative-Critique Framework for Spear-Phishing Email Generation**|Qinglin Qi et.al.|[2412.11109](http://arxiv.org/abs/2412.11109)|null|
+|**2024-12-15**|**GraphMoRE: Mitigating Topological Heterogeneity via Mixture of Riemannian Experts**|Zihao Guo et.al.|[2412.11085](http://arxiv.org/abs/2412.11085)|**[link](https://github.com/ringbdstack/graphmore)**|
+|**2024-12-15**|**RecSys Arena: Pair-wise Recommender System Evaluation with Large Language Models**|Zhuo Wu et.al.|[2412.11068](http://arxiv.org/abs/2412.11068)|**[link](https://github.com/anonyprojects/recsys-arena)**|
 |**2024-12-13**|**Learning Complex Non-Rigid Image Edits from Multimodal Conditioning**|Nikolai Warner et.al.|[2412.10219](http://arxiv.org/abs/2412.10219)|null|
 |**2024-12-13**|**SwiftTry: Fast and Consistent Video Virtual Try-On with Diffusion Models**|Hung Nguyen et.al.|[2412.10178](http://arxiv.org/abs/2412.10178)|null|
 |**2024-12-13**|**A Clinical Tuning Framework for Continuous Kinematic and Impedance Control of a Powered Knee-Ankle Prosthesis**|Emma Reznick et.al.|[2412.10154](http://arxiv.org/abs/2412.10154)|null|
@@ -1622,6 +1642,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|null|
+|**2024-12-16**|**Instruction-based Image Manipulation by Watching How Things Move**|Mingdeng Cao et.al.|[2412.12087](http://arxiv.org/abs/2412.12087)|null|
+|**2024-12-16**|**CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology**|Yuxuan Sun et.al.|[2412.12077](http://arxiv.org/abs/2412.12077)|null|
+|**2024-12-16**|**CG-Bench: Clue-grounded Question Answering Benchmark for Long Video Understanding**|Guo Chen et.al.|[2412.12075](http://arxiv.org/abs/2412.12075)|null|
+|**2024-12-16**|**Making FETCH! Happen: Finding Emergent Dog Whistles Through Common Habitats**|Kuleen Sasse et.al.|[2412.12072](http://arxiv.org/abs/2412.12072)|**[link](https://github.com/kuleens/fetch-dog-whistle)**|
+|**2024-12-16**|**Can LLM Prompting Serve as a Proxy for Static Analysis in Vulnerability Detection**|Ira Ceka et.al.|[2412.12039](http://arxiv.org/abs/2412.12039)|null|
+|**2024-12-16**|**LLMs for Cold-Start Cutting Plane Separator Configuration**|Connor Lawless et.al.|[2412.12038](http://arxiv.org/abs/2412.12038)|null|
+|**2024-12-16**|**FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning**|Gaojian Wang et.al.|[2412.12032](http://arxiv.org/abs/2412.12032)|null|
+|**2024-12-16**|**SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval**|Yueqian Lin et.al.|[2412.12009](http://arxiv.org/abs/2412.12009)|null|
+|**2024-12-16**|**The Open Source Advantage in Large Language Models (LLMs)**|Jiya Manchanda et.al.|[2412.12004](http://arxiv.org/abs/2412.12004)|null|
+|**2024-12-16**|**LLM-RG4: Flexible and Factual Radiology Report Generation across Diverse Input Contexts**|Zhuhao Wang et.al.|[2412.12001](http://arxiv.org/abs/2412.12001)|null|
+|**2024-12-16**|**Combining Large Language Models with Tutoring System Intelligence: A Case Study in Caregiver Homework Support**|Devika Venugopalan et.al.|[2412.11995](http://arxiv.org/abs/2412.11995)|**[link](https://github.com/devika-prog/caregiver-conversational-support-tool)**|
+|**2024-12-16**|**ExecRepoBench: Multi-level Executable Code Completion Evaluation**|Jian Yang et.al.|[2412.11990](http://arxiv.org/abs/2412.11990)|null|
+|**2024-12-16**|**SciFaultyQA: Benchmarking LLMs on Faulty Science Question Detection with a GAN-Inspired Approach to Synthetic Dataset Generation**|Debarshi Kundu et.al.|[2412.11988](http://arxiv.org/abs/2412.11988)|**[link](https://github.com/debarshikundupsu/scifaultyqa)**|
+|**2024-12-16**|**Cost-Effective Label-free Node Classification with LLMs**|Taiyan Zhang et.al.|[2412.11983](http://arxiv.org/abs/2412.11983)|null|
+|**2024-12-16**|**DARWIN 1.5: Large Language Models as Materials Science Adapted Learners**|Tong Xie et.al.|[2412.11970](http://arxiv.org/abs/2412.11970)|null|
+|**2024-12-16**|**A Digital twin for Diesel Engines: Operator-infused PINNs with Transfer Learning for Engine Health Monitoring**|Kamaljyoti Nath et.al.|[2412.11967](http://arxiv.org/abs/2412.11967)|null|
+|**2024-12-16**|**Inferring Functionality of Attention Heads from their Parameters**|Amit Elhelo et.al.|[2412.11965](http://arxiv.org/abs/2412.11965)|**[link](https://github.com/amitelhelo/maps)**|
+|**2024-12-16**|**Gramian Multimodal Representation Learning and Alignment**|Giordano Cicchetti et.al.|[2412.11959](http://arxiv.org/abs/2412.11959)|null|
+|**2024-12-16**|**Advancing Comprehensive Aesthetic Insight with Multi-Scale Text-Guided Self-Supervised Learning**|Yuti Liu et.al.|[2412.11952](http://arxiv.org/abs/2412.11952)|null|
 |**2024-12-13**|**UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**|Muhammad Uzair Khattak et.al.|[2412.10372](http://arxiv.org/abs/2412.10372)|**[link](https://github.com/mbzuai-oryx/unimed-clip)**|
 |**2024-12-13**|**Robust image classification with multi-modal large language models**|Francesco Villani et.al.|[2412.10353](http://arxiv.org/abs/2412.10353)|null|
 |**2024-12-13**|**A dual contrastive framework**|Yuan Sun et.al.|[2412.10348](http://arxiv.org/abs/2412.10348)|null|
@@ -3689,6 +3729,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Causal Diffusion Transformers for Generative Modeling**|Chaorui Deng et.al.|[2412.12095](http://arxiv.org/abs/2412.12095)|**[link](https://github.com/causalfusion/causalfusion)**|
+|**2024-12-16**|**A LoRA is Worth a Thousand Pictures**|Chenxi Liu et.al.|[2412.12048](http://arxiv.org/abs/2412.12048)|null|
+|**2024-12-16**|**Re-Attentional Controllable Video Diffusion Editing**|Yuanzhi Wang et.al.|[2412.11710](http://arxiv.org/abs/2412.11710)|**[link](https://github.com/mdswyz/reatco)**|
+|**2024-12-16**|**IDProtector: An Adversarial Noise Encoder to Protect Against ID-Preserving Image Generation**|Yiren Song et.al.|[2412.11638](http://arxiv.org/abs/2412.11638)|null|
+|**2024-12-16**|**3D $^2$ -Actor: Learning Pose-Conditioned 3D-Aware Denoiser for Realistic Gaussian Avatar Modeling**|Zichen Tang et.al.|[2412.11599](http://arxiv.org/abs/2412.11599)|**[link](https://github.com/silence-tang/gaussianactor)**|
+|**2024-12-16**|**VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis**|Zhipeng Chen et.al.|[2412.11594](http://arxiv.org/abs/2412.11594)|**[link](https://github.com/felixchan9527/versagen_official)**|
+|**2024-12-16**|**EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting**|Dong In Lee et.al.|[2412.11520](http://arxiv.org/abs/2412.11520)|null|
+|**2024-12-16**|**LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model**|Xi Wang et.al.|[2412.11519](http://arxiv.org/abs/2412.11519)|null|
+|**2024-12-16**|**FedCAR: Cross-client Adaptive Re-weighting for Generative Models in Federated Learning**|Minjun Kim et.al.|[2412.11463](http://arxiv.org/abs/2412.11463)|**[link](https://github.com/danny0628/fedcar)**|
+|**2024-12-16**|**Nearly Zero-Cost Protection Against Mimicry by Personalized Diffusion Models**|Namhyuk Ahn et.al.|[2412.11423](http://arxiv.org/abs/2412.11423)|null|
+|**2024-12-15**|**Sonicmesh: Enhancing 3D Human Mesh Reconstruction in Vision-Impaired Environments With Acoustic Signals**|Xiaoxuan Liang et.al.|[2412.11325](http://arxiv.org/abs/2412.11325)|null|
+|**2024-12-15**|**Grassmannian Geometry Meets Dynamic Mode Decomposition in DMD-GEN: A New Metric for Mode Collapse in Time Series Generative Models**|Amime Mohamed Aboussalah et.al.|[2412.11292](http://arxiv.org/abs/2412.11292)|null|
+|**2024-12-15**|**Plug-and-Play Priors as a Score-Based Method**|Chicago Y. Park et.al.|[2412.11108](http://arxiv.org/abs/2412.11108)|**[link](https://github.com/wustl-cig/score_pnp)**|
+|**2024-12-14**|**SoftVQ-VAE: Efficient 1-Dimensional Continuous Tokenizer**|Hao Chen et.al.|[2412.10958](http://arxiv.org/abs/2412.10958)|null|
+|**2024-12-14**|**Progressive Compression with Universally Quantized Diffusion Models**|Yibo Yang et.al.|[2412.10935](http://arxiv.org/abs/2412.10935)|null|
+|**2024-12-14**|**Zigzag Diffusion Sampling: The Path to Success Is Zigzag**|Lichen Bai et.al.|[2412.10891](http://arxiv.org/abs/2412.10891)|**[link](https://github.com/xie-lab-ml/zigzag-diffusion-sampling)**|
+|**2024-12-14**|**Unbiased General Annotated Dataset Generation**|Dengyang Jiang et.al.|[2412.10831](http://arxiv.org/abs/2412.10831)|null|
+|**2024-12-14**|**GRID: Visual Layout Generation**|Cong Wan et.al.|[2412.10718](http://arxiv.org/abs/2412.10718)|**[link](https://github.com/should-ai-lab/grid)**|
+|**2024-12-13**|**EvalGIM: A Library for Evaluating Generative Image Models**|Melissa Hall et.al.|[2412.10604](http://arxiv.org/abs/2412.10604)|**[link](https://github.com/facebookresearch/evalgim)**|
+|**2024-12-13**|**SnapGen-V: Generating a Five-Second Video within Five Seconds on a Mobile Device**|Yushu Wu et.al.|[2412.10494](http://arxiv.org/abs/2412.10494)|null|
 |**2024-12-13**|**OP-LoRA: The Blessing of Dimensionality**|Piotr Teterwak et.al.|[2412.10362](http://arxiv.org/abs/2412.10362)|null|
 |**2024-12-13**|**Simple Guidance Mechanisms for Discrete Diffusion Models**|Yair Schiff et.al.|[2412.10193](http://arxiv.org/abs/2412.10193)|**[link](https://github.com/kuleshov-group/discrete-diffusion-guidance)**|
 |**2024-12-13**|**The Art of Deception: Color Visual Illusions and Diffusion Models**|Alex Gomez-Villa et.al.|[2412.10122](http://arxiv.org/abs/2412.10122)|null|
