@@ -19,7 +19,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-18**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
+|**2024-12-19**|**Knowing Where to Focus: Attention-Guided Alignment for Text-based Person Search**|Lei Tan et.al.|[2412.15106](http://arxiv.org/abs/2412.15106)|null|
+|**2024-12-19**|**ScamChatBot: An End-to-End Analysis of Fake Account Recovery on Social Media via Chatbots**|Bhupendra Acharya et.al.|[2412.15072](http://arxiv.org/abs/2412.15072)|null|
+|**2024-12-19**|**Autonomous Navigation in Dynamic Human Environments with an Embedded 2D LiDAR-based Person Tracker**|Davide Plozza et.al.|[2412.15000](http://arxiv.org/abs/2412.15000)|null|
+|**2024-12-19**|**MagicNaming: Consistent Identity Generation by Finding a "Name Space" in T2I Diffusion Models**|Jing Zhao et.al.|[2412.14902](http://arxiv.org/abs/2412.14902)|null|
+|**2024-12-19**|**PsyDraw: A Multi-Agent Multimodal System for Mental Health Screening in Left-Behind Children**|Yiqun Zhang et.al.|[2412.14769](http://arxiv.org/abs/2412.14769)|**[link](https://github.com/LYiHub/psydraw)**|
+|**2024-12-19**|**A General Control Method for Human-Robot Integration**|Maddalena Feder et.al.|[2412.14762](http://arxiv.org/abs/2412.14762)|null|
+|**2024-12-19**|**Beyond the Hype: A Comprehensive Review of Current Trends in Generative AI Research, Teaching Practices, and Tools**|James Prather et.al.|[2412.14732](http://arxiv.org/abs/2412.14732)|null|
+|**2024-12-19**|**Creation of AI-driven Smart Spaces for Enhanced Indoor Environments -- A Survey**|Aygün Varol et.al.|[2412.14708](http://arxiv.org/abs/2412.14708)|null|
+|**2024-12-19**|**RefHCM: A Unified Model for Referring Perceptions in Human-Centric Scenarios**|Jie Huang et.al.|[2412.14643](http://arxiv.org/abs/2412.14643)|**[link](https://github.com/jjjymmm/refhcm)**|
+|**2024-12-19**|**Accelerated Patient-Specific Calibration via Differentiable Hemodynamics Simulations**|Diego Renner et.al.|[2412.14572](http://arxiv.org/abs/2412.14572)|null|
+|**2024-12-19**|**Global Spatio-Temporal Fusion-based Traffic Prediction Algorithm with Anomaly Aware**|Chaoqun Liu et.al.|[2412.14569](http://arxiv.org/abs/2412.14569)|null|
+|**2024-12-19**|**Dynamic User Interface Generation for Enhanced Human-Computer Interaction Using Variational Autoencoders**|Runsheng Zhang et.al.|[2412.14521](http://arxiv.org/abs/2412.14521)|null|
+|**2024-12-19**|**The Shape of Agency: Designing for Personal Agency in Qualitative Data Analysis**|Luka Ugaya Mazza et.al.|[2412.14481](http://arxiv.org/abs/2412.14481)|null|
+|**2024-12-18**|**Memorization Over Reasoning? Exposing and Mitigating Verbatim Memorization in Large Language Models' Character Understanding Evaluation**|Yuxuan Jiang et.al.|[2412.14368](http://arxiv.org/abs/2412.14368)|null|
+|**2024-12-18**|**Personalized Generative Low-light Image Denoising and Enhancement**|Xijun Wang et.al.|[2412.14327](http://arxiv.org/abs/2412.14327)|null|
+|**2024-12-18**|**The Effect of Age Introduced to Virtual Reality on Susceptibility to Motion Sickness**|Michael Abia et.al.|[2412.14225](http://arxiv.org/abs/2412.14225)|null|
+|**2024-12-19**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
 |**2024-12-18**|**Urban Scaling is hardwired in the human brain**|Airton Deppman et.al.|[2412.14134](http://arxiv.org/abs/2412.14134)|null|
 |**2024-12-18**|**What If: Causal Analysis with Graph Databases**|Amedeo Pachera et.al.|[2412.13965](http://arxiv.org/abs/2412.13965)|null|
 |**2024-12-18**|**Denoising Nearest Neighbor Graph via Continuous CRF for Visual Re-ranking without Fine-tuning**|Jaeyoon Kim et.al.|[2412.13875](http://arxiv.org/abs/2412.13875)|null|
@@ -1675,6 +1691,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|null|
+|**2024-12-19**|**LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks**|Yushi Bai et.al.|[2412.15204](http://arxiv.org/abs/2412.15204)|null|
+|**2024-12-19**|**MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark**|Qihao Zhao et.al.|[2412.15194](http://arxiv.org/abs/2412.15194)|null|
+|**2024-12-19**|**AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation**|Moayed Haji-Ali et.al.|[2412.15191](http://arxiv.org/abs/2412.15191)|null|
+|**2024-12-19**|**Face the Facts! Evaluating RAG-based Fact-checking Pipelines in Realistic Settings**|Daniel Russo et.al.|[2412.15189](http://arxiv.org/abs/2412.15189)|**[link](https://github.com/drusso98/face-the-facts)**|
+|**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188](http://arxiv.org/abs/2412.15188)|null|
+|**2024-12-19**|**Data for Mathematical Copilots: Better Ways of Presenting Proofs for Machine Learning**|Simon Frieder et.al.|[2412.15184](http://arxiv.org/abs/2412.15184)|null|
+|**2024-12-19**|**HPC-Coder-V2: Studying Code LLMs Across Low-Resource Parallel Languages**|Aman Chaturvedi et.al.|[2412.15178](http://arxiv.org/abs/2412.15178)|null|
+|**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177](http://arxiv.org/abs/2412.15177)|null|
+|**2024-12-19**|**Rethinking Uncertainty Estimation in Natural Language Generation**|Lukas Aichberger et.al.|[2412.15176](http://arxiv.org/abs/2412.15176)|null|
+|**2024-12-19**|**Prompt-A-Video: Prompt Your Video Diffusion Model via Preference-Aligned LLM**|Yatai Ji et.al.|[2412.15156](http://arxiv.org/abs/2412.15156)|**[link](https://github.com/jiyt17/prompt-a-video)**|
+|**2024-12-19**|**Language Models as Continuous Self-Evolving Data Engineers**|Peidong Wang et.al.|[2412.15151](http://arxiv.org/abs/2412.15151)|null|
+|**2024-12-19**|**Adaptive Pruning for Large Language Models with Structural Importance Awareness**|Haotian Zheng et.al.|[2412.15127](http://arxiv.org/abs/2412.15127)|null|
+|**2024-12-19**|**Outcome-Refining Process Supervision for Code Generation**|Zhuohao Yu et.al.|[2412.15118](http://arxiv.org/abs/2412.15118)|null|
+|**2024-12-19**|**Qwen2.5 Technical Report**|Qwen et.al.|[2412.15115](http://arxiv.org/abs/2412.15115)|null|
+|**2024-12-19**|**Associative memory inspires improvements for in-context learning using a novel attention residual stream architecture**|Thomas F Burns et.al.|[2412.15113](http://arxiv.org/abs/2412.15113)|**[link](https://github.com/tfburns/amicl-and-residual-attention-streams)**|
+|**2024-12-19**|**Review-Then-Refine: A Dynamic Framework for Multi-Hop Question Answering with Temporal Adaptability**|Xiangsen Chen et.al.|[2412.15101](http://arxiv.org/abs/2412.15101)|null|
+|**2024-12-19**|**Nano-ESG: Extracting Corporate Sustainability Information from News Articles**|Fabian Billert et.al.|[2412.15093](http://arxiv.org/abs/2412.15093)|null|
+|**2024-12-19**|**ScamChatBot: An End-to-End Analysis of Fake Account Recovery on Social Media via Chatbots**|Bhupendra Acharya et.al.|[2412.15072](http://arxiv.org/abs/2412.15072)|null|
+|**2024-12-19**|**ConfliBERT: A Language Model for Political Conflict**|Patrick T. Brandt et.al.|[2412.15060](http://arxiv.org/abs/2412.15060)|**[link](https://github.com/eventdata/conflibert)**|
 |**2024-12-18**|**Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces**|Jihan Yang et.al.|[2412.14171](http://arxiv.org/abs/2412.14171)|**[link](https://github.com/vision-x-nyu/thinking-in-space)**|
 |**2024-12-18**|**MetaMorph: Multimodal Understanding and Generation via Instruction Tuning**|Shengbang Tong et.al.|[2412.14164](http://arxiv.org/abs/2412.14164)|null|
 |**2024-12-18**|**TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks**|Frank F. Xu et.al.|[2412.14161](http://arxiv.org/abs/2412.14161)|**[link](https://github.com/theagentcompany/experiments)**|
@@ -3802,9 +3838,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-18**|**E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling**|Zhihang Yuan et.al.|[2412.14170](http://arxiv.org/abs/2412.14170)|null|
+|**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213](http://arxiv.org/abs/2412.15213)|null|
+|**2024-12-19**|**FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching**|Sucheng Ren et.al.|[2412.15205](http://arxiv.org/abs/2412.15205)|**[link](https://github.com/oliverrensu/flowar)**|
+|**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188](http://arxiv.org/abs/2412.15188)|null|
+|**2024-12-19**|**Tiled Diffusion**|Or Madar et.al.|[2412.15185](http://arxiv.org/abs/2412.15185)|null|
+|**2024-12-19**|**DCTdiff: Intriguing Properties of Image Generative Modeling in the DCT Space**|Mang Ning et.al.|[2412.15032](http://arxiv.org/abs/2412.15032)|**[link](https://github.com/forever208/dctdiff)**|
+|**2024-12-19**|**MagicNaming: Consistent Identity Generation by Finding a "Name Space" in T2I Diffusion Models**|Jing Zhao et.al.|[2412.14902](http://arxiv.org/abs/2412.14902)|null|
+|**2024-12-19**|**Qua $^2$ SeDiMo: Quantifiable Quantization Sensitivity of Diffusion Models**|Keith G. Mills et.al.|[2412.14628](http://arxiv.org/abs/2412.14628)|null|
+|**2024-12-19**|**DiffusionTrend: A Minimalist Approach to Virtual Fashion Try-On**|Wengyi Zhan et.al.|[2412.14465](http://arxiv.org/abs/2412.14465)|null|
+|**2024-12-19**|**LEDiff: Latent Exposure Diffusion for HDR Generation**|Chao Wang et.al.|[2412.14456](http://arxiv.org/abs/2412.14456)|null|
+|**2024-12-19**|**IntroStyle: Training-Free Introspective Style Attribution using Diffusion Features**|Anand Kumar et.al.|[2412.14432](http://arxiv.org/abs/2412.14432)|null|
+|**2024-12-19**|**Enhancing Diffusion Models for High-Quality Image Generation**|Jaineet Shah et.al.|[2412.14422](http://arxiv.org/abs/2412.14422)|null|
+|**2024-12-19**|**Comparing noisy neural population dynamics using optimal transport distances**|Amin Nejatbakhsh et.al.|[2412.14421](http://arxiv.org/abs/2412.14421)|null|
+|**2024-12-18**|**Surrealistic-like Image Generation with Vision-Language Models**|Elif Ayten et.al.|[2412.14366](http://arxiv.org/abs/2412.14366)|null|
+|**2024-12-19**|**E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling**|Zhihang Yuan et.al.|[2412.14170](http://arxiv.org/abs/2412.14170)|null|
 |**2024-12-18**|**Autoregressive Video Generation without Vector Quantization**|Haoge Deng et.al.|[2412.14169](http://arxiv.org/abs/2412.14169)|**[link](https://github.com/baaivision/nova)**|
-|**2024-12-18**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
+|**2024-12-19**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
 |**2024-12-18**|**VideoDPO: Omni-Preference Alignment for Video Diffusion Generation**|Runtao Liu et.al.|[2412.14167](http://arxiv.org/abs/2412.14167)|null|
 |**2024-12-18**|**Adversarial Hubness in Multi-Modal Retrieval**|Tingwei Zhang et.al.|[2412.14113](http://arxiv.org/abs/2412.14113)|**[link](https://github.com/tingwei-zhang/adv_hub)**|
 |**2024-12-18**|**What makes a good metric? Evaluating automatic metrics for text-to-image consistency**|Candace Ross et.al.|[2412.13989](http://arxiv.org/abs/2412.13989)|null|
