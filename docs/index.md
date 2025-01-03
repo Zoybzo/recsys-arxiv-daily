@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.02
+## Updated on 2025.01.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RecSys
@@ -1788,7 +1788,7 @@ layout: default
 |**2024-12-30**|**Automated Robustness Testing for LLM-based NLP Software**|Mingxuan Xiao et.al.|[2412.21016](http://arxiv.org/abs/2412.21016)|null|
 |**2024-12-30**|**MapQaTor: A System for Efficient Annotation of Map Query Datasets**|Mahir Labib Dihan et.al.|[2412.21015](http://arxiv.org/abs/2412.21015)|**[link](https://github.com/MapQaTor/.github/tree/main/profile)**|
 |**2024-12-30**|**Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria**|Joonwon Jang et.al.|[2412.21006](http://arxiv.org/abs/2412.21006)|null|
-|**2024-12-30**|**LEASE: Offline Preference-based Reinforcement Learning with High Sample Efficiency**|Xiao-Yin Liu et.al.|[2412.21001](http://arxiv.org/abs/2412.21001)|null|
+|**2024-12-30**|**LEASE: Offline Preference-based Reinforcement Learning with High Sample Efficiency**|Xiao-Yin Liu et.al.|[2412.21001](http://arxiv.org/abs/2412.21001)|**[link](https://github.com/xiaoyinliu0714/LEASE)**|
 |**2024-12-30**|**Plug-and-Play Training Framework for Preference Optimization**|Jingyuan Ma et.al.|[2412.20996](http://arxiv.org/abs/2412.20996)|null|
 |**2024-12-30**|**KARPA: A Training-free Method of Adapting Knowledge Graph as References for Large Language Model's Reasoning Path Aggregation**|Siyuan Fang et.al.|[2412.20995](http://arxiv.org/abs/2412.20995)|null|
 |**2024-12-30**|**Efficiently Serving LLM Reasoning Programs with Certaindex**|Yichao Fu et.al.|[2412.20993](http://arxiv.org/abs/2412.20993)|null|
