@@ -14,7 +14,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-02**|**Free-Form Motion Control: A Synthetic Video Generation Dataset with Controllable Camera and Object Motions**|Xincheng Shuai et.al.|[2501.01425](http://arxiv.org/abs/2501.01425)|null|
+|**2025-01-03**|**ANTHROPOS-V: benchmarking the novel task of Crowd Volume Estimation**|Luca Collorone et.al.|[2501.01877](http://arxiv.org/abs/2501.01877)|null|
+|**2025-01-03**|**Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification**|Xiangxiang Dai et.al.|[2501.01849](http://arxiv.org/abs/2501.01849)|null|
+|**2025-01-03**|**Dedicated Inference Engine and Binary-Weight Neural Networks for Lightweight Instance Segmentation**|Tse-Wei Chen et.al.|[2501.01841](http://arxiv.org/abs/2501.01841)|null|
+|**2025-01-03**|**Uncertainty-Aware Label Refinement on Hypergraphs for Personalized Federated Facial Expression Recognition**|Hu Ding et.al.|[2501.01816](http://arxiv.org/abs/2501.01816)|null|
+|**2025-01-03**|**Ingredients: Blending Custom Photos with Video Diffusion Transformers**|Zhengcong Fei et.al.|[2501.01790](http://arxiv.org/abs/2501.01790)|null|
+|**2025-01-03**|**From Occasional to Steady: Habit Formation Insights From a Comprehensive Fitness Study**|Ege Demirci et.al.|[2501.01779](http://arxiv.org/abs/2501.01779)|null|
+|**2025-01-03**|**SaLoRA: Safety-Alignment Preserved Low-Rank Adaptation**|Mingjie Li et.al.|[2501.01765](http://arxiv.org/abs/2501.01765)|null|
+|**2025-01-03**|**The Essence of Contextual Understanding in Theory of Mind: A Study on Question Answering with Story Characters**|Chulun Zhou et.al.|[2501.01705](http://arxiv.org/abs/2501.01705)|null|
+|**2025-01-03**|**Controlling your Attributes in Voice**|Xuyuan Li et.al.|[2501.01674](http://arxiv.org/abs/2501.01674)|null|
+|**2025-01-03**|**Look Back for More: Harnessing Historical Sequential Updates for Personalized Federated Adapter Tuning**|Danni Peng et.al.|[2501.01653](http://arxiv.org/abs/2501.01653)|null|
+|**2025-01-03**|**Artificial Intelligent Implications on Health Data Privacy and Confidentiality**|Ahmad Momani et.al.|[2501.01639](http://arxiv.org/abs/2501.01639)|null|
+|**2025-01-03**|**(WhyPHI) Fine-Tuning PHI-3 for Multiple-Choice Question Answering: Methodology, Results, and Challenges**|Mohamed Hisham Abdellatif et.al.|[2501.01588](http://arxiv.org/abs/2501.01588)|null|
+|**2025-01-02**|**Review Article: Integral Role of Physics in Advancing Pharmacy Education and Research**|İzzet Sakallı et.al.|[2501.01527](http://arxiv.org/abs/2501.01527)|null|
+|**2025-01-03**|**Free-Form Motion Control: A Synthetic Video Generation Dataset with Controllable Camera and Object Motions**|Xincheng Shuai et.al.|[2501.01425](http://arxiv.org/abs/2501.01425)|null|
 |**2025-01-02**|**Nested Attention: Semantic-aware Attention Values for Concept Personalization**|Or Patashnik et.al.|[2501.01407](http://arxiv.org/abs/2501.01407)|null|
 |**2025-01-02**|**Real-time Cross-modal Cybersickness Prediction in Virtual Reality**|Yitong Zhu et.al.|[2501.01212](http://arxiv.org/abs/2501.01212)|null|
 |**2025-01-02**|**Sensitivity of Room Impulse Responses in Changing Acoustic Environment**|Karolina Prawda et.al.|[2501.01206](http://arxiv.org/abs/2501.01206)|null|
@@ -1787,6 +1800,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**|Chaoyou Fu et.al.|[2501.01957](http://arxiv.org/abs/2501.01957)|null|
+|**2025-01-03**|**Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap**|Weizhi Zhang et.al.|[2501.01945](http://arxiv.org/abs/2501.01945)|null|
+|**2025-01-03**|**Virgo: A Preliminary Exploration on Reproducing o1-like MLLM**|Yifan Du et.al.|[2501.01904](http://arxiv.org/abs/2501.01904)|null|
+|**2025-01-03**|**Turning Logic Against Itself : Probing Model Defenses Through Contrastive Questions**|Rachneet Sachdeva et.al.|[2501.01872](http://arxiv.org/abs/2501.01872)|null|
+|**2025-01-03**|**Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification**|Xiangxiang Dai et.al.|[2501.01849](http://arxiv.org/abs/2501.01849)|null|
+|**2025-01-03**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
+|**2025-01-03**|**Time Series Language Model for Descriptive Caption Generation**|Mohamed Trabelsi et.al.|[2501.01832](http://arxiv.org/abs/2501.01832)|null|
+|**2025-01-03**|**Auto-RT: Automatic Jailbreak Strategy Exploration for Red-Teaming Large Language Models**|Yanjiang Liu et.al.|[2501.01830](http://arxiv.org/abs/2501.01830)|null|
+|**2025-01-03**|**SDPO: Segment-Level Direct Preference Optimization for Social Agents**|Aobo Kong et.al.|[2501.01821](http://arxiv.org/abs/2501.01821)|null|
+|**2025-01-03**|**Rerouting LLM Routers**|Avital Shafran et.al.|[2501.01818](http://arxiv.org/abs/2501.01818)|null|
+|**2025-01-03**|**Creating Artificial Students that Never Existed: Leveraging Large Language Models and CTGANs for Synthetic Data Generation**|Mohammad Khalil et.al.|[2501.01793](http://arxiv.org/abs/2501.01793)|null|
+|**2025-01-03**|**Efficient LLM Inference with Activation Checkpointing and Hybrid Caching**|Sanghyeon Lee et.al.|[2501.01792](http://arxiv.org/abs/2501.01792)|null|
+|**2025-01-03**|**SaLoRA: Safety-Alignment Preserved Low-Rank Adaptation**|Mingjie Li et.al.|[2501.01765](http://arxiv.org/abs/2501.01765)|null|
+|**2025-01-03**|**Automating Legal Concept Interpretation with LLMs: Retrieval, Generation, and Evaluation**|Kangcheng Luo et.al.|[2501.01743](http://arxiv.org/abs/2501.01743)|null|
+|**2025-01-03**|**How Toxic Can You Get? Search-based Toxicity Testing for Large Language Models**|Simone Corbo et.al.|[2501.01741](http://arxiv.org/abs/2501.01741)|null|
+|**2025-01-03**|**Interpretable Face Anti-Spoofing: Enhancing Generalization with Multimodal Large Language Models**|Guosheng Zhang et.al.|[2501.01720](http://arxiv.org/abs/2501.01720)|null|
+|**2025-01-03**|**LLMs & Legal Aid: Understanding Legal Needs Exhibited Through User Queries**|Michal Kuk et.al.|[2501.01711](http://arxiv.org/abs/2501.01711)|null|
+|**2025-01-03**|**Enhancing Large Vision Model in Street Scene Semantic Understanding through Leveraging Posterior Optimization Trajectory**|Wei-Bin Kou et.al.|[2501.01710](http://arxiv.org/abs/2501.01710)|null|
+|**2025-01-03**|**The Essence of Contextual Understanding in Theory of Mind: A Study on Question Answering with Story Characters**|Chulun Zhou et.al.|[2501.01705](http://arxiv.org/abs/2501.01705)|null|
+|**2025-01-03**|**AgentRefine: Enhancing Agent Generalization through Refinement Tuning**|Dayuan Fu et.al.|[2501.01702](http://arxiv.org/abs/2501.01702)|null|
 |**2025-01-02**|**Unifying Specialized Visual Encoders for Video Language Models**|Jihoon Chung et.al.|[2501.01426](http://arxiv.org/abs/2501.01426)|null|
 |**2025-01-02**|**OmniChat: Enhancing Spoken Dialogue Systems with Scalable Synthetic Data for Diverse Scenarios**|Xize Cheng et.al.|[2501.01384](http://arxiv.org/abs/2501.01384)|null|
 |**2025-01-02**|**ViGiL3D: A Linguistically Diverse Dataset for 3D Visual Grounding**|Austin T. Wang et.al.|[2501.01366](http://arxiv.org/abs/2501.01366)|null|
@@ -4052,7 +4085,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-02**|**Free-Form Motion Control: A Synthetic Video Generation Dataset with Controllable Camera and Object Motions**|Xincheng Shuai et.al.|[2501.01425](http://arxiv.org/abs/2501.01425)|null|
+|**2025-01-03**|**Controlling your Attributes in Voice**|Xuyuan Li et.al.|[2501.01674](http://arxiv.org/abs/2501.01674)|null|
+|**2025-01-03**|**ACE: Anti-Editing Concept Erasure in Text-to-Image Models**|Zihao Wang et.al.|[2501.01633](http://arxiv.org/abs/2501.01633)|null|
+|**2025-01-03**|**Free-Form Motion Control: A Synthetic Video Generation Dataset with Controllable Camera and Object Motions**|Xincheng Shuai et.al.|[2501.01425](http://arxiv.org/abs/2501.01425)|null|
 |**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424](http://arxiv.org/abs/2501.01424)|null|
 |**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409](http://arxiv.org/abs/2501.01409)|null|
 |**2025-01-02**|**Nested Attention: Semantic-aware Attention Values for Concept Personalization**|Or Patashnik et.al.|[2501.01407](http://arxiv.org/abs/2501.01407)|null|
