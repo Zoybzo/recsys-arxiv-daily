@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.09
+## Updated on 2025.01.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1846,7 +1846,7 @@
 |**2024-07-08**|**CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation**|Xinying Guo et.al.|[2407.06188](http://arxiv.org/abs/2407.06188)|null|
 |**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187](http://arxiv.org/abs/2407.06187)|null|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
 
 ## LLM
 
@@ -1856,7 +1856,7 @@
 |**2025-01-08**|**EpiCoder: Encompassing Diversity and Complexity in Code Generation**|Yaoxiang Wang et.al.|[2501.04694](http://arxiv.org/abs/2501.04694)|null|
 |**2025-01-08**|**Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding**|Joshua Jones et.al.|[2501.04693](http://arxiv.org/abs/2501.04693)|null|
 |**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|null|
-|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Though**|Violet Xiang et.al.|[2501.04682](http://arxiv.org/abs/2501.04682)|null|
+|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**|Violet Xiang et.al.|[2501.04682](http://arxiv.org/abs/2501.04682)|null|
 |**2025-01-08**|**Enhancing Financial VQA in Vision Language Models using Intermediate Structured Representations**|Archita Srivastava et.al.|[2501.04675](http://arxiv.org/abs/2501.04675)|null|
 |**2025-01-08**|**Are They the Same? Exploring Visual Correspondence Shortcomings of Multimodal LLMs**|Yikang Zhou et.al.|[2501.04670](http://arxiv.org/abs/2501.04670)|**[link](https://github.com/zhouyiks/colva)**|
 |**2025-01-08**|**Assessing Language Comprehension in Large Language Models Using Construction Grammar**|Wesley Scivetti et.al.|[2501.04661](http://arxiv.org/abs/2501.04661)|null|
@@ -4193,7 +4193,7 @@
 |**2024-07-09**|**Who is better at math, Jenny or Jingzhen? Uncovering Stereotypes in Large Language Models**|Zara Siddique et.al.|[2407.06917](http://arxiv.org/abs/2407.06917)|null|
 |**2024-07-09**|**Fine-grained large-scale content recommendations for MSX sellers**|Manpreet Singh et.al.|[2407.06910](http://arxiv.org/abs/2407.06910)|null|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
 
 ## Image Genration
 
@@ -5474,7 +5474,7 @@
 |**2024-07-07**|**Topological Persistence Guided Knowledge Distillation for Wearable Sensor Data**|Eun Som Jeon et.al.|[2407.05315](http://arxiv.org/abs/2407.05315)|null|
 |**2024-07-07**|**An Improved Method for Personalizing Diffusion Models**|Yan Zeng et.al.|[2407.05312](http://arxiv.org/abs/2407.05312)|null|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
